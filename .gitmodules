@@ -1,6 +1,0 @@
-[submodule "src/phonedo_i18n"]
-	path = src/phonedo_i18n
-	url = https://gitlab-ci-token:Qzvmya4WqAqtTN5js1tW@gitlab.com/riverwaysoft/rebelbee/phonedo_project/phonedo_i18n.git
-[submodule "src/riveradmin"]
-	path = src/riveradmin
-	url = https://gitlab-ci-token:Qzvmya4WqAqtTN5js1tW@gitlab.com/riverwaysoft/internal/riveradmin.git
