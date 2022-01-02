@@ -1,0 +1,50 @@
+.sidenav {
+  height: 92.1vh;
+  width: 16vw;
+  position: fixed;
+  z-index: 1;
+  top: 7.9vh;
+  left: 0;
+  background-color: #171725;
+  overflow-x: hidden;
+}
+
+.sidenav div {
+  padding: 0.6vw 0.6vw 1vw 0.6vw;
+  text-decoration: none;
+  font-size: 2vw;
+  color: #e8ecef;
+  display: block;
+  cursor: pointer;
+}
+
+.sidebarTxtSelect,
+.sidebarTxt:hover {
+  background: #3dd598;
+  color: #ffff !important;
+}
+
+.icon {
+  margin: 0.5vw 1vw -0.5vw 0.5vw;
+  background-color: transparent;
+  border: none !important;
+  padding: 0.5vw;
+}
+
+.sidebarTxtSelect .icon {
+  border: 0.15vw solid #ffffff !important;
+  box-sizing: border-box;
+  border-radius: 0.6vw;
+}
+
+.separator-line {
+  border: 0.1vh #98a9bc solid;
+  padding: 0vw !important;
+  width: 17vw;
+  left: 0vw;
+  position: absolute;
+}
+
+.margin {
+  margin: 1vw !important;
+}

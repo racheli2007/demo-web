@@ -1,0 +1,109 @@
+.login-form {
+  margin-left: 10vw;
+  margin-top: 16vh;
+  background-color: #ffffff;
+  width: 28vw;
+  
+}
+
+.login-form h3 {
+  margin-top: 5vh !important;
+  line-height: 3vh;
+  color: #98a9bc;
+  font-weight: 500;
+  font-size: smaller;
+}
+
+.login-form h1 {
+  margin-top: 5vh !important;
+  line-height: 3vh;
+  color: #171725;
+  font-weight: 500;
+  font-size: 2vw;
+}
+
+.login-form label {
+  color: #171725;
+}
+
+.login-form button {
+  background: transparent !important;
+  border: 1px solid #e8ecef;
+  box-sizing: border-box;
+  border-radius: 4px;
+  margin-bottom: 2vh;
+  margin-top: 2vh;
+  width: 100%;
+  height: 9vh;
+}
+
+.login-form button {
+  background: #3dd598 !important;
+}
+.login-form button:disabled {
+  background: #e8ecef !important;
+}
+.login-form button:disabled:hover {
+  color: #3dd598 !important;
+}
+.login-form img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.login-form input[type="checkbox"] {
+  position: relative;
+  width: 0vw;
+  height: 0vw;
+  float: left;
+  margin-right: 2vw;
+}
+
+.login-form input[type="checkbox"]:before {
+  content: "";
+  display: block;
+  width: 17px;
+  height: 17px;
+  border: 1px solid #3dd598;
+  border-radius: 50%;
+}
+
+.login-form [type="checkbox"]:checked:after {
+  content: "";
+  display: block;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background-color: #3dd598;
+}
+.login-form .field {
+  margin: 2vw 0vw 0vw 0vw;
+}
+
+.right-side-img {
+    width: 53vw !important;
+    position: absolute !important;
+    left: 47vw !important;
+    top: 0vh !important;
+    height: 100% !important;
+    z-index: -1 !important;
+}
+
+.right-side{
+    border-radius: 0vw 3vw 3vw 0vw;
+    background-color: white;
+    width: 50vw;
+    height: 100% !important;
+    position: absolute;
+  }
+
+  .eyeIcon{
+    height: 25px;
+    width: 25px !important;
+    cursor: pointer;
+  }

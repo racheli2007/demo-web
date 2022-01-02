@@ -1,0 +1,7164 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: phonedo\n"
+"Language: en\n"
+
+#: 
+msgid "Home"
+msgstr "Home"
+
+#: 
+msgid "Leads"
+msgstr "Leads"
+
+#: 
+msgid "Account"
+msgstr "Account"
+
+#: 
+#, fuzzy
+msgid "Sign in"
+msgstr "Sign in"
+
+#: 
+msgid "Phone"
+msgstr "Phone"
+
+#: 
+msgid "Password"
+msgstr "Password"
+
+#: 
+msgid "Login"
+msgstr "Login"
+
+#: 
+#, fuzzy
+msgid "Don't have an account?"
+msgstr "Don't have an account?"
+
+#: 
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: 
+#, fuzzy
+msgid "Phone is required"
+msgstr "Phone is required"
+
+#: 
+msgid "Password is required"
+msgstr "Password is required"
+
+#: 
+msgid "Name is required"
+msgstr "Name is required"
+
+#: 
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgid "Already have an Account?"
+msgstr "Already have an Account?"
+
+#: 
+msgid "Phone number"
+msgstr "Phone number"
+
+#: 
+msgid "Industries"
+msgstr "Industries"
+
+#: 
+msgid "Languages"
+msgstr "Languages"
+
+#: 
+msgid "Education"
+msgstr "Education"
+
+#: 
+msgid "Payment method"
+msgstr "Payment method"
+
+#: 
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgid "Notifications and sounds"
+msgstr "Notifications and sounds"
+
+#: 
+msgid "Security and privacy"
+msgstr "Security and privacy"
+
+#: 
+msgid "Logout"
+msgstr "Logout"
+
+#: src/domain/hotline/hotline-scripts/script-survey/script-survey-question.tsx:72
+msgid "Add answer option"
+msgstr "Add answer option"
+
+#: src/domain/hotline/hotline-page/hotline-page-header.tsx:49
+msgid "Add simple script"
+msgstr "Add simple script"
+
+#: src/domain/hotline/hotline-page/hotline-page-header.tsx:56
+msgid "Add survey script"
+msgstr "Add survey script"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:39
+msgid "Calendar is not setup"
+msgstr "Calendar is not setup"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:58
+msgid "Choose calendar for import"
+msgstr "Choose calendar for import"
+
+#: src/domain/queue/queue-page/queue-page.tsx:20
+msgid "Edit Queue “Default music”"
+msgstr "Edit Queue “Default music”"
+
+#: src/domain/hotline/hotline-requirements/hotline-requirements.tsx:76
+msgid "Education degree"
+msgstr "Education degree"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:70
+msgid "Import"
+msgstr "Import"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:42
+msgid "Import data from your Google calendar"
+msgstr "Import data from your Google calendar"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:84
+msgid "Importing data will take some time"
+msgstr "Importing data will take some time"
+
+#: src/domain/hotline/hotline-requirements/hotline-requirements.tsx:42
+msgid "Language level"
+msgstr "Language level"
+
+#: src/domain/profile/language-page/language-page.tsx:22
+msgid "Language view"
+msgstr "Language view"
+
+#: src/domain/queue/queue-page/queue-page.tsx:25
+msgid "Music on hold"
+msgstr "Music on hold"
+
+#: src/domain/lead/lead-list/lead-list.tsx:72
+msgid "No assigned appointment"
+msgstr "No assigned appointment"
+
+#: src/domain/layout/layout.tsx:55
+msgid "Not found"
+msgstr "Not found"
+
+#: src/domain/hotline/hotline-scripts/script-survey/script-survey.tsx:50
+msgid "Save script"
+msgstr "Save script"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:45
+msgid "Start import"
+msgstr "Start import"
+
+#: src/domain/profile/language-page/language-page.tsx:32
+msgid "System language"
+msgstr "System language"
+
+#: src/domain/appointment/appointment-calendar-toolbar/appointment-calendar-toolbar.tsx:20
+msgid "Today"
+msgstr "Today"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:28
+msgid "Unlink calendar and clear data"
+msgstr "Unlink calendar and clear data"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:87
+msgid "We will inform you when everything is ready"
+msgstr "We will inform you when everything is ready"
+
+#: 
+msgctxt "user"
+msgid "Hello, {user}"
+msgstr "Hello, {user}"
+
+#: 
+msgid "Incoming call"
+msgstr "Incoming call"
+
+#: 
+msgid "New"
+msgstr "New"
+
+#: 
+msgid "Clients"
+msgstr "Clients"
+
+#: 
+msgid "Incoming calls"
+msgstr "Incoming calls"
+
+#: 
+msgid "Cdr"
+msgstr "Cdr"
+
+#: 
+msgid "Allocated numbers"
+msgstr "Allocated numbers"
+
+#: 
+msgid "Hotlines"
+msgstr "Hotlines"
+
+#: 
+msgid "Products"
+msgstr "Products"
+
+#: 
+msgid "Queue"
+msgstr "Queue"
+
+#: 
+msgid "Appointment"
+msgstr "Appointment"
+
+#: 
+msgid "Profile"
+msgstr "Profile"
+
+#: 
+msgid "Currency"
+msgstr "Currency"
+
+#: 
+msgid "Company details"
+msgstr "Company details"
+
+#: 
+msgid "Application language"
+msgstr "Application language"
+
+#: 
+msgid "Product catalog"
+msgstr "Product catalog"
+
+#: 
+msgid "Modules"
+msgstr "Modules"
+
+#: 
+#, fuzzy
+msgid "Basic"
+msgstr "Basic"
+
+#: 
+msgid "Intermediate"
+msgstr "Intermediate"
+
+#: 
+msgid "Advanced"
+msgstr "Advanced"
+
+#: 
+#, fuzzy
+msgid "End call"
+msgstr "End call"
+
+#: 
+msgid "Country"
+msgstr "Country"
+
+#: 
+msgid "Address"
+msgstr "Address"
+
+#: 
+msgid "Industry"
+msgstr "Industry"
+
+#: 
+msgid "Departments"
+msgstr "Departments"
+
+#: 
+msgid "Scripts"
+msgstr "Scripts"
+
+#: 
+msgid "Business"
+msgstr "Business"
+
+#: 
+msgid "Client"
+msgstr "Client"
+
+#: 
+msgid "Actions"
+msgstr "Actions"
+
+#: 
+msgid "Call is already taken"
+msgstr "Call is already taken"
+
+#: 
+msgid "Be faster next time!"
+msgstr "Be faster next time!"
+
+#: 
+msgid "Ok, got it"
+msgstr "Ok, got it"
+
+#: 
+msgid "New Client"
+msgstr "New Client"
+
+#: 
+msgid "Information"
+msgstr "Information"
+
+#: 
+msgid "Surname"
+msgstr "Surname"
+
+#: 
+msgid "Answers"
+msgstr "Answers"
+
+#: 
+msgid "Loading"
+msgstr "Loading"
+
+#: 
+msgid "Other scripts"
+msgstr "Other scripts"
+
+#: 
+#, fuzzy
+msgid "Client's answer"
+msgstr "Client's answer"
+
+#: 
+msgid "Calendar"
+msgstr "Calendar"
+
+#: 
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgid "Title"
+msgstr "Title"
+
+#: 
+#, fuzzy
+msgid "date From"
+msgstr "From"
+
+#: 
+msgid "date To"
+msgstr "To"
+
+#: 
+msgid "Comment"
+msgstr "Comment"
+
+#: 
+msgid "Event title cannot be empty"
+msgstr "Event title cannot be empty"
+
+#: 
+msgid "Lead details"
+msgstr "Lead details"
+
+#: 
+msgid "module.scheduleMeeting.description"
+msgstr "Schedule meeting is a module that allows you to schedule meetings"
+
+#: 
+msgid "module.productCatalog.description"
+msgstr "Product catalog module description"
+
+#: 
+msgid "Take your call from anywhere"
+msgstr "Take your call from anywhere"
+
+#: 
+msgid "Phonedo operates worldwide."
+msgstr "Phone.do operates worldwide."
+
+#: 
+msgid "It is a global brokerage platform that connects between hundreds of thousands of businesses and millions of agents."
+msgstr "It is a global brokerage platform that connects between hundreds of thousands of businesses and millions of agents."
+
+#: 
+msgid "Register"
+msgstr "Register"
+
+#: 
+msgid "Country & phone number"
+msgstr "Country & phone number"
+
+#: 
+msgid "Selected country"
+msgstr "Selected country"
+
+#: 
+msgid "Select country"
+msgstr "Select country"
+
+#: 
+msgid "Code"
+msgstr "Code"
+
+#: 
+msgid "Choose your country"
+msgstr "Choose your country"
+
+#: 
+msgid "Get code"
+msgstr "Get code"
+
+#: 
+msgid "Security code"
+msgstr "Security code"
+
+#: 
+msgid "Enter the 6 digit code sent to your phone"
+msgstr "Enter the 6 digit code sent to your phone"
+
+#: 
+msgid "Next"
+msgstr "Next"
+
+#: 
+msgid "Enter Phonedo"
+msgstr "Enter Phonedo"
+
+#: 
+msgid "Answer"
+msgstr "Answer"
+
+#: 
+#, fuzzy
+msgid "Bachelor's Degree"
+msgstr "Bachelor's Degree"
+
+#: 
+#, fuzzy
+msgid "Master's Degree"
+msgstr "Master's Degree"
+
+#: 
+msgid "Dr."
+msgstr "Dr."
+
+#: 
+msgid "Professor"
+msgstr "Professor"
+
+#: 
+msgid "module.stuffMember.description"
+msgstr "Stuff members module"
+
+#: 
+msgid "module.places.description"
+msgstr "Places module"
+
+#: 
+msgid "module.faq.description"
+msgstr "FAQ module"
+
+#: 
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+#: 
+#, fuzzy
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: 
+msgid "Calls"
+msgstr "Calls"
+
+#: 
+msgid "Billing"
+msgstr "Billing"
+
+#: 
+msgid "Support"
+msgstr "Support"
+
+#: 
+msgid "Not rated yet"
+msgstr "Not rated yet"
+
+#: 
+msgid "History"
+msgstr "History"
+
+#: 
+msgid "Withdrawals"
+msgstr "Withdrawals"
+
+#: 
+msgid "Balance"
+msgstr "Balance"
+
+#: 
+msgid "Call"
+msgstr "Call"
+
+#: 
+msgid "Call details"
+msgstr "Call details"
+
+#: 
+msgid "Your stats"
+msgstr "Your stats"
+
+#: 
+msgid "Average rating"
+msgstr "Average rating"
+
+#: 
+msgid "view details"
+msgstr "view details"
+
+#: 
+msgid "Your stats details"
+msgstr "Your stats details"
+
+#: 
+msgid "Service level"
+msgstr "Service level"
+
+#: 
+msgid "Customer satisfaction"
+msgstr "Customer satisfaction"
+
+#: 
+msgid "Phonedo support"
+msgstr "Phonedo support"
+
+#: 
+msgid "Live chat Support"
+msgstr "Live chat Support"
+
+#: 
+msgid "Contact Us by Email"
+msgstr "Contact Us by Email"
+
+#: 
+msgid "Could not launch"
+msgstr "Could not launch"
+
+#: 
+msgid "incl. bonus"
+msgstr "incl. bonus"
+
+#: 
+msgid "Greeting message"
+msgstr "Greeting message"
+
+#: 
+#, fuzzy
+msgid "Profile updated"
+msgstr "Profile updated"
+
+#: 
+msgid "Add payment method"
+msgstr "Add payment method"
+
+#: 
+msgid "yes"
+msgstr "yes"
+
+#: 
+msgid "no"
+msgstr "no"
+
+#: 
+msgid "Hotline details"
+msgstr "Hotline details"
+
+#: 
+msgid "About us"
+msgstr "About us"
+
+#: 
+msgid "Please enter valid email"
+msgstr "Please enter valid email"
+
+#: 
+msgid "Please enter your name and Email"
+msgstr "Please enter your name and Email"
+
+#: 
+msgid "Please enter a password"
+msgstr "Please enter a password"
+
+#: 
+msgid "Please enter your phone number"
+msgstr "Please enter your phone number"
+
+#: 
+msgid "This phone is already registered"
+msgstr "This phone is already registered"
+
+#: 
+msgid "Catalog"
+msgstr "Catalog"
+
+#: 
+msgid "Price"
+msgstr "Price"
+
+#: 
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgid "product"
+msgstr "product"
+
+#: 
+msgid "service"
+msgstr "service"
+
+#: 
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgid "Done"
+msgstr "Done"
+
+#: 
+msgid "Events"
+msgstr "Events"
+
+#: 
+msgid "Event manager"
+msgstr "Event manager"
+
+#: 
+msgid "Add participant"
+msgstr "Add participant"
+
+#: 
+msgid "Q&A"
+msgstr "Q&A"
+
+#: 
+msgid "Change password"
+msgstr "Change password"
+
+#: 
+msgid "Name & Email"
+msgstr "Name & Email"
+
+#: 
+msgid "Create a password to secure your account"
+msgstr "Create a password to secure your account"
+
+#: 
+msgid "Website"
+msgstr "Website"
+
+#: 
+msgid "Organization Summary"
+msgstr "Organization Summary"
+
+#: 
+msgid "Company Purpose"
+msgstr "Company Purpose"
+
+#: 
+msgid "Board Director"
+msgstr "Board Director"
+
+#: 
+msgid "VAT Number"
+msgstr "VAT Number"
+
+#: 
+msgid "Preferences"
+msgstr "Preferences"
+
+#: 
+msgid "Social media"
+msgstr "Social media"
+
+#: 
+msgid "Working hours & days"
+msgstr "Working hours & days"
+
+#: 
+msgid "Work experience"
+msgstr "Work experience"
+
+#: 
+msgid "Sales person"
+msgstr "Experience in sales"
+
+#: 
+msgid "Error"
+msgstr "Error"
+
+#: 
+msgid "Setup your working hours and days"
+msgstr "Setup your working hours and days"
+
+#: 
+msgid "Employments"
+msgstr "Employments"
+
+#: 
+msgid "Experience in sale"
+msgstr "Experience in sale"
+
+#: 
+msgid "Time period"
+msgstr "Time period"
+
+#: 
+msgid "Profession"
+msgstr "Profession"
+
+#: 
+msgid "Position"
+msgstr "Position"
+
+#: 
+msgid "Do you have sales experience"
+msgstr "Do you have sales experience?"
+
+#: 
+msgid "At least 2 years experience"
+msgstr "At least 2 years experience"
+
+#: 
+msgid "How do you prefer to work"
+msgstr "How do you prefer to work"
+
+#: 
+msgid "Work from home"
+msgstr "Work from home"
+
+#: 
+msgid "Work in a shared workspace"
+msgstr "Work in a shared workspace"
+
+#: 
+msgid "Mobility"
+msgstr "Mobility"
+
+#: 
+msgid "Experience in sales"
+msgstr "Experience in sales"
+
+#: 
+msgid "Prefer to work"
+msgstr "Prefer to work"
+
+#: 
+msgid "Fashion"
+msgstr "Fashion"
+
+#: 
+msgid "Sport"
+msgstr "Sport"
+
+#: 
+msgid "Real estate"
+msgstr "Real estate"
+
+#: 
+#, fuzzy
+msgid "Technology"
+msgstr "Technology"
+
+#: 
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgid "Logistics"
+msgstr "Logistics"
+
+#: 
+msgid "Current password"
+msgstr "Current password"
+
+#: 
+msgid "New password"
+msgstr "New password"
+
+#: 
+msgid "Change"
+msgstr "Change"
+
+#: 
+msgid "Health Care"
+msgstr "Health Care"
+
+#: 
+msgid "Finance"
+msgstr "Finance"
+
+#: 
+msgid "Law"
+msgstr "Law"
+
+#: 
+msgid "Construction"
+msgstr "Construction"
+
+#: 
+msgid "Student"
+msgstr "Student"
+
+#: 
+msgid "Employee"
+msgstr "Employee"
+
+#: 
+msgid "Unemployed"
+msgstr "Unemployed"
+
+#: 
+msgid "Self-employed"
+msgstr "Self-employed"
+
+#: 
+msgid "Pensioner"
+msgstr "Pensioner"
+
+#: 
+#, fuzzy
+msgid "Few months"
+msgstr "Few months"
+
+#: 
+msgid "Developer"
+msgstr "Developer"
+
+#: 
+msgid "Sunday"
+msgstr "Sunday"
+
+#: 
+msgid "1 year"
+msgstr "1 year"
+
+#: 
+msgid "2 year"
+msgstr "2 year"
+
+#: 
+msgid "3+ year"
+msgstr "3+ year"
+
+#: 
+msgid "Doctor"
+msgstr "Doctor"
+
+#: 
+msgid "Lawyer"
+msgstr "Lawyer"
+
+#: 
+msgid "CPA"
+msgstr "CPA"
+
+#: 
+msgid "Psychologist"
+msgstr "Psychologist"
+
+#: 
+msgid "Social worker"
+msgstr "Social worker"
+
+#: 
+msgid "Estate broker"
+msgstr "Estate broker"
+
+#: 
+msgid "Economist"
+msgstr "Economist"
+
+#: 
+msgid "Diets"
+msgstr "Diets"
+
+#: 
+msgid "Electronic engineer"
+msgstr "Electronic engineer"
+
+#: 
+msgid "Other"
+msgstr "Other"
+
+#: 
+msgid "Monday"
+msgstr "Monday"
+
+#: 
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: 
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: 
+msgid "Thursday"
+msgstr "Thursday"
+
+#: 
+msgid "Friday"
+msgstr "Friday"
+
+#: 
+msgid "Saturday"
+msgstr "Saturday"
+
+#: 
+msgid "Close lead"
+msgstr "Close lead"
+
+#: 
+msgid "Withdraw money"
+msgstr "Withdraw money"
+
+#: 
+msgid "Amount of money to withdraw"
+msgstr "Amount of money to withdraw"
+
+#: 
+msgid "Withdraw"
+msgstr "Withdraw"
+
+#: 
+msgid "Call is already taken, be faster next time!"
+msgstr "Call is already taken, be faster next time!"
+
+#: 
+msgid "Internal error, cannot process incoming"
+msgstr "Internal error, cannot process incoming"
+
+#: 
+msgid "Internal error. Please, try later"
+msgstr "Internal error. Please, try later"
+
+#: 
+msgid "Internal server error"
+msgstr "Internal server error"
+
+#: 
+msgid "Password updated"
+msgstr "Password updated"
+
+#: 
+#, fuzzy
+msgid "Current password is incorrect"
+msgstr "Current password is incorrect"
+
+#: 
+msgid "Years of educating"
+msgstr "Years of educating"
+
+#: 
+msgid "Degree"
+msgstr "Degree"
+
+#: 
+msgid "Courses"
+msgstr "Courses"
+
+#: 
+msgid "Caller info"
+msgstr "Caller info"
+
+#: 
+msgid "Message"
+msgstr "Message"
+
+#: 
+msgid "Notes"
+msgstr "Notes"
+
+#: 
+msgid "Purpose of the call"
+msgstr "Purpose of the call"
+
+#: 
+msgid "Enter purpose of the call"
+msgstr "Enter purpose of the call"
+
+#: 
+msgid "from"
+msgstr "from"
+
+#: 
+msgid "Enter a message"
+msgstr "Enter a message"
+
+#: 
+msgid "Take a message"
+msgstr "Take a message"
+
+#: 
+#, fuzzy
+msgid "Media Attachments"
+msgstr "Media Attachments"
+
+#: 
+msgid "Media attachment"
+msgstr "Media attachment"
+
+#: 
+msgid "Stuff member"
+msgstr "Stuff member"
+
+#: 
+msgid "Nearby infrastructure"
+msgstr "Nearby infrastructure"
+
+#: 
+msgid "FAQ"
+msgstr "FAQ"
+
+#: 
+msgid "Activity"
+msgstr "Activity"
+
+#: 
+msgid "Schedule meeting"
+msgstr "Schedule meeting"
+
+#: 
+msgid "Places"
+msgstr "Places"
+
+#: 
+msgid "Agent notes for business account"
+msgstr "Agent notes for business account"
+
+#: 
+msgid "Enter a note about the call"
+msgstr "Enter a note about the call"
+
+#: 
+msgid "Questions and answers"
+msgstr "Questions and answers"
+
+#: 
+msgid "No questions available"
+msgstr "No questions available"
+
+#: 
+msgid "Meeting"
+msgstr "Meeting"
+
+#: 
+msgid "Note"
+msgstr "Note"
+
+#: 
+msgid "Bonus for the call"
+msgstr "Bonus for the call"
+
+#: 
+msgid "We are here to help. You can send us an Email or write a chat message."
+msgstr "We are here to help. You can send us an Email or write a chat message."
+
+#: 
+#, fuzzy
+msgid "Welcome"
+msgstr "Welcome"
+
+#: 
+msgid "Are you sure to close?"
+msgstr "Are you sure to close?"
+
+#: 
+#, fuzzy
+msgid "Please, define, if customer's issue was resolved. Once submitted you wont't be able to edit the lead later."
+msgstr "Please, define, if customer's issue was resolved. Once submitted you wont't be able to edit the lead later."
+
+#: 
+msgid "Issue closed"
+msgstr "Issue closed"
+
+#: 
+#, fuzzy
+msgid "About the business"
+msgstr "About the business"
+
+#: 
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: 
+msgid "You will be disconnected from the client"
+msgstr "You will be disconnected from the client"
+
+#: 
+msgid "Lead info"
+msgstr "Lead info"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "For business"
+msgstr "For business"
+
+#: 
+msgid "Total"
+msgstr "Total"
+
+#: 
+msgid "to Phonedo Customer Service"
+msgstr "to to phonedo customer service"
+
+#: 
+msgid "English"
+msgstr "English"
+
+#: 
+msgid "Hebrew"
+msgstr "Hebrew"
+
+#: 
+msgid "Russian"
+msgstr "Russian"
+
+#: 
+msgid "Insurance"
+msgstr "Insurance"
+
+#: 
+msgid "Design"
+msgstr "Design"
+
+#: 
+msgid "Contacts"
+msgstr "Contacts"
+
+#: 
+#, fuzzy
+msgid "Animals"
+msgstr "Animals"
+
+#: 
+msgid "Working hours"
+msgstr "Working hours"
+
+#: 
+msgid "Home styling"
+msgstr "Home styling"
+
+#: 
+msgid "Question"
+msgstr "Question"
+
+#: 
+msgid "Transportation"
+msgstr "Transportation"
+
+#: 
+msgid "Agriculture"
+msgstr "Agriculture"
+
+#: 
+msgid "Services"
+msgstr "Services"
+
+#: 
+msgid "Jurisprudence"
+msgstr "Jurisprudence"
+
+#: 
+msgid "Energy"
+msgstr "Energy"
+
+#: 
+msgid "Incoming already assigned"
+msgstr "Incoming already assigned"
+
+#: 
+msgid "Call is already hanged up"
+msgstr "Call is already hanged up"
+
+#: 
+#, fuzzy
+msgid "VOiP is not well-configured for your account, please contact support"
+msgstr "VOiP is not well-configured for your account, please contact support"
+
+#: 
+msgid "Your app is currently unregistered because of network issues - please close the app by swiping it off and reopen it"
+msgstr "Your app is currently unregistered because of network issues - please close the app by swiping it off and reopen it"
+
+#: 
+msgid "Issue opened"
+msgstr "Issue opened"
+
+#: 
+msgid "Call ended"
+msgstr "Call ended"
+
+#: 
+#, fuzzy
+msgid "Agent notes"
+msgstr "Agent notes"
+
+#: 
+msgid "Oops, your phone disconnected from our network, please try again."
+msgstr "Oops, your phone disconnected from our network, please try again."
+
+#: 
+#, fuzzy
+msgid "Credit"
+msgstr "Credit"
+
+#: 
+#, fuzzy
+msgid "Client's answers"
+msgstr "Client's answers"
+
+#: 
+msgid "Call purpose"
+msgstr "Call purpose"
+
+#: 
+#, fuzzy
+msgid "Client's message"
+msgstr "Client's message"
+
+#: 
+msgid "Call agent notes"
+msgstr "Call agent notes"
+
+#: 
+msgid "Client Info"
+msgstr "Client Info"
+
+#: 
+msgid "Client name"
+msgstr "Client name"
+
+#: 
+msgid "Rate the call"
+msgstr "Rate the call"
+
+#: 
+msgid "Rate"
+msgstr "Rate"
+
+#: 
+msgid "Review"
+msgstr "Review"
+
+#: 
+msgid "Bonus"
+msgstr "Bonus"
+
+#: 
+msgid "Favorites"
+msgstr "Favorites"
+
+#: 
+#, fuzzy
+msgid "Remove from favorite"
+msgstr "Remove from favorite"
+
+#: 
+#, fuzzy
+msgid "Add to favorite"
+msgstr "Add to favorite"
+
+#: 
+#, fuzzy
+msgid "If you liked the call you might want to add this call agent to your Favorites. They will have a priority when distributing calls for your business next time."
+msgstr "If you liked the call you might want to add this call agent to your Favorites. He will have a priority when disturbing calls for your business next time."
+
+#: 
+#, fuzzy
+msgid "Write a review"
+msgstr "Write a review"
+
+#: 
+msgid "Incorrect feedback"
+msgstr "Incorrect feedback"
+
+#: 
+#, fuzzy
+msgid "Customer's satisfaction"
+msgstr "Customer's satisfaction"
+
+#: 
+msgid "Send bonus in percent of profit by call"
+msgstr "Send bonus in percent of profit by call"
+
+#: 
+msgid "You can send a bonus payment to the Call agent for this call"
+msgstr "You can send a bonus payment to the Call agent for this call"
+
+#: 
+msgid "You are given a bonus!"
+msgstr "You are given a bonus!"
+
+#: 
+msgid "Call info"
+msgstr "Call info"
+
+#: 
+msgid "Date"
+msgstr "Date"
+
+#: 
+msgid "Call agent"
+msgstr "Call agent"
+
+#: 
+msgid "Call ratings"
+msgstr "Call ratings"
+
+#: 
+#, fuzzy
+msgid "Listen"
+msgstr "Listen"
+
+#: 
+#, fuzzy
+msgid "Pause"
+msgstr "Pause"
+
+#: 
+msgid "Active calls"
+msgstr "Active calls"
+
+#: 
+msgid "Calls history"
+msgstr "Calls history"
+
+#: 
+msgid "We are here to help. You can send us an Email."
+msgstr "We are here to help. You can send us an Email."
+
+#: 
+msgid "Bonus for lead #"
+msgstr "Bonus for lead #"
+
+#: 
+msgid "Charge for lead #"
+msgstr "Charge for lead #"
+
+#: 
+msgid "You are about to receive an incoming call to your mobile phone."
+msgstr "You are about to receive an incoming call to your mobile phone."
+
+#: 
+msgid "To"
+msgstr "To"
+
+#: 
+msgid "Join to:"
+msgstr "Join to:"
+
+#: 
+msgid "Talk to agent"
+msgstr "Talk to agent"
+
+#: 
+msgid "Talk to both"
+msgstr "Talk to both"
+
+#: 
+#, fuzzy
+msgid "Join call"
+msgstr "Join call"
+
+#: 
+msgid "Opened"
+msgstr "Opened"
+
+#: 
+msgid "Closed"
+msgstr "Closed"
+
+#: 
+#, fuzzy
+msgid "Client's info"
+msgstr "Client's info"
+
+#: 
+msgid "Call ID"
+msgstr "Call ID"
+
+#: 
+#, fuzzy
+msgid "Client's name"
+msgstr "Client's name"
+
+#: 
+msgid "Charge for call"
+msgstr "Charge for call"
+
+#: 
+msgid "Bonus for call"
+msgstr "Bonus for call"
+
+#: 
+msgid "Add bonus"
+msgstr "Add bonus"
+
+#: 
+msgid "For record"
+msgstr "For record"
+
+#: 
+msgid "Recordings"
+msgstr "Recordings"
+
+#: 
+msgid "Warning"
+msgstr "Warning"
+
+#: 
+#, fuzzy
+msgid "Didn't receive the code?"
+msgstr "Didn't receive the code?"
+
+#: 
+#, fuzzy
+msgid "Let's go"
+msgstr "Let's go"
+
+#: 
+msgid "We are not just talking"
+msgstr "We are not just talking"
+
+#: 
+msgid "We Make The Connections Your Business Needs"
+msgstr "We Make The Connections Your Business Needs"
+
+#: 
+msgid "So, what is Phone.do for businesses?"
+msgstr "So, what is Phone.do for businesses?"
+
+#: 
+msgid "Why does my business need Phone.do?"
+msgstr "Why does my business need Phone.do?"
+
+#: 
+#, fuzzy
+msgid "Unleash the awesome power of your mobile phone for your business. Phone.do put simply is a telephone answering service for your business. Or an outbound calling facility for your business. But the tech behind it means that it does so much more than that. Our amazing technology allows a remote agent to work as though they were embedded right at the center of your business."
+msgstr "Unleash the awesome power of your mobile phone for your business. Phone.do put simply is a telephone answering service for your business. Or an outbound calling facility for your business. But the tech behind it means that it does so much more than that. Our amazing technology allows a remote agent to work as though they were embedded right at the center of your business."
+
+#: 
+msgid "Which agent fits my business?"
+msgstr "Which agent fits my business?"
+
+#: 
+#, fuzzy
+msgid "We're a human telephone answering service. We connect agents and businesses to provide low cost call center solutions that work for you."
+msgstr "We're a human telephone answering service. We connect agents and businesses to provide low cost call center solutions that work for you."
+
+#: 
+msgid "Phone.do allows you to define and sort agents according to languages, specialties, employment experience, and mostly according to ratings and recommendations from other businesses."
+msgstr "Phone.do allows you to define and sort agents according to languages, specialties, employment experience, and mostly according to ratings and recommendations from other businesses."
+
+#: 
+msgid "Who are we?"
+msgstr "Who are we?"
+
+#: 
+msgid "Just people who want to help. We have seen a future where businesses and agents come together. Would you like to see this future too?"
+msgstr "Just people who want to help. We have seen a future where businesses and agents come together. Would you like to see this future too?"
+
+#: 
+#, fuzzy
+msgid "Business explanation"
+msgstr "Business explanation"
+
+#: 
+#, fuzzy
+msgid "So, Your business is grown fast, with many ongoing marketing campaigns for products or services and you getting a lot of traffic, Phone.do is the best solution for you."
+msgstr "So, Your business is grown fast, with many ongoing marketing campaigns for products or services and you getting a lot of traffic, Phone.do is the best solution for you."
+
+#: 
+msgid "Business testimonial"
+msgstr "Business testimonial"
+
+#: 
+#, fuzzy
+msgid "The call center in your pocket. It takes time, money and expertise to set up an effective hotline, whether you're taking incoming calls or making outgoing ones. And then you might have reps sat there waiting or the call."
+msgstr "The call center in your pocket. It takes time, money and expertise to set up an effective hotline, whether you're taking incoming calls or making outgoing ones. And then you might have reps sat there waiting or the call."
+
+#: 
+msgid "Why use Phone.do"
+msgstr "Why use Phone.do"
+
+#: 
+msgid "There comes a point in any business where you need more capacity. Every task you do comes at a cost. The cost is another activity that you could do instead. So, if you are constantly on the phone then you are missing out on other opportunities."
+msgstr "There comes a point in any business where you need more capacity. Every task you do comes at a cost. The cost is another activity that you could do instead. So, if you are constantly on the phone then you are missing out on other opportunities."
+
+#: 
+msgid "Meet a few of our businesses"
+msgstr "Meet a few of our businesses"
+
+#: 
+#, fuzzy
+msgid "We could not think of entering new markets, due to language restrictions, and time zones. Phone.do for us it is a real revolution. Can't believe how nobody think of it before... Amazing"
+msgstr "We could not think of entering new markets, due to language restrictions, and time zones. Phone.do for us it is a real revolution. Can't believe how nobody think of it before... Amazing"
+
+#: 
+#, fuzzy
+msgid "As calls come onto our system, Phone.do automatically \"pushes\" notifications out to our community. Bids are sent to all agents that match your criteria and budget."
+msgstr "As calls come onto our system, Phone.do automatically 'pushes' notifications out to our community. Bids are sent to all agents that match your criteria and budget."
+
+#: 
+msgid "How to get started"
+msgstr "How to get started"
+
+#: 
+#, fuzzy
+msgid "Here's a quick overview of the process, from start to finish."
+msgstr "Here's a quick overview of the process, from start to finish."
+
+#: 
+msgid "Registration"
+msgstr "Registration"
+
+#: 
+#, fuzzy
+msgid "Simply register your account with us. We need some details to be able to get you started and match you up with the right agent for your business."
+msgstr "Simply register your account with us. We need some details to be able to get you started and match you up with the right agent for your business."
+
+#: 
+msgid "Setting You Up For Success"
+msgstr "Setting You Up For Success"
+
+#: 
+#, fuzzy
+msgid "Obviously, we need a switchboard. Phone.do is a telephony-based solution. It might be that we are able to connect to your existing interface and adjust it, so it works on our system. Once this is set up, we're ready to start delivering for you. We work with your needs, large or small, no matter where you are on planet earth! In addition, the options are endless, such as free numbers, call routers, voicemail, customer relations management and more. Let us know what you need, and we'll take care of the technical side. Relax! You're with Phone.do  now!"
+msgstr "Obviously, we need a switchboard. Phone.do is a telephony-based solution. It might be that we are able to connect to your existing interface and adjust it, so it works on our system. Once this is set up, we're ready to start delivering for you. We work with your needs, large or small, no matter where you are on planet earth! In addition, the options are endless, such as free numbers, call routers, voicemail, customer relations management and more. Let us know what you need, and we'll take care of the technical side. Relax! You're with Phone.do  now!"
+
+#: 
+msgid "Create Telephone Campaigns"
+msgstr "Create Telephone Campaigns"
+
+#: 
+#, fuzzy
+msgid "We give you access to a comprehensive toolkit to make your campaign a success. These include • Voice marketing • Text SMS message marketing • Writing and content editing • Call success measurement • Call analysis • And more. We have the expertise to help you build an effective campaign. Whether it's building the right scripts, defining the campaign goals or anything else – we're here to help you get the most from your campaigns."
+msgstr "We give you access to a comprehensive toolkit to make your campaign a success. These include • Voice marketing • Text SMS message marketing • Writing and content editing • Call success measurement • Call analysis • And more. We have the expertise to help you build an effective campaign. Whether it’s building the right scripts, defining the campaign goals or anything else – we’re here to help you get the most from your campaigns."
+
+#: 
+#, fuzzy
+msgid "Setting Up The Hotlines"
+msgstr "Setting Up The Hotlines"
+
+#: 
+#, fuzzy
+msgid "We assign each campaign with its own IP address of phone number. This allows you and us to identify where the calls go to. This is where the flexibility in our system comes to the fore. You get to set • the number of agents • the working hours • what work they will be doing • what skills they must have • employment experience • ranking on our site • languages spoken • And other criteria This ensures you get the right agents for your campaign – delivering success. And then it's time to set the budget. We have a range of flexible pricing options, so you always get the cover you need at a price you can afford."
+msgstr "We assign each campaign with its own IP address of phone number. This allows you and us to identify where the calls go to. This is where the flexibility in our system comes to the fore. You get to set • the number of agents • the working hours • what work they will be doing • what skills they must have • employment experience • ranking on our site • languages spoken • And other criteria This ensures you get the right agents for your campaign – delivering success. And then it’s time to set the budget. We have a range of flexible pricing options, so you always get the cover you need at a price you can afford."
+
+#: 
+msgid "Set Up Your Payment"
+msgstr "Set Up Your Payment"
+
+#: 
+#, fuzzy
+msgid "Phone.do is prepaid, so before we get you active its time to top up your account. Don't forget – there are no setup fees and no monthly ongoing fees to be a part of the Phone.do community. Another reason to choose us!"
+msgstr "Phone.do is prepaid, so before we get you active its time to top up your account. Don't forget – there are no setup fees and no monthly ongoing fees to be a part of the Phone.do community. Another reason to choose us!"
+
+#: 
+msgid "Activation"
+msgstr "Activation"
+
+#: 
+#, fuzzy
+msgid "Now we've got you all up and ready to start, it's activation time! Our agents are ready to start working with you. The system is designed to help you get up and running quickly. Now is the time to put the planning into action. We're here to help you make the decisions that will keep your service up and running with the right agents. Don't hesitate to get in touch."
+msgstr "Now we've got you all up and ready to start, it's activation time! Our agents are ready to start working with you. The system is designed to help you get up and running quickly. Now is the time to put the planning into action. We're here to help you make the decisions that will keep your service up and running with the right agents. Don't hesitate to get in touch."
+
+#: 
+msgid "FAQs"
+msgstr "FAQs"
+
+#: 
+msgid "Who pays the agents?"
+msgstr "Who pays the agents?"
+
+#: 
+#, fuzzy
+msgid "Don't worry, we've got you covered. There are different ways of making payments (per hour, per minute, outgoing calls, incoming calls, sales made) and we deal with all of these on your behalf."
+msgstr "Don't worry, we've got you covered. There are different ways of making payments (per hour, per minute, outgoing calls, incoming calls, sales made) and we deal with all of these on your behalf."
+
+#: 
+#, fuzzy
+msgid "What is Phone.do's cut?"
+msgstr "What is Phone.do's cut"
+
+#: 
+msgid "Great question. We take a small percentage of the fee between you and the agent. This allows us to keep the platform operating effectively, advertise for new clients and generally keep this awesome community together."
+msgstr "Great question. We take a small percentage of the fee between you and the agent. This allows us to keep the platform operating effectively, advertise for new clients and generally keep this awesome community together."
+
+#: 
+msgid "Are there any costs to join?"
+msgstr "Are there any costs to join?"
+
+#: 
+msgid "No. There is no sign-up fee and no ongoing monthly fees. All you pay is what is needed to operate your campaign."
+msgstr "No. There is no sign-up fee and no ongoing monthly fees. All you pay is what is needed to operate your campaign."
+
+#: 
+#, fuzzy
+msgid "For Business!"
+msgstr "For Business!"
+
+#: 
+msgid "Is your business growing fast? Want to advertise campaigns without fear? Want to enter new markets? Want to improve service to your customers? Do not want to lose any Lead?"
+msgstr "Is your business growing fast? Want to advertise campaigns without fear? Want to enter new markets? Want to improve service to your customers? Do not want to lose any Lead?"
+
+#: 
+msgid "We will handle all business calls for you. Incoming and outgoing. At any time, language, profession, purpose, experience, and field."
+msgstr "We will handle all business calls for you. Incoming and outgoing. At any time, language, profession, purpose, experience, and field."
+
+#: 
+msgid "We will do everything for you. We will sell the products, collect the payments, take the messages, schedule the meetings, conduct surveys, provide technical support, and more."
+msgstr "We will do everything for you. We will sell the products, collect the payments, take the messages, schedule the meetings, conduct surveys, provide technical support, and more."
+
+#: 
+msgid "You will only pay for actual call minutes, save 80% of the cost, listen and intervene in real time calls, you will get everything recorded transcribed and translated."
+msgstr "You will only pay for actual call minutes, save 80% of the cost, listen and intervene in real time calls, you will get everything recorded transcribed and translated."
+
+#: 
+msgid "Open a virtual office in seconds. Get a phone number in any country in the world. Choose who will answer your calls, and represent your business in the most professional way."
+msgstr "Open a virtual office in seconds. Get a phone number in any country in the world. Choose who will answer your calls, and represent your business in the most professional way."
+
+#: 
+msgid "Skip"
+msgstr "Skip"
+
+#: 
+msgid "your account"
+msgstr "your account"
+
+#: 
+msgid "Login to"
+msgstr "Login to"
+
+#: 
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: 
+msgid "Click here"
+msgstr "Click here"
+
+#: 
+msgid "Reset password"
+msgstr "Reset password"
+
+#: 
+msgid "Send me a code"
+msgstr "Send me a code"
+
+#: 
+msgid "Country &"
+msgstr "Country &"
+
+#: 
+msgid "By signing up, you confirm that you've read and accepted our"
+msgstr "By signing up, you confirm that you've read and accepted our"
+
+#: 
+msgid "Business details"
+msgstr "Business details"
+
+#: 
+msgid "Business Description"
+msgstr "Business Description"
+
+#: 
+msgid "Problem with password recovering, maybe bad telephone number?"
+msgstr "Problem with password recovering, maybe bad telephone number?"
+
+#: 
+#, fuzzy
+msgid "One-time password"
+msgstr "One-time password"
+
+#: 
+msgid "Resend me a code"
+msgstr "Resend me a code"
+
+#: 
+msgid "Verify Code"
+msgstr "Verify Code"
+
+#: 
+msgid "Check your SMS inbox, we have sent you the code to"
+msgstr "Check your SMS inbox, we have sent you the code to"
+
+#: 
+msgid "Resend"
+msgstr "Resend"
+
+#: 
+msgid "Name &"
+msgstr "Name &"
+
+#: 
+msgid "Company"
+msgstr "Company"
+
+#: 
+msgid "Company name"
+msgstr "Company name"
+
+#: 
+#, fuzzy
+msgid "Is Talking Your Best Talent? Make Money From It"
+msgstr "Is Talking Your Best Talent? Make Money From It"
+
+#: 
+msgid "So, what is Phone.do for Agents?"
+msgstr "So, what is Phone.do for Agents?"
+
+#: 
+msgid "Phone.do is a service that connects businesses and agents for the greater good. Think of a call center app that works for businesses and call agents and you're on the right track. Read more below."
+msgstr "Phone.do is a service that connects businesses and agents for the greater good. Think of a call center app that works for businesses and call agents and you\\'re on the right track. Read more below."
+
+#: 
+msgid "Create an activity, your way"
+msgstr "Create an activity, your way"
+
+#: 
+#, fuzzy
+msgid "We're on the lookout for people who want to earn cash. If you want to explore an opportunity to make money without committing or leaving your current role then we've got just the opportunity for you."
+msgstr "We're on the lookout for people who want to earn cash. If you want to explore an opportunity to make money without committing or leaving your current role then we've got just the opportunity for you."
+
+#: 
+msgid "Do what you love and get paid"
+msgstr "Do what you love and get paid"
+
+#: 
+#, fuzzy
+msgid "Scout for street art or surf at sunset, Turn your passion into profit. Earn money without it feeling like a job."
+msgstr "Scout for street art or surf at sunset, Turn your passion into profit. Earn money without it feeling like a job."
+
+#: 
+msgid "Welcome to Phone.do, World's most advanced an innovative human answering service system that commects businesses around the world."
+msgstr "Welcome to Phone.do, World's most advanced an innovative human answering service system that commects businesses around the world."
+
+#: 
+msgid "Agent explanation"
+msgstr "Agent explanation"
+
+#: 
+msgid "Agent testimonial"
+msgstr "Agent testimonial"
+
+#: 
+msgid "Phone.do as an advanced and modern platform for perfect human answering services. You can work as a customer support agent and sales representative using Phone.do."
+msgstr "Phone.do as an advanced and modern platform for perfect human answering services. You can work as a customer support agent and sales representative using Phone.do."
+
+#: 
+msgid "We're here to help you develop a business on the back of your passion and talent. Phone.do have a large number of tools that enable you to grow a business with us and make more money. Don't work for the man. Those days are from the past. Develop a business on the back of talking to people. What’s there not to love?"
+msgstr "We're here to help you develop a business on the back of your passion and talent. Phone.do have a large number of tools that enable you to grow a business with us and make more money. Don't work for the man. Those days are from the past. Develop a business on the back of talking to people. What’s there not to love?"
+
+#: 
+msgid "Meet a few of our agents"
+msgstr "Meet a few of our agents"
+
+#: 
+msgid "We connect you with the businesses that are looking for people just like you. No more searching high and low for the right kind of business to partner. We've done all the legwork for you so you can make money right away."
+msgstr "We connect you with the businesses that are looking for people just like you. No more searching high and low for the right kind of business to partner. We've done all the legwork for you so you can make money right away."
+
+#: 
+msgid "In every job I have worked in the past I felt missed. Because I was not rewarded according to my skills but according to what they were willing to pay me. Through Phone.do I decide how much I'm worth. And you will be amazed. I get paid exactly how much I want."
+msgstr "In every job I have worked in the past I felt missed. Because I was not rewarded according to my skills but according to what they were willing to pay me. Through Phone.do I decide how much I'm worth. And you will be amazed. I get paid exactly how much I want."
+
+#: 
+msgid "I enjoy the money, the praise, the feedback, the promotion, the bonuses, the excitement ... I enjoy working with the Phone.do platform, you could say I was really addicted to it."
+msgstr "I enjoy the money, the praise, the feedback, the promotion, the bonuses, the excitement ... I enjoy working with the Phone.do platform, you could say I was really addicted to it."
+
+#: 
+msgid "Simply complete your details. We need to know a little about you so we can match you with the right opportunities. This includes your name, address, languages spoken, skills, employment experience, degrees, qualifications, expertise, hobbies, etc."
+msgstr "Simply complete your details. We need to know a little about you so we can match you with the right opportunities. This includes your name, address, languages spoken, skills, employment experience, degrees, qualifications, expertise, hobbies, etc."
+
+#: 
+msgid "Creating your profiles"
+msgstr "Creating your profiles"
+
+#: 
+#, fuzzy
+msgid "Once your part of the Phone.do family, you can set up profiles according to the type of activity you are looking for. The more profiles you have, the greater your chance of earning. Don't worry, you can always add more profiles, edit or delete a profile or even pause your account for a short while – whatever suits you. You are totally in control!"
+msgstr "Once your part of the Phone.do family, you can set up profiles according to the type of activity you are looking for. The more profiles you have, the greater your chance of earning. Don't worry, you can always add more profiles, edit or delete a profile or even pause your account for a short while – whatever suits you. You are totally in control!"
+
+#: 
+msgid "The next step is to activate the profile or profiles that you are ready to use. You set up how long you're available for – whether that's a regular schedule, a set timeframe or you're ready to start right away. Again, the power is in your hands."
+msgstr "The next step is to activate the profile or profiles that you are ready to use. You set up how long you're available for – whether that's a regular schedule, a set timeframe or you're ready to start right away. Again, the power is in your hands."
+
+#: 
+msgid "How much do I get paid?"
+msgstr "How much do I get paid?"
+
+#: 
+msgid "We recommend a tariff for your work with our clients, based on demand and supply plus what they want you to do for them. A business can set a maximum price they are willing to pay. The right balance for all of us is that there are enough calls for you guys plus it being financially viable for the company. We find the right balance so that everyone wins."
+msgstr "We recommend a tariff for your work with our clients, based on demand and supply plus what they want you to do for them. A business can set a maximum price they are willing to pay. The right balance for all of us is that there are enough calls for you guys plus it being financially viable for the company. We find the right balance so that everyone wins."
+
+#: 
+msgid "How & when do I get Paid?"
+msgstr "How & when do I get Paid?"
+
+#: 
+msgid "All earnings available for withdrawal immediately in any currency: by transferring to your local bank account, PayPal, Debit Card, or Paper Check."
+msgstr "All earnings available for withdrawal immediately in any currency: by transferring to your local bank account, PayPal, Debit Card, or Paper Check."
+
+#: 
+msgid "How can I get promoted?"
+msgstr "How can I get promoted?"
+
+#: 
+msgid "This isn't a typical job role. There are no bosses asking you to stay late or come in early. You can earn a promotion through the site based on the good work you carry out for your clients. The higher your rating, the more you earn for each job. Just like any online community, your good standing means you are more in demand."
+msgstr "This isn't a typical job role. There are no bosses asking you to stay late or come in early. You can earn a promotion through the site based on the good work you carry out for your clients. The higher your rating, the more you earn for each job. Just like any online community, your good standing means you are more in demand."
+
+#: 
+msgid "How do I earn even more?"
+msgstr "How do I earn even more?"
+
+#: 
+msgid "If you can commit to more hours, then that is great. The more profiles you have, the more opportunities you have to earn money with us. And when you start to earn a promotion through your good work, these opportunities multiply."
+msgstr "If you can commit to more hours, then that is great. The more profiles you have, the more opportunities you have to earn money with us. And when you start to earn a promotion through your good work, these opportunities multiply."
+
+#: 
+msgid "Like to talk on the phone? Let's make money out of this! For every minute of conversation. Every language you speak. In every field you love."
+msgstr "Like to talk on the phone? Let's make money out of this! For every minute of conversation. Every language you speak. In every field you love."
+
+#: 
+msgid "You want to make all your dreams come true? Looking to supplement income without leaving the permanent workplace? Want to pull your profits at any given moment?"
+msgstr "You want to make all your dreams come true? Looking to supplement income without leaving the permanent workplace? Want to pull your profits at any given moment?"
+
+#: 
+msgid "Tired of a boss on the head? Want to decide for yourself when to work? Want to work from the couch at home or from the chair resting on the beach? Are you people of night or weekend?"
+msgstr "Tired of a boss on the head? Want to decide for yourself when to work? Want to work from the couch at home or from the chair resting on the beach? Are you people of night or weekend?"
+
+#: 
+msgid "Want to control your wages? To be rewarded according to your qualifications? Get generous bonuses? Also profit from customer referral, post publishing, affiliate programs?"
+msgstr "Want to control your wages? To be rewarded according to your qualifications? Get generous bonuses? Also profit from customer referral, post publishing, affiliate programs?"
+
+#: 
+msgid "Want a job without giving up on fun and hobbies? Without giving up on family life? Without committing?"
+msgstr "Want a job without giving up on fun and hobbies? Without giving up on family life? Without committing?"
+
+#: 
+msgid "new account"
+msgstr "new account"
+
+#: 
+msgid "and"
+msgstr "and"
+
+#: 
+msgid "earn money"
+msgstr "earn money"
+
+#: 
+msgid "Sign in to"
+msgstr "Sign in to"
+
+#: 
+msgid "Enter your phone number and click Send"
+msgstr "Enter your phone number and click Send"
+
+#: 
+msgid "Create Hotline"
+msgstr "Create Hotline"
+
+#: 
+msgid "Give your Hotline a name"
+msgstr "Give your Hotline a name"
+
+#: 
+msgid "Please select a country"
+msgstr "Please select a country"
+
+#: 
+msgid "Setup a Hotline"
+msgstr "Setup a Hotline"
+
+#: 
+msgid "Setup a hotline with all the right parameters."
+msgstr "Setup a hotline with all the right parameters."
+
+#: 
+msgid "Hotline name"
+msgstr "Hotline name"
+
+#: 
+msgid "Target"
+msgstr "Target"
+
+#: 
+msgid "Location"
+msgstr "Location"
+
+#: 
+msgid "Language"
+msgstr "Language"
+
+#: 
+msgid "Type a welcome message..."
+msgstr "Type a welcome message..."
+
+#: 
+msgid "Type any kind of message you would like."
+msgstr "Type any kind of message you would like."
+
+#: 
+msgid "For example"
+msgstr "For example"
+
+#: 
+msgid "“Hello, how we can help you?”"
+msgstr "“Hello, how we can help you?”"
+
+#: 
+msgid "Enter your city"
+msgstr "Enter your city"
+
+#: 
+msgid "This Hotline will be deleted permanently."
+msgstr "This Hotline will be deleted permanently."
+
+#: 
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgid "Step"
+msgstr "Step"
+
+#: 
+msgid "of"
+msgstr "of"
+
+#: 
+msgid "Step 1 of"
+msgstr "Step 1 of"
+
+#: 
+msgid "Save and Exit"
+msgstr "Save and Exit"
+
+#: 
+msgid "Setup your Hotline"
+msgstr "Setup your Hotline"
+
+#: 
+msgid "Number / SIP"
+msgstr "Number / SIP"
+
+#: 
+msgid "Music"
+msgstr "Music"
+
+#: 
+msgid "Power-Ups"
+msgstr "Power-Ups"
+
+#: 
+msgid "Requirements"
+msgstr "Requirements"
+
+#: 
+msgid "Hotline activation"
+msgstr "Hotline activation"
+
+#: 
+msgid "Please type correct phone number"
+msgstr "Please type correct phone number"
+
+#: 
+msgid "Incoming or Outgoing calls"
+msgstr "Incoming or Outgoing calls"
+
+#: 
+msgid "Setup incoming or outgoing calls for your Hotline."
+msgstr "Setup incoming or outgoing calls for your Hotline."
+
+#: 
+msgid "Setup only Incoming calls to my Hotline"
+msgstr "Setup only Incoming calls to my Hotline"
+
+#: 
+msgid "Outgoing calls"
+msgstr "Outgoing calls"
+
+#: 
+msgid "Setup only Outgoing calls to my Hotline"
+msgstr "Setup only Outgoing calls to my Hotline"
+
+#: 
+msgid "Notifications"
+msgstr "Notifications"
+
+#: 
+msgid "Choose how you would like to receive Notifications."
+msgstr "Choose how you would like to receive Notifications."
+
+#: 
+msgid "Type other email"
+msgstr "Type other email"
+
+#: 
+msgid "WhatsApp number"
+msgstr "WhatsApp number"
+
+#: 
+msgid "Type other phone"
+msgstr "Type other phone"
+
+#: 
+msgid "Summary"
+msgstr "Summary"
+
+#: 
+msgid "Choose which platform you would like to receive the summary from."
+msgstr "Choose which platform you would like to receive the summary from."
+
+#: 
+msgid "App"
+msgstr "App"
+
+#: 
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: 
+msgid "WebHook"
+msgstr "WebHook"
+
+#: 
+msgid "Buy and select Phone number."
+msgstr "Buy and select Phone number."
+
+#: 
+msgid "Add your country and choose a phone number from the list."
+msgstr "Add your country and choose a phone number from the list."
+
+#: 
+msgid "Purchase number"
+msgstr "Purchase number"
+
+#: 
+msgid "Choose a"
+msgstr "Choose a"
+
+#: 
+msgid "for your Hotline"
+msgstr "for your Hotline"
+
+#: 
+msgid "You can choose a sound or upload a new one."
+msgstr "You can choose a sound or upload a new one."
+
+#: 
+msgid "Welcome sound"
+msgstr "Welcome sound"
+
+#: 
+msgid "Voice mail sound"
+msgstr "Voice mail sound"
+
+#: 
+msgid "Company address"
+msgstr "Company address"
+
+#: 
+msgid "Choose one of a few targets for your Hotline."
+msgstr "Choose one of a few targets for your Hotline."
+
+#: 
+msgid "City"
+msgstr "City"
+
+#: 
+msgid "Postal(zip) code"
+msgstr "Postal(zip) code"
+
+#: 
+msgid "Street name"
+msgstr "Street name"
+
+#: 
+msgid "Street number"
+msgstr "Street number"
+
+#: 
+msgid "Add all your company details and info, You can choose an existing company or add a new one."
+msgstr "Add all your company details and info, You can choose an existing company or add a new one."
+
+#: 
+msgid "Add company details"
+msgstr "Add company details"
+
+#: 
+msgid "Add all your company details and info."
+msgstr "Add all your company details and info."
+
+#: 
+msgid "Upload a logo"
+msgstr "Upload a logo"
+
+#: 
+msgid "Email address"
+msgstr "Email address"
+
+#: 
+msgid "Company URL"
+msgstr "Company URL"
+
+#: 
+msgid "Business type"
+msgstr "Business type"
+
+#: 
+msgid "Social links"
+msgstr "Social links"
+
+#: 
+msgid "Error while setting hotline company"
+msgstr "Error while setting hotline company"
+
+#: 
+msgid "Existing companies"
+msgstr "Existing companies"
+
+#: 
+msgid "Choose one company from your existing list."
+msgstr "Choose one company from your existing list."
+
+#: 
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: 
+msgid "Add your Social links"
+msgstr "Add your Social links"
+
+#: 
+msgid "Add WhatsApp link"
+msgstr "Add WhatsApp link"
+
+#: 
+msgid "Add YouTube link"
+msgstr "Add YouTube link"
+
+#: 
+msgid "Add Facebook link"
+msgstr "Add Facebook link"
+
+#: 
+msgid "Add Instagram link"
+msgstr "Add Instagram link"
+
+#: 
+msgid "Add Twitter link"
+msgstr "Add Twitter link"
+
+#: 
+msgid "Add LinkedIn link"
+msgstr "Add LinkedIn link"
+
+#: 
+#, fuzzy
+msgid "Choose your Business type from the list"
+msgstr "Choose your Business type from the list"
+
+#: 
+msgid "Choose Hotline target"
+msgstr "Choose Hotline target"
+
+#: 
+msgid "Choose Hotline language"
+msgstr "Choose Hotline language"
+
+#: 
+msgid "Frequently asked questions"
+msgstr "Frequently asked questions"
+
+#: 
+msgid "Add questions and answers for you agents"
+msgstr "Add questions and answers for you agents"
+
+#: 
+msgid "Add Q&A"
+msgstr "Add Q&A"
+
+#: 
+msgid "Age"
+msgstr "Age"
+
+#: 
+msgid "Mandatory field"
+msgstr "Mandatory field"
+
+#: 
+msgid "Available call agent"
+msgstr "Available call agent"
+
+#: 
+msgid "See all available call agents they are fit to your requirements."
+msgstr "See all available call agents they are fit to your requirements."
+
+#: 
+msgid "Certificates"
+msgstr "Certificates"
+
+#: 
+msgid "Add new certificate"
+msgstr "Add new certificate"
+
+#: 
+msgid "Setup your degree level."
+msgstr "Setup your degree level."
+
+#: 
+msgid "Add new education"
+msgstr "Add new education"
+
+#: 
+msgid "Experience"
+msgstr "Experience"
+
+#: 
+msgid "Setup your professionalism & experience in years."
+msgstr "Setup your professionalism & experience in years."
+
+#: 
+msgid "Professionalism"
+msgstr "Professionalism"
+
+#: 
+msgid "Add new"
+msgstr "Add new"
+
+#: 
+msgid "Facilities"
+msgstr "Facilities"
+
+#: 
+msgid "Gender"
+msgstr "Gender"
+
+#: 
+msgid "Interests"
+msgstr "Interests"
+
+#: 
+msgid "Add new interest"
+msgstr "Add new interest"
+
+#: 
+msgid "Feel free to add more language"
+msgstr "Feel free to add more language"
+
+#: 
+msgid "Add language"
+msgstr "Add language"
+
+#: 
+msgid "Setup your language level by reading, write and speak in this language."
+msgstr "Setup your language level by reading, write and speak in this language."
+
+#: 
+msgid "Reading"
+msgstr "Reading"
+
+#: 
+msgid "Talking"
+msgstr "Talking"
+
+#: 
+msgid "Writing"
+msgstr "Writing"
+
+#: 
+msgid "Mass Ranking"
+msgstr "Mass Ranking"
+
+#: 
+msgid "Placement Ranking"
+msgstr "Placement Ranking"
+
+#: 
+msgid "Skills"
+msgstr "Skills"
+
+#: 
+msgid "Add new skill"
+msgstr "Add new skill"
+
+#: 
+msgid "Questioning"
+msgstr "Questioning"
+
+#: 
+msgid "Questions"
+msgstr "Questions"
+
+#: 
+msgid "Add free question"
+msgstr "Add free question"
+
+#: 
+msgid "Add question"
+msgstr "Add question"
+
+#: 
+msgid "Add answer"
+msgstr "Add answer"
+
+#: 
+msgid "You can edit or delete questions or answers"
+msgstr "You can edit or delete questions or answers"
+
+#: 
+msgid "Add a Q&A"
+msgstr "Add a Q&A"
+
+#: 
+msgid "Setup hotline activation"
+msgstr "Setup hotline activation"
+
+#: 
+msgid "Setup the hotline activation, days, hours, etc."
+msgstr "Setup the hotline activation, days, hours, etc."
+
+#: 
+msgid "Activation On/Off"
+msgstr "Activation On/Off"
+
+#: 
+msgid "Setup the hotline hours."
+msgstr "Setup the hotline hours."
+
+#: 
+msgid "Setup days"
+msgstr "Setup days"
+
+#: 
+msgid "Setup the hotline days."
+msgstr "Setup the hotline days."
+
+#: 
+msgid "Holidays On/Off"
+msgstr "Holidays On/Off"
+
+#: 
+msgid "Upload"
+msgstr "Upload"
+
+#: 
+msgid "Setup the right Hotline requirements."
+msgstr "Setup the right Hotline requirements."
+
+#: 
+msgid "Setup your industries, language level, and education."
+msgstr "Setup your industries, language level, and education."
+
+#: 
+msgid "See available call agent based on your requirements.."
+msgstr "See available call agent based on your requirements.."
+
+#: 
+msgid "Choose the type of questionnaire that you want or add a new one."
+msgstr "Choose the type of questionnaire that you want or add a new one."
+
+#: 
+msgid "Script deleted"
+msgstr "Script deleted"
+
+#: 
+msgid "Add questionnaire..."
+msgstr "Add questionnaire..."
+
+#: 
+msgid "Power-Ups."
+msgstr "Power-Ups."
+
+#: 
+msgid "Setup your working power-ups"
+msgstr "Setup your working power-ups"
+
+#: 
+msgid "Purchase new number"
+msgstr "Purchase new number"
+
+#: 
+msgid "Country is required"
+msgstr "Country is required"
+
+#: 
+msgid "Selected number"
+msgstr "Selected number"
+
+#: 
+msgid "Select number"
+msgstr "Select number"
+
+#: 
+msgid "Phone number is required"
+msgstr "Phone number is required"
+
+#: 
+msgid "Selected date period"
+msgstr "Selected date period"
+
+#: 
+msgid "Select date period"
+msgstr "Select date period"
+
+#: 
+msgid "Date period is required"
+msgstr "Date period is required"
+
+#: 
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+#, fuzzy
+msgid "Choose the number"
+msgstr "Choose the number"
+
+#: 
+msgid "Choose the date period"
+msgstr "Choose the date period"
+
+#: 
+msgid "month"
+msgstr "month"
+
+#: 
+msgid "months"
+msgstr "months"
+
+#: 
+msgid "or upload a new one."
+msgstr "or upload a new one."
+
+#: 
+msgid "Setup a"
+msgstr "Setup a"
+
+#: 
+msgid "for your Hotline and choose the language you want for the sound."
+msgstr "for your Hotline and choose the language you want for the sound."
+
+#: 
+#, fuzzy
+msgid "Help"
+msgstr "Help"
+
+#: 
+#, fuzzy
+msgid "You can always choose to chat or call with us"
+msgstr "You can always choose to chat or call with us"
+
+#: 
+#, fuzzy
+msgid "Choose one of the platforms to chat or call with us."
+msgstr "Choose one of the platforms to chat or call with us."
+
+#: 
+#, fuzzy
+msgid "Chat"
+msgstr "Chat"
+
+#: 
+#, fuzzy
+msgid "eMeet"
+msgstr "eMeet"
+
+#: 
+#, fuzzy
+msgid "Call us"
+msgstr "Call us"
+
+#: 
+#, fuzzy
+msgid "Get a call"
+msgstr "Get a call"
+
+#: 
+#, fuzzy
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: 
+msgid "phone number is invalid"
+msgstr "phone number is invalid"
+
+#: 
+#, fuzzy
+msgid "Your request has been accepted, you will receive a call."
+msgstr "Your request has been accepted, you will receive a call."
+
+#: 
+#, fuzzy
+msgid "faild to create a call"
+msgstr "faild to create a call"
+
+#: 
+#, fuzzy
+msgid "Call me"
+msgstr "Call me"
+
+#: 
+#, fuzzy
+msgid "Business Processing"
+msgstr "Business Processing"
+
+#: 
+msgid "Outsourcing"
+msgstr "Outsourcing"
+
+#: 
+#, fuzzy
+msgid "24/7/365 professinoal, human, multilingual, multi"
+msgstr "24/7/365 professinoal, human, multilingual, multi"
+
+#: 
+#, fuzzy
+msgid "tasking and multi disciplinary BPO for businesses at"
+msgstr "tasking and multi disciplinary BPO for businesses at"
+
+#: 
+#, fuzzy
+msgctxt "רב משימתי ורב תחומי 24/7/365"
+msgid "any kind, size and location"
+msgstr "any kind, size and location"
+
+#: 
+#, fuzzy
+msgid "Answering"
+msgstr "Answering"
+
+#: 
+msgid "Human"
+msgstr "Human"
+
+#: 
+msgid "Human "
+msgstr "Human "
+
+#: 
+msgid "Professional, multilingual, tasking and multi disciplinary BPO for businesses at any kind,size and location."
+msgstr "Professional, multilingual, tasking and multi disciplinary BPO for businesses at any kind,size and location."
+
+#: 
+msgid "Available"
+msgstr "Available"
+
+#: 
+msgid "Service "
+msgstr "Service "
+
+#: 
+msgid "Tasks"
+msgstr "Tasks"
+
+#: 
+#, fuzzy
+msgid "Call transfers, Messages, Sales, Bookings, Donation, Subscription, Reminders, Meetings, Confirmations, Surveys, Complaints, Tech Support, Collecting."
+msgstr "Call transfers, Messages, Sales, Bookings, Donation, Subscription, Reminders, Meetings, Confirmations, Surveys, Complaints, Tech Support, Collecting."
+
+#: 
+msgid "Payment"
+msgstr "Payment"
+
+#: 
+msgid "per min"
+msgstr "per min"
+
+#: 
+#, fuzzy
+msgid "Inbound"
+msgstr "Inbound"
+
+#: 
+msgid "Sip, WebRTC, DID, Click to call."
+msgstr "Sip, WebRTC, DID, Click to call."
+
+#: 
+msgid "Delivery"
+msgstr "Delivery"
+
+#: 
+msgid "API, App, WhatsApp, mail, web, webhook."
+msgstr "API, App, WhatsApp, mail, web, webhook."
+
+#: 
+msgid "We will handle your phone inquiries in any language, subject, matter, purpose."
+msgstr "We will handle your phone inquiries in any language, subject, matter, purpose."
+
+#: 
+msgid "During The Call"
+msgstr "During The Call"
+
+#: 
+msgid "Listen, Guide, Intervene"
+msgstr "Listen, Guide, Intervene"
+
+#: 
+msgid "After The Call"
+msgstr "After The Call"
+
+#: 
+msgid "Recorded, transcribed, translated"
+msgstr "Recorded, transcribed, translated"
+
+#: 
+msgid "Start in"
+msgstr "Start in"
+
+#: 
+msgid "00:10:15 Min"
+msgstr "00:10:15 Min"
+
+#: 
+msgid "Enter business details"
+msgstr "Enter business details"
+
+#: 
+msgid "00:02:30 Min"
+msgstr "00:02:30 Min"
+
+#: 
+msgid "Choose answer language"
+msgstr "Choose answer language"
+
+#: 
+msgid "00:00:05 Min"
+msgstr "00:00:05 Min"
+
+#: 
+msgid "Choose phone number"
+msgstr "Choose phone number"
+
+#: 
+msgid "00:00:30 Min"
+msgstr "00:00:30 Min"
+
+#: 
+msgid "Create call script"
+msgstr "Create call script"
+
+#: 
+msgid "00:05:30 Min"
+msgstr "00:05:30 Min"
+
+#: 
+msgid "Forward your calls"
+msgstr "Forward your calls"
+
+#: 
+msgid "00:01:25 Min"
+msgstr "00:01:25 Min"
+
+#: 
+#, fuzzy
+msgid "00:00:15 Min"
+msgstr "00:00:15 Min"
+
+#: 
+msgid "upload your logo"
+msgstr "upload your logo"
+
+#: 
+#, fuzzy
+msgid "hello"
+msgstr "hello"
+
+#: 
+msgid "Already have an account?"
+msgstr "Already have an account?"
+
+#: 
+msgid "Create An Account"
+msgstr "Create An Account"
+
+#: 
+msgid "Create your account to start managing your Phone.do."
+msgstr "Create your account to start managing your Phone.do."
+
+#: 
+msgid "Company Name"
+msgstr "Company Name"
+
+#: 
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: 
+msgid "*password must have least 8 characters long and include"
+msgstr "*password must have least 8 characters long and include"
+
+#: 
+msgid "uppercase and lowercase letters,numbers,and symbols"
+msgstr "uppercase and lowercase letters,numbers,and symbols"
+
+#: 
+msgid "*Subdomain only accepts lower case letters, digits and '-' sign"
+msgstr "*Subdomain only accepts lower case letters, digits and '-' sign"
+
+#: 
+msgid "By creating account, you agree to our"
+msgstr "By creating account, you agree to our"
+
+#: 
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#: 
+msgid "| Privacy & Policy"
+msgstr "| Privacy & Policy"
+
+#: 
+msgid "Create an account!"
+msgstr "Create an account!"
+
+#: 
+msgid "Or create an account using:---------------------------------------"
+msgstr "Or create an account using:---------------------------------------"
+
+#: 
+msgid "You must agree to the terms and conditions"
+msgstr "You must agree to the terms and conditions"
+
+#: 
+msgid "Confirm Your Number"
+msgstr "Confirm Your Number"
+
+#: 
+#, fuzzy
+msgid "Enter the 6-digit code we just sent to your phone."
+msgstr "Enter the 6-digit code we just sent to your phone."
+
+#: 
+msgid "verification code invalid!"
+msgstr "verification code invalid!"
+
+#: 
+msgid "Didn’t get a code?"
+msgstr "Didn’t get a code?"
+
+#: 
+msgid "Resend Code"
+msgstr "Resend Code"
+
+#: 
+msgid "Create an account"
+msgstr "Create an account"
+
+#: 
+msgid "YOUR BASIC INFORMATION"
+msgstr "YOUR BASIC INFORMATION"
+
+#: 
+msgid "Please complete your basic information"
+msgstr "Please complete your basic information"
+
+#: 
+msgid "Vat Number"
+msgstr "Vat Number"
+
+#: 
+msgid "Company Address"
+msgstr "Company Address"
+
+#: 
+msgid "state"
+msgstr "state"
+
+#: 
+msgid "State"
+msgstr "State"
+
+#: 
+msgid "Region"
+msgstr "Region"
+
+#: 
+msgid "Zip Code"
+msgstr "Zip Code"
+
+#: 
+msgid "next"
+msgstr "next"
+
+#: 
+msgid "number connot be empty"
+msgstr "number connot be empty"
+
+#: 
+msgid "you need to select a region"
+msgstr "you need to select a region"
+
+#: 
+msgid "you need to select a country"
+msgstr "you need to select a country"
+
+#: 
+msgid "company name connot be empty"
+msgstr "company name connot be empty"
+
+#: 
+msgid "TELL US ABOUT YOUR BUSINESS"
+msgstr "TELL US ABOUT YOUR BUSINESS"
+
+#: 
+msgid "Please complete your business details."
+msgstr "Please complete your business details."
+
+#: 
+msgid "Area Of Practice"
+msgstr "Area Of Practice"
+
+#: 
+msgid "Main Activity"
+msgstr "Main Activity"
+
+#: 
+msgid "Telephone Service"
+msgstr "Telephone Service"
+
+#: 
+msgid "Number Of Customers"
+msgstr "Number Of Customers"
+
+#: 
+msgid "Please select your logo Image for Preview"
+msgstr "Please select your logo Image for Preview"
+
+#: 
+msgid "Logo"
+msgstr "Logo"
+
+#: 
+msgid "Country Of Operation"
+msgstr "Country Of Operation"
+
+#: 
+msgid "you need to uploud a logo"
+msgstr "you need to uploud a logo"
+
+#: 
+msgid "area connot be empty"
+msgstr "area connot be empty"
+
+#: 
+msgid "ARE YOU ON SOCIAL MEDIA?"
+msgstr "ARE YOU ON SOCIAL MEDIA?"
+
+#: 
+msgid "Choose your social media if you have one."
+msgstr "Choose your social media if you have one."
+
+#: 
+msgid "Website URL"
+msgstr "Website URL"
+
+#: 
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 
+msgid "Instagram"
+msgstr "Instagram"
+
+#: 
+msgid "YouTube"
+msgstr "YouTube"
+
+#: 
+msgid "youtube"
+msgstr "youtube"
+
+#: 
+msgid "whatsapp"
+msgstr "whatsapp"
+
+#: 
+msgid "twitter"
+msgstr "twitter"
+
+#: 
+msgid "tiktok"
+msgstr "tiktok"
+
+#: 
+msgid "linkedin"
+msgstr "linkedin"
+
+#: 
+msgid "instagram"
+msgstr "instagram"
+
+#: 
+msgid "facebook"
+msgstr "facebook"
+
+#: 
+msgid "website"
+msgstr "website"
+
+#: 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: 
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: 
+msgid "TikTok"
+msgstr "TikTok"
+
+#: 
+msgid "Telegram"
+msgstr "Telegram"
+
+#: 
+msgid "FILL IN YOUR SOCIAL MEDIA?"
+msgstr "FILL IN YOUR SOCIAL MEDIA?"
+
+#: 
+msgid "TELL US WHO YOU ARE?"
+msgstr "TELL US WHO YOU ARE?"
+
+#: 
+msgid "Give us your basic information"
+msgstr "Give us your basic information"
+
+#: 
+msgid "Full name"
+msgstr "Full name"
+
+#: 
+msgid "Full Name"
+msgstr "Full Name"
+
+#: 
+msgid "Email Address"
+msgstr "Email Address"
+
+#: 
+msgid "Roll In The Company"
+msgstr "Roll In The Company"
+
+#: 
+msgid "confirm"
+msgstr "confirm"
+
+#: 
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgid "PHONE.DO PRICING"
+msgstr "PHONE.DO PRICING"
+
+#: 
+msgid "This calculator will help you calculate your percentage profit"
+msgstr "This calculator will help you calculate your percentage profit"
+
+#: 
+msgid "and the total price to your customers."
+msgstr "and the total price to your customers."
+
+#: 
+msgid "Percentage"
+msgstr "Percentage"
+
+#: 
+msgid "Phone.do charge for one minute call"
+msgstr "Phone.do charge for one minute call"
+
+#: 
+#, fuzzy
+msgid "NIS 1.0"
+msgstr "NIS 1.0"
+
+#: 
+msgid "calculate"
+msgstr "calculate"
+
+#: 
+msgid "Profit"
+msgstr "Profit"
+
+#: 
+msgid "NIS"
+msgstr "NIS"
+
+#: 
+msgid "Price per customer"
+msgstr "Price per customer"
+
+#: 
+msgid "All notifications"
+msgstr "All notifications"
+
+#: 
+msgid "Request here"
+msgstr "Request here"
+
+#: 
+msgid "Log in and start managing your Phone.do account."
+msgstr "Log in and start managing your Phone.do account."
+
+#: 
+msgid "LOGIN TO PHONE.DO!"
+msgstr "LOGIN TO PHONE.DO!"
+
+#: 
+msgid "Don’t have an account?"
+msgstr "Don’t have an account?"
+
+#: 
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+#: 
+msgid "Get started"
+msgstr "Get started"
+
+#: 
+msgid "Log in"
+msgstr "Log in"
+
+#: 
+msgid "Download on the"
+msgstr "Download on the"
+
+#: 
+msgid "Or sign in using:______________________________________"
+msgstr "Or sign in using:______________________________________"
+
+#: 
+msgid "GET IT ON"
+msgstr "GET IT ON"
+
+#: 
+msgid "phone company"
+msgstr "phone company"
+
+#: 
+msgid "Human telephone answering"
+msgstr "Human telephone answering"
+
+#: 
+msgid "24/7 paid per minute of conversation"
+msgstr "24/7 paid per minute of conversation"
+
+#: 
+msgid "will respond to your business's phone calls."
+msgstr "will respond to your business's phone calls."
+
+#: 
+msgid "In every language, in every subject, in every field and for every purpose"
+msgstr "In every language, in every subject, in every field and for every purpose"
+
+#: 
+msgid "Pricing per minute"
+msgstr "Pricing per minute"
+
+#: 
+msgid "First Name"
+msgstr "First Name"
+
+#: 
+msgid "Last Name"
+msgstr "Last Name"
+
+#: 
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: 
+msgid "TELL US ABOUT YOUR BUISNESS"
+msgstr "TELL US ABOUT YOUR BUISNESS"
+
+#: 
+msgid "change logo"
+msgstr "change logo"
+
+#: 
+msgid "Choose your social media."
+msgstr "Choose your social media."
+
+#: 
+msgid "Youtube"
+msgstr "Youtube"
+
+#: 
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: 
+msgid "Tiktok"
+msgstr "Tiktok"
+
+#: 
+msgid "Role In The Company"
+msgstr "Role In The Company"
+
+#: 
+msgid "FILL IN YOUR SOCIAL MEDIA DETAILS"
+msgstr "FILL IN YOUR SOCIAL MEDIA DETAILS"
+
+#: 
+msgid "Your account has been created!"
+msgstr "Your account has been created!"
+
+#: 
+msgid "Are you ready to manage your own account?"
+msgstr "Are you ready to manage your own account?"
+
+#: 
+msgid "Continue"
+msgstr "Continue"
+
+#: 
+msgid "I agree  to the"
+msgstr "I agree  to the"
+
+#: 
+msgid "First name"
+msgstr "First name"
+
+#: 
+msgid "Last name"
+msgstr "Last name"
+
+#: 
+msgid "Privacy & Policy"
+msgstr "Privacy & Policy"
+
+#: 
+msgid "number cannot be empty"
+msgstr "number cannot be empty"
+
+#: 
+msgid "company name cannot be empty"
+msgstr "company name cannot be empty"
+
+#: 
+msgid "you need to upload a logo"
+msgstr "you need to upload a logo"
+
+#: 
+msgid "area cannot be empty"
+msgstr "area cannot be empty"
+
+#: 
+msgid "LOGIN TO PHONE.DO!."
+msgstr "LOGIN TO PHONE.DO!."
+
+#: 
+msgid "Human Answering Service"
+msgstr "Human Answering Service"
+
+#: 
+msgid "professional, multilingual, multitasking and multi disciplinary BPO for businesses at any kind, size and location."
+msgstr "Professional, Multilingual, Multitasking and Multi disciplinary Omnichannel BPO for businesses at any kind, size and location."
+
+#: 
+msgid "Let's start"
+msgstr "Let's start"
+
+#: 
+#, fuzzy
+msgid "Call transfers, Messages, Sales, Bookings, Donation, Subscription, Reminders, Meetings, Confirmations, Surveys, Complaints, Tech Support, Collecting"
+msgstr "Call transfers, Messages, Sales, Bookings, Donation, Subscription, Reminders, Meetings, Confirmations, Surveys, Complaints, Tech Support, Collecting"
+
+#: 
+msgid "API, App, WhatsApp, mail, web, webbook"
+msgstr "API, App, WhatsApp, mail, web, webbook"
+
+#: 
+msgid "Sip, WebRTC, DID, Click to call"
+msgstr "Sip, WebRTC, DID, Click to call"
+
+#: 
+msgid "Phone company"
+msgstr "Phone company"
+
+#: 
+msgid "will handle your phone inquiries"
+msgstr "will handle your phone inquiries"
+
+#: 
+msgid "We will handle your phone inquiries"
+msgstr "We will handle your phone inquiries"
+
+#: 
+msgid "in any language, subject, matter, purpose."
+msgstr "in any language, subject, matter, purpose."
+
+#: 
+msgid "Price per minute"
+msgstr "Price per minute"
+
+#: 
+msgid "This value should not be blank."
+msgstr "This value should not be blank."
+
+#: 
+msgid "Download The App"
+msgstr "Download The App"
+
+#: 
+msgid "Min"
+msgstr "Min"
+
+#: 
+msgid "All rights reserved"
+msgstr "All rights reserved"
+
+#: 
+msgid "You are now ready to Download the App"
+msgstr "You are now ready to Download the App"
+
+#: 
+msgid "Update your profile now!"
+msgstr "Update your profile now!"
+
+#: 
+msgid "save"
+msgstr "save"
+
+#: 
+msgid "Your Name"
+msgstr "Your Name"
+
+#: 
+msgid "Business Description - 5 Words About Your Self"
+msgstr "Business Description - 5 Words About Your Self"
+
+#: 
+msgid "Update Your Profile"
+msgstr "Update Your Profile"
+
+#: 
+#, fuzzy
+msgid "upload Your Profile Image"
+msgstr "upload Your Profile Image"
+
+#: 
+msgid "Add New Customer"
+msgstr "Add New Customer"
+
+#: 
+msgid "Customer Details"
+msgstr "Customer Details"
+
+#: 
+msgid "A default password value will be set to the customer's phone number"
+msgstr "A default password value will be send to the customer's phone number"
+
+#: 
+msgid "Customer Information"
+msgstr "Customer Information"
+
+#: 
+msgid "EDIT CUSTOMER"
+msgstr "EDIT CUSTOMER"
+
+#: 
+msgid "Telephone"
+msgstr "Telephone"
+
+#: 
+msgid "CUSTOMER VIEW"
+msgstr "CUSTOMER VIEW"
+
+#: 
+msgid "left"
+msgstr "left"
+
+#: 
+msgid "active"
+msgstr "active"
+
+#: 
+msgid "Add customer"
+msgstr "Add customer"
+
+#: 
+msgid "Customers"
+msgstr "Customers"
+
+#: 
+#, fuzzy
+msgid "Sort By"
+msgstr "Sort By"
+
+#: 
+msgid "--select--"
+msgstr "--select--"
+
+#: 
+msgid "Results"
+msgstr "Results"
+
+#: 
+msgid "View"
+msgstr "View"
+
+#: 
+msgid "Your website"
+msgstr "Your website"
+
+#: 
+msgid "Your application"
+msgstr "Your application"
+
+#: 
+msgid "Application"
+msgstr "Application"
+
+#: 
+#, fuzzy
+msgid "Your Application"
+msgstr "Your Application"
+
+#: 
+#, fuzzy
+msgid "Your Website"
+msgstr "Your Website"
+
+#: 
+msgid "The most profitable customers"
+msgstr "The most profitable customers"
+
+#: 
+msgid "Net sales, found on the income statement are used to calculate this ration returns and refunds must be backed out of total sales to measure the truly measure the firm’s assets abillity to generate sales."
+msgstr "Net sales, found on the income statement are used to calculate this ration returns and refunds must be backed out of total sales to measure the truly measure the firm’s assets abillity to generate sales."
+
+#: 
+msgid "Customer report"
+msgstr "Customers report"
+
+#: 
+msgid "Loading Chart"
+msgstr "Loading Chart"
+
+#: 
+msgid "Outcoming calls"
+msgstr "Outcoming calls"
+
+#: 
+msgid "View more customers"
+msgstr "View more customers"
+
+#: 
+msgid "Leading business sector"
+msgstr "Leading business sector"
+
+#: 
+msgid "Total calls in month"
+msgstr "Total calls in month"
+
+#: 
+msgid "Top Sales Locations"
+msgstr "Top Sales Locations"
+
+#: 
+msgid "Our most customers in "
+msgstr "Our most customers in "
+
+#: 
+msgid "Massive"
+msgstr "Massive"
+
+#: 
+msgid "Small"
+msgstr "Small"
+
+#: 
+msgid "Send message"
+msgstr "Send message"
+
+#: 
+#, fuzzy
+msgid "no data found"
+msgstr "no data found"
+
+#: 
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: 
+msgid "Wallet"
+msgstr "Wallet"
+
+#: 
+msgid "Reports"
+msgstr "Reports"
+
+#: 
+msgid "Screens"
+msgstr "Screens"
+
+#: 
+msgid "Tipalti Contact"
+msgstr "Tipalti Contact"
+
+#: 
+msgid "Contact us"
+msgstr "Contact us"
+
+#: 
+msgid "What Is Your Question?"
+msgstr "What Is Your Question?"
+
+#: 
+msgid "Tell us how can we help you?"
+msgstr "Tell us how can we help you?"
+
+#: 
+msgid "you need to select"
+msgstr "you need to select"
+
+#: 
+msgid "New Customers"
+msgstr "New Customers"
+
+#: 
+msgid "---No new customers joined this month---"
+msgstr "---No new customers joined this month---"
+
+#: 
+msgid "customers report"
+msgstr "customers report"
+
+#: 
+msgid "Withdrawal History"
+msgstr "Withdrawal History"
+
+#: 
+msgid "---No Withdrawal done this month yet---"
+msgstr "---No Withdrawal done this month yet---"
+
+#: 
+msgid "View all Withdrawals"
+msgstr "View all Withdrawals"
+
+#: 
+msgid "INFORMATION"
+msgstr "INFORMATION"
+
+#: 
+msgid "Global Settings"
+msgstr "Global Settings"
+
+#: 
+msgid "Global Information"
+msgstr "Global Information"
+
+#: 
+msgid "Logo Company"
+msgstr "Logo Company"
+
+#: 
+msgid "information"
+msgstr "information"
+
+#: 
+msgid "settings"
+msgstr "settings"
+
+#: 
+msgid "pricing"
+msgstr "pricing"
+
+#: 
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgid "Interface Language"
+msgstr "Interface Language"
+
+#: 
+msgid "Web Site"
+msgstr "Web Site"
+
+#: 
+msgid "PRICING"
+msgstr "PRICING"
+
+#: 
+msgid "Price per minute:"
+msgstr "Price per minute:"
+
+#: 
+msgid "no notifications!"
+msgstr "no notifications!"
+
+#: 
+msgid "Notification"
+msgstr "Notification"
+
+#: 
+msgid "Profits"
+msgstr "Profits"
+
+#: 
+msgid "Business:"
+msgstr "Business:"
+
+#: 
+msgid "all"
+msgstr "all"
+
+#: 
+msgid "From:"
+msgstr "From"
+
+#: 
+msgid "To:"
+msgstr "To:"
+
+#: 
+msgid "Export as CSV"
+msgstr "Export as CSV"
+
+#: 
+msgid "Have a question?"
+msgstr "Have a question?"
+
+#: 
+msgid "Our team is here to give you"
+msgstr "Our team is here to give you"
+
+#: 
+msgid "personalized support"
+msgstr "personalized support"
+
+#: 
+msgid "have more questions?"
+msgstr "have more questions?"
+
+#: 
+#, fuzzy
+msgid "Chat with us"
+msgstr "Chat with us"
+
+#: 
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: 
+msgid "Payment Currency"
+msgstr "Payment Currency"
+
+#: 
+msgid "Name On Account"
+msgstr "Name On Account"
+
+#: 
+msgid "National ID Number"
+msgstr "National ID Number"
+
+#: 
+msgid "Bank Name"
+msgstr "Bank Name"
+
+#: 
+msgid "SWIFT"
+msgstr "SWIFT"
+
+#: 
+msgid "Bank Code"
+msgstr "Bank Code"
+
+#: 
+msgid "Branch Code"
+msgstr "Branch Code"
+
+#: 
+msgid "Account Number"
+msgstr "Account Number"
+
+#: 
+msgid "IBAN"
+msgstr "IBAN"
+
+#: 
+msgid "Income"
+msgstr "Income"
+
+#: 
+msgid "Withdrawal"
+msgstr "Withdrawal"
+
+#: 
+msgid "New Withdrawal"
+msgstr "New Withdrawal"
+
+#: 
+msgid "Total Profit:"
+msgstr "Total Profit:"
+
+#: 
+#, fuzzy
+msgid "Filter profit by"
+msgstr "Filter profit by"
+
+#: 
+msgid "Total Profit"
+msgstr "Total Profit"
+
+#: 
+msgid "Overview"
+msgstr "Overview"
+
+#: 
+msgid "show"
+msgstr "show"
+
+#: 
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgid "password"
+msgstr "password"
+
+#: 
+msgid "Payment Number"
+msgstr "Payment Number"
+
+#: 
+msgid "Date & Time"
+msgstr "Date & Time"
+
+#: 
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgid "January"
+msgstr "January"
+
+#: 
+msgid "February"
+msgstr "February"
+
+#: 
+msgid "March"
+msgstr "March"
+
+#: 
+msgid "April"
+msgstr "April"
+
+#: 
+msgid "May\n"
+""
+msgstr "May"
+
+#: 
+msgid "June"
+msgstr "June"
+
+#: 
+msgid "July"
+msgstr "July"
+
+#: 
+msgid "August"
+msgstr "August"
+
+#: 
+msgid "September"
+msgstr "September"
+
+#: 
+msgid "October"
+msgstr "October"
+
+#: 
+msgid "November"
+msgstr "November"
+
+#: 
+msgid "December"
+msgstr "December"
+
+#: 
+msgid "sub domain"
+msgstr "sub domain"
+
+#: 
+msgid "Customers who have left"
+msgstr "Customers who have left"
+
+#: 
+msgid "Marketing"
+msgstr "Marketing"
+
+#: 
+msgid "month in service"
+msgstr "month in service"
+
+#: 
+msgid "vs"
+msgstr "vs"
+
+#: 
+msgid "Feed"
+msgstr ""
+
+#: 
+msgid "filter"
+msgstr ""
+
+#: 
+msgid "Like"
+msgstr ""
+
+#: 
+msgid "Dislike"
+msgstr ""
+
+#: 
+msgid "Comments"
+msgstr ""
+
+#: 
+msgid "Share"
+msgstr ""
+
+#: 
+msgid "Cancel saving this item for later"
+msgstr ""
+
+#: 
+msgid "Share via"
+msgstr ""
+
+#: 
+msgid "Unfollow Janet Doe"
+msgstr ""
+
+#: 
+msgid "Report the post"
+msgstr ""
+
+#: 
+msgid "Save this item for later"
+msgstr ""
+
+#: 
+msgid "Why are you reporting this?"
+msgstr "Why are you reporting this?"
+
+#: 
+msgid "Tell us a little more"
+msgstr ""
+
+#: 
+msgid "fake account"
+msgstr ""
+
+#: 
+msgid "fake information"
+msgstr ""
+
+#: 
+msgid "phishing"
+msgstr ""
+
+#: 
+msgid "industry"
+msgstr "industry"
+
+#: 
+msgid "topic or language is offensive"
+msgstr ""
+
+#: 
+msgid "harassment or a threat"
+msgstr ""
+
+#: 
+msgid "Compared to"
+msgstr "Compared to"
+
+#: 
+msgid "last month"
+msgstr "last month"
+
+#: 
+msgid "customers left"
+msgstr "customers left"
+
+#: 
+msgid "hate speech or harmful conduct"
+msgstr ""
+
+#: 
+msgid "adult content"
+msgstr ""
+
+#: 
+msgid "spam"
+msgstr ""
+
+#: 
+msgid "promotional"
+msgstr ""
+
+#: 
+msgid "View/Edit"
+msgstr "View/Edit"
+
+#: 
+msgid "search a customer"
+msgstr "search a customer"
+
+#: 
+msgid "Profile settings were updated!"
+msgstr "Profile settings were updated!"
+
+#: 
+msgid "Company name already used."
+msgstr "Company name already used."
+
+#: 
+msgid "new customers"
+msgstr "new customers"
+
+#: 
+msgid "All fields should be full!"
+msgstr "All fields should be full!"
+
+#: 
+msgid "Business Description - 5 words about yourself"
+msgstr "Business Description - 5 words about yourself"
+
+#: 
+msgid "Loading..."
+msgstr "Loading..."
+
+#: 
+msgid "Your search results are about to show up."
+msgstr "Your search results are about to show up."
+
+#: 
+msgid "Share post"
+msgstr ""
+
+#: 
+msgid "Please type title"
+msgstr ""
+
+#: 
+msgid "Please type all you want to talk about..."
+msgstr ""
+
+#: 
+msgid "#Add hashtag"
+msgstr ""
+
+#: 
+msgid "Subject"
+msgstr "Subject"
+
+#: 
+msgid "Send"
+msgstr "Send"
+
+#: 
+msgid "Thanks for your Report"
+msgstr ""
+
+#: 
+msgid "The post will be published in these moments"
+msgstr ""
+
+#: 
+msgid "No post received"
+msgstr ""
+
+#: 
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#: 
+msgid "Type your comment..."
+msgstr ""
+
+#: 
+msgid "my"
+msgstr ""
+
+#: 
+msgid "Posts"
+msgstr ""
+
+#: 
+msgid "Followers"
+msgstr ""
+
+#: 
+msgid "why are you reporting this?"
+msgstr ""
+
+#: 
+msgid "Following"
+msgstr ""
+
+#: 
+msgid "View all activities"
+msgstr ""
+
+#: 
+msgid "Favorite"
+msgstr ""
+
+#: 
+msgid "Yet"
+msgstr ""
+
+#: 
+msgid "Call Duration"
+msgstr "Call Duration"
+
+#: 
+msgid "Sales"
+msgstr ""
+
+#: 
+msgid "Messages"
+msgstr ""
+
+#: 
+msgid "Open Issues"
+msgstr ""
+
+#: 
+msgid "Meetings"
+msgstr ""
+
+#: 
+msgid "You have "
+msgstr ""
+
+#: 
+msgid "Our websit"
+msgstr ""
+
+#: 
+msgid "search by company"
+msgstr "search by company"
+
+#: 
+msgid "Send Email"
+msgstr "Send Email"
+
+#: 
+msgid "Save post"
+msgstr ""
+
+#: 
+msgid "Withdrawal money"
+msgstr "Withdrawal money"
+
+#: 
+msgid "Available to Withdrawal"
+msgstr "Available to Withdrawal"
+
+#: 
+msgid "this post saved for later"
+msgstr ""
+
+#: 
+msgid "From Gallery"
+msgstr ""
+
+#: 
+msgid "From Camera"
+msgstr ""
+
+#: 
+msgid "Example App"
+msgstr ""
+
+#: 
+msgid "Fake"
+msgstr ""
+
+#: 
+msgid "Offensive"
+msgstr ""
+
+#: 
+msgid " Spam"
+msgstr ""
+
+#: 
+msgid "No Data Found"
+msgstr ""
+
+#: 
+msgid "Click here to see all posts"
+msgstr ""
+
+#: 
+msgid "New Post"
+msgstr ""
+
+#: 
+msgid "see less"
+msgstr ""
+
+#: 
+msgid "see more"
+msgstr ""
+
+#: 
+msgid "Select Source"
+msgstr ""
+
+#: 
+msgid "Show all"
+msgstr ""
+
+#: 
+msgid "comments"
+msgstr ""
+
+#: 
+msgid "Show"
+msgstr ""
+
+#: 
+msgid "filter..."
+msgstr ""
+
+#: 
+msgid "I think it’s "
+msgstr ""
+
+#: 
+msgid "Show all "
+msgstr ""
+
+#: 
+msgid " comments"
+msgstr ""
+
+#: 
+msgid "Show "
+msgstr ""
+
+#: 
+msgid " Likes&Dislikes"
+msgstr ""
+
+#: 
+msgid "Likes"
+msgstr ""
+
+#: 
+msgid "No "
+msgstr ""
+
+#: 
+msgid " Yet..."
+msgstr ""
+
+#: 
+msgid "Dislikes"
+msgstr ""
+
+#: 
+msgid "My Feed"
+msgstr ""
+
+#: 
+msgid "Follow "
+msgstr ""
+
+#: 
+msgid "Our Phone number:"
+msgstr ""
+
+#: 
+msgid "Our website:"
+msgstr ""
+
+#: 
+msgid "Our email:"
+msgstr ""
+
+#: 
+msgid " Feed"
+msgstr ""
+
+#: 
+msgid "Delete post"
+msgstr ""
+
+#: 
+msgid "Spam"
+msgstr ""
+
+#: 
+msgid "Setup fee,"
+msgstr "Setup fee,"
+
+#: 
+msgid "Monthly Fee,"
+msgstr "Monthly Fee,"
+
+#: 
+msgid "Message Fee,"
+msgstr "Message Fee,"
+
+#: 
+msgid "commitment"
+msgstr "commitment"
+
+#: 
+msgid "No"
+msgstr "No"
+
+#: 
+msgid "Ok"
+msgstr ""
+
+#: 
+msgid "What"
+msgstr "What"
+
+#: 
+msgid "Way"
+msgstr "Way"
+
+#: 
+msgid "24/7 availability to your potential customers worldwide, 24/7 Support to your current customers worldwide"
+msgstr "24/7 availability to your potential customers worldwide, 24/7 Support to your current customers worldwide"
+
+#: 
+msgid "Image update failed‏"
+msgstr "Image update failed‏"
+
+#: 
+msgid "Activities"
+msgstr ""
+
+#: 
+msgid "24/7 Outgoing, incoming calls"
+msgstr "24/7 Outgoing, incoming calls"
+
+#: 
+msgid "Why"
+msgstr "Why"
+
+#: 
+msgid "malware‏‏"
+msgstr ""
+
+#: 
+msgid "It infringes on my rights"
+msgstr ""
+
+#: 
+msgid "incoming, Outgoing"
+msgstr "incoming, Outgoing"
+
+#: 
+msgid "No Posts Yet..."
+msgstr ""
+
+#: 
+msgid "your profile will be updated"
+msgstr "your profile will be updated"
+
+#: 
+msgctxt "האם אתה בטוח שברצונך למחוק את הפוסט הזה?"
+msgid "Are you sure you want to delete this post?"
+msgstr ""
+
+#: 
+msgid "votes"
+msgstr ""
+
+#: 
+msgid "Undo"
+msgstr ""
+
+#: 
+msgid "Create a poll"
+msgstr ""
+
+#: 
+msgid "Your question *"
+msgstr ""
+
+#: 
+msgid "e.g., How do you commute to work?"
+msgstr ""
+
+#: 
+msgid "Option 1 *"
+msgstr ""
+
+#: 
+msgid "e.g., Public Transport"
+msgstr ""
+
+#: 
+msgid "Option 2 *"
+msgstr ""
+
+#: 
+msgid "Option 3"
+msgstr ""
+
+#: 
+msgid "Option 4"
+msgstr ""
+
+#: 
+msgid "e.g., Walking"
+msgstr ""
+
+#: 
+msgid "e.g., Carpool"
+msgstr ""
+
+#: 
+msgid "e.g., Drive myself"
+msgstr ""
+
+#: 
+msgid "Remove"
+msgstr ""
+
+#: 
+msgid "+ Add Option"
+msgstr ""
+
+#: 
+msgid "You might also like‏:"
+msgstr ""
+
+#: 
+msgid "post"
+msgstr ""
+
+#: 
+msgid "View results"
+msgstr ""
+
+#: 
+msgid "Week"
+msgstr ""
+
+#: 
+msgid "Day"
+msgstr ""
+
+#: 
+msgid "Year"
+msgstr ""
+
+#: 
+msgid "Month"
+msgstr ""
+
+#: 
+msgid "From day 1"
+msgstr ""
+
+#: 
+msgid "Choose the time period"
+msgstr ""
+
+#: 
+msgid "need to confirm"
+msgstr ""
+
+#: 
+msgid "Incompatible passwords"
+msgstr ""
+
+#: 
+msgid "Reply"
+msgstr ""
+
+#: 
+msgid "Most of your customers are in:"
+msgstr "Most of your customers are in:"
+
+#: 
+msgid "Large Business"
+msgstr "Large Business"
+
+#: 
+msgid "Medium Business"
+msgstr "Medium Business"
+
+#: 
+msgid "Small Business"
+msgstr "Small Business"
+
+#: 
+msgid "DNS Number"
+msgstr "DNS Number"
+
+#: 
+msgid "Status Text"
+msgstr ""
+
+#: 
+msgid "Yellow"
+msgstr ""
+
+#: 
+msgid "Green"
+msgstr ""
+
+#: 
+msgid "Blue"
+msgstr ""
+
+#: 
+msgid "Red"
+msgstr ""
+
+#: 
+msgid "Orange"
+msgstr ""
+
+#: 
+msgid "Pink"
+msgstr ""
+
+#: 
+msgid "White"
+msgstr ""
+
+#: 
+msgid "Purple"
+msgstr ""
+
+#: 
+msgid "Grey"
+msgstr ""
+
+#: 
+msgid "Story"
+msgstr ""
+
+#: 
+msgid "Type status:"
+msgstr ""
+
+#: 
+msgid "Your settings will be changed!"
+msgstr "Your settings will be changed!"
+
+#: 
+msgid "We will send you an email to verify the details of the change"
+msgstr "We will send you an email to verify the details of the change"
+
+#: 
+msgid "select"
+msgstr "select"
+
+#: 
+msgid "From"
+msgstr "From"
+
+#: 
+#, fuzzy
+msgid "Your saved your pricing!"
+msgstr "Your saved your pricing!"
+
+#: 
+msgid "The file was not uploaded successfully"
+msgstr ""
+
+#: 
+msgid "Votes"
+msgstr ""
+
+#: 
+msgid "pending"
+msgstr ""
+
+#: 
+msgid "Categories"
+msgstr ""
+
+#: 
+msgid "Lead generation"
+msgstr ""
+
+#: 
+msgid "Campaign"
+msgstr ""
+
+#: 
+msgid "IVR"
+msgstr ""
+
+#: 
+msgid "Content"
+msgstr ""
+
+#: 
+msgid "Equipment"
+msgstr ""
+
+#: 
+msgid "Hot Leads"
+msgstr ""
+
+#: 
+msgid "Cold Leads"
+msgstr ""
+
+#: 
+msgid "Scraping"
+msgstr ""
+
+#: 
+msgid "Landing Page"
+msgstr ""
+
+#: 
+msgid "Social Media"
+msgstr ""
+
+#: 
+msgid "Newsletter"
+msgstr ""
+
+#: 
+msgid "Digital"
+msgstr ""
+
+#: 
+msgid "SEO"
+msgstr ""
+
+#: 
+msgid "Affiliate"
+msgstr ""
+
+#: 
+msgid "Music On Hold"
+msgstr ""
+
+#: 
+msgid "Jingle"
+msgstr ""
+
+#: 
+msgid "Narration"
+msgstr ""
+
+#: 
+msgid "Transcript"
+msgstr ""
+
+#: 
+msgid "Translation"
+msgstr ""
+
+#: 
+msgid "Business writing"
+msgstr ""
+
+#: 
+msgid "Smartphones"
+msgstr ""
+
+#: 
+msgid "Tablets"
+msgstr ""
+
+#: 
+msgid "Headphones"
+msgstr ""
+
+#: 
+msgid "Accounting"
+msgstr ""
+
+#: 
+msgid "Tax Advice"
+msgstr ""
+
+#: 
+msgid "Payroll"
+msgstr ""
+
+#: 
+msgid "Hot Leads, Cold Leads, Scraping, "
+msgstr ""
+
+#: 
+msgid "Landing Page, Social Media, Newsletter, "
+msgstr ""
+
+#: 
+msgid "Digital, SEO, Affiliate, "
+msgstr ""
+
+#: 
+msgid "Narration, Jingle, Music On Hold, "
+msgstr ""
+
+#: 
+msgid "Transcript, Translation, Business Writing, "
+msgstr ""
+
+#: 
+msgid "Accounting, Tax Advice, Payroll, "
+msgstr ""
+
+#: 
+msgid "Smartphones, Tablets, Headphones, "
+msgstr ""
+
+#: 
+msgid "Market"
+msgstr ""
+
+#: 
+msgid "Inbox"
+msgstr ""
+
+#: 
+msgid "Source Language"
+msgstr ""
+
+#: 
+msgid "Target Language"
+msgstr ""
+
+#: 
+msgid "Amount of Words"
+msgstr ""
+
+#: 
+msgid "Upload an Audio File"
+msgstr ""
+
+#: 
+msgid "Upload a Text File"
+msgstr ""
+
+#: 
+msgid "Select a Sound Type"
+msgstr ""
+
+#: 
+msgid "Background Music"
+msgstr ""
+
+#: 
+msgid "Order Name\n"
+""
+msgstr ""
+
+#: 
+msgid "Delievery Days"
+msgstr ""
+
+#: 
+msgid "Script Proofwriting"
+msgstr ""
+
+#: 
+msgid "Separate Files"
+msgstr ""
+
+#: 
+msgid "Script Writing"
+msgstr ""
+
+#: 
+msgid "HQ file"
+msgstr ""
+
+#: 
+msgid "Age Range"
+msgstr ""
+
+#: 
+msgid "Slogen"
+msgstr ""
+
+#: 
+msgid "Please Add Special Requirements"
+msgstr ""
+
+#: 
+msgid "Time Reference"
+msgstr ""
+
+#: 
+msgid "More than 2 Speakers"
+msgstr ""
+
+#: 
+msgid "Proofreading"
+msgstr ""
+
+#: 
+msgid "Document Formatting"
+msgstr ""
+
+#: 
+msgid "Add Additional Pages to Optimise"
+msgstr ""
+
+#: 
+msgid "Link Building"
+msgstr ""
+
+#: 
+msgid "Design Customization"
+msgstr ""
+
+#: 
+msgid "Additional Page"
+msgstr ""
+
+#: 
+msgid "Additional Plugin Installtion"
+msgstr ""
+
+#: 
+msgid "Suggest Monetization"
+msgstr ""
+
+#: 
+msgid "Industry & Competitors' Analiysis"
+msgstr ""
+
+#: 
+msgid "SWOT Analysis"
+msgstr ""
+
+#: 
+msgid "Customer Analysis"
+msgstr ""
+
+#: 
+msgid "Tailored Marketing Plan"
+msgstr ""
+
+#: 
+msgid "Financial Forcast"
+msgstr ""
+
+#: 
+msgid "Custom Videos / Gifs"
+msgstr ""
+
+#: 
+msgid "Custom Graphics"
+msgstr ""
+
+#: 
+msgid "Link to The Website"
+msgstr ""
+
+#: 
+msgid "State Filing"
+msgstr ""
+
+#: 
+msgid "Working Field"
+msgstr ""
+
+#: 
+msgid "Estimated Price"
+msgstr ""
+
+#: 
+msgid "Cellular Company"
+msgstr ""
+
+#: 
+msgid "Logo Design"
+msgstr ""
+
+#: 
+msgid "Responsive Design"
+msgstr ""
+
+#: 
+msgid "Countdown Timers"
+msgstr ""
+
+#: 
+msgid "Additional Sections"
+msgstr ""
+
+#: 
+msgid "Social Media Icons"
+msgstr ""
+
+#: 
+msgid "FAQ's"
+msgstr ""
+
+#: 
+msgid "Management Duration"
+msgstr ""
+
+#: 
+msgid "Number of Platforms"
+msgstr ""
+
+#: 
+msgid "Upload Landing Page on Live Domain"
+msgstr ""
+
+#: 
+msgid "Stories"
+msgstr ""
+
+#: 
+msgid "Video Adds"
+msgstr ""
+
+#: 
+msgid "Extra Posts"
+msgstr ""
+
+#: 
+msgid "Photo Editing"
+msgstr ""
+
+#: 
+msgid "Social Media Design"
+msgstr ""
+
+#: 
+msgid "Lead generation and target lead collection"
+msgstr ""
+
+#: 
+msgid "Web scraping, data mining from all websites"
+msgstr ""
+
+#: 
+msgid "Design modern and professional converting landing page or home page"
+msgstr ""
+
+#: 
+msgid "Social media marketing and content creation"
+msgstr ""
+
+#: 
+msgid "Design professional, responsive newsletters, brochure, magazine, flyer "
+msgstr ""
+
+#: 
+msgid "Marketing strategy plan and digital marketing"
+msgstr ""
+
+#: 
+msgid "Quality on-page SEO optimization service for all websites"
+msgstr ""
+
+#: 
+msgid "Clickbank affiliate website for passive profits"
+msgstr ""
+
+#: 
+msgid "Professional voice over for your IVR and other information for your customers "
+msgstr ""
+
+#: 
+msgid "Create a custom jingle to promote your business"
+msgstr ""
+
+#: 
+msgid "Mix & Master your unique music on hold "
+msgstr ""
+
+#: 
+msgid "Accurately transcribe audio, video and podcasts"
+msgstr ""
+
+#: 
+msgid "Translate any type of text or document in any language"
+msgstr ""
+
+#: 
+msgid "Accounting, book keeping and financial statment services"
+msgstr ""
+
+#: 
+msgid "Business income tax return advice "
+msgstr ""
+
+#: 
+msgid "Payroll services"
+msgstr ""
+
+#: 
+msgid "We will provide you the best smartphone with minimum time and maximum quality and efficiency   "
+msgstr ""
+
+#: 
+msgid "We will provide you the best tablet with minimum time and maximum quality and efficiency\n"
+"\n"
+""
+msgstr ""
+
+#: 
+msgid "We will provide you the best headphones with minimum time and maximum quality and efficiency\n"
+"\n"
+""
+msgstr ""
+
+#: 
+msgid "Off-Page Strategy"
+msgstr ""
+
+#: 
+msgid "Backlinks Analysis"
+msgstr ""
+
+#: 
+msgid "Compatiton Backlinks Analysis"
+msgstr ""
+
+#: 
+msgid "On-Page Optimization"
+msgstr ""
+
+#: 
+msgid "Bad Links Removal"
+msgstr ""
+
+#: 
+msgid "Technical SEO"
+msgstr ""
+
+#: 
+msgid "Guest Posting Strategy"
+msgstr ""
+
+#: 
+msgid "Keyword Analysis"
+msgstr ""
+
+#: 
+msgid "Content Analysis"
+msgstr ""
+
+#: 
+msgid "Content Upload"
+msgstr ""
+
+#: 
+msgid "E- Commera Functionality"
+msgstr ""
+
+#: 
+msgid "Bookkeeping"
+msgstr ""
+
+#: 
+msgid "Receipt Management"
+msgstr ""
+
+#: 
+msgid "Financial Statement"
+msgstr ""
+
+#: 
+msgid "Report Creation"
+msgstr ""
+
+#: 
+msgid "Includes 500 Transactions"
+msgstr ""
+
+#: 
+msgid "Accounting Tools Setup"
+msgstr ""
+
+#: 
+msgid "Account Audit"
+msgstr ""
+
+#: 
+msgid "Accounting Advisory"
+msgstr ""
+
+#: 
+msgid "Executive Summary"
+msgstr ""
+
+#: 
+msgid "Company Description"
+msgstr ""
+
+#: 
+msgid "Basic Photo Editing"
+msgstr ""
+
+#: 
+msgid "Organize Management"
+msgstr ""
+
+#: 
+msgid "Formatting & Clean Up"
+msgstr ""
+
+#: 
+msgid "Content Creation"
+msgstr ""
+
+#: 
+msgid "Page / Channel Evalvation"
+msgstr ""
+
+#: 
+msgid "Tax Reporting"
+msgstr ""
+
+#: 
+msgid "Tax Return Filling"
+msgstr ""
+
+#: 
+msgid "Tax Planning and Advisory"
+msgstr ""
+
+#: 
+msgid "Tax Exemption Submission"
+msgstr ""
+
+#: 
+msgid "Tax Refund Submission"
+msgstr ""
+
+#: 
+msgid "Tax Certification Submission"
+msgstr ""
+
+#: 
+msgid "Salary and Benefits Benchmarking"
+msgstr ""
+
+#: 
+msgid "Total Compensation Structuring"
+msgstr ""
+
+#: 
+msgid "3 Emails"
+msgstr ""
+
+#: 
+msgid "Tailored Active Plan"
+msgstr ""
+
+#: 
+msgid "Campaign Development"
+msgstr ""
+
+#: 
+msgid "Campaign Optimization"
+msgstr ""
+
+#: 
+msgid "One Year Warranty"
+msgstr ""
+
+#: 
+msgid "Reliability and Professionalism"
+msgstr ""
+
+#: 
+msgid "Professional Data Scraping"
+msgstr ""
+
+#: 
+msgid "Data Entry"
+msgstr ""
+
+#: 
+msgid "Data Mining"
+msgstr ""
+
+#: 
+msgid "Data Extraction"
+msgstr ""
+
+#: 
+msgid "Web Research According to Requirements"
+msgstr ""
+
+#: 
+msgid "Data Processing"
+msgstr ""
+
+#: 
+msgid "Verbatim Transcription"
+msgstr ""
+
+#: 
+msgid "Convert File"
+msgstr ""
+
+#: 
+msgid "Language Style Guide"
+msgstr ""
+
+#: 
+msgid "Page/ Channel Evaluation"
+msgstr ""
+
+#: 
+msgid "Schedule Posts"
+msgstr ""
+
+#: 
+msgid "Action Plan"
+msgstr ""
+
+#: 
+msgid "Reporting"
+msgstr ""
+
+#: 
+msgid "Engagement with Followers"
+msgstr ""
+
+#: 
+msgid "Topic Research"
+msgstr ""
+
+#: 
+msgid "Competitor Research"
+msgstr ""
+
+#: 
+msgid "Copywriting"
+msgstr ""
+
+#: 
+msgid "Print Ready"
+msgstr ""
+
+#: 
+msgid "Double-Sided"
+msgstr ""
+
+#: 
+msgid "Focus Keywords"
+msgstr ""
+
+#: 
+msgid "7 sections"
+msgstr ""
+
+#: 
+msgid "Vocals Recording"
+msgstr ""
+
+#: 
+msgid "Original Music"
+msgstr ""
+
+#: 
+msgid "Mixing & Mastering"
+msgstr ""
+
+#: 
+msgid "total"
+msgstr ""
+
+#: 
+msgid "Log In"
+msgstr ""
+
+#: 
+msgid "Sign In"
+msgstr ""
+
+#: 
+msgid "Log In your account"
+msgstr ""
+
+#: 
+msgid "I forgot my password"
+msgstr ""
+
+#: 
+msgid "download starting"
+msgstr ""
+
+#: 
+msgid "download completed"
+msgstr ""
+
+#: 
+msgid "download"
+msgstr ""
+
+#: 
+msgid "Check out my Extras"
+msgstr ""
+
+#: 
+msgid "word"
+msgstr ""
+
+#: 
+msgid "second"
+msgstr ""
+
+#: 
+msgid "smartPhone"
+msgstr ""
+
+#: 
+msgid "tablet"
+msgstr ""
+
+#: 
+msgid "headphone"
+msgstr ""
+
+#: 
+msgid "basic package"
+msgstr ""
+
+#: 
+msgid "platform"
+msgstr ""
+
+#: 
+msgid "Business Writing"
+msgstr ""
+
+#: 
+msgid "My review"
+msgstr ""
+
+#: 
+msgid "Rate your experience"
+msgstr ""
+
+#: 
+msgid "Seller Communication"
+msgstr ""
+
+#: 
+msgid "Service as described"
+msgstr ""
+
+#: 
+msgid "Would Recommend"
+msgstr ""
+
+#: 
+msgid "Share your experience"
+msgstr ""
+
+#: 
+msgid "Please rate and include at least 10 ..."
+msgstr ""
+
+#: 
+msgid "Requirements received"
+msgstr ""
+
+#: 
+msgid "You must complete the requirements list"
+msgstr ""
+
+#: 
+msgid "Click to Requirements page"
+msgstr ""
+
+#: 
+msgid "Order Created"
+msgstr ""
+
+#: 
+msgid "VAT"
+msgstr ""
+
+#: 
+msgid "Call purpose should not be blank"
+msgstr "Call purpose should not be blank"
+
+#: 
+msgid "Phone number should not be blank"
+msgstr "Phone number should not be blank"
+
+#: 
+msgid "Name should not be blank"
+msgstr "Name should not be blank"
+
+#: 
+#, fuzzy
+msgid "Save details"
+msgstr "Save details"
+
+#: 
+msgid "What do you want to do?"
+msgstr ""
+
+#: 
+msgid "Hotline"
+msgstr ""
+
+#: 
+msgid "Hello"
+msgstr ""
+
+#: 
+msgid "Pricing"
+msgstr ""
+
+#: 
+msgid "Frequentyly Asked Questions"
+msgstr ""
+
+#: 
+msgid "Are they real investors?"
+msgstr ""
+
+#: 
+msgid "Yes,tested and trusted"
+msgstr ""
+
+#: 
+msgid "Investors leads of which country?"
+msgstr ""
+
+#: 
+msgid "Any country of your choice"
+msgstr ""
+
+#: 
+msgid "Can you provide investor leads?"
+msgstr ""
+
+#: 
+msgid "Absolutely yes"
+msgstr ""
+
+#: 
+msgid "In what field do you have Leads?"
+msgstr ""
+
+#: 
+msgid "In all fields"
+msgstr ""
+
+#: 
+msgid "Reviews"
+msgstr ""
+
+#: 
+msgid "see all"
+msgstr ""
+
+#: 
+msgid "Rate Service"
+msgstr ""
+
+#: 
+msgid "Seller communication"
+msgstr ""
+
+#: 
+msgid "In what format do you offer the downloadedn data?"
+msgstr ""
+
+#: 
+msgid "chat"
+msgstr ""
+
+#: 
+msgid "Delivery Days"
+msgstr ""
+
+#: 
+msgid "All Professions"
+msgstr ""
+
+#: 
+msgid "High Level Customers"
+msgstr ""
+
+#: 
+msgid "Revisions"
+msgstr ""
+
+#: 
+msgid "Sources Mined/Scraped"
+msgstr ""
+
+#: 
+msgid "6 Sections"
+msgstr ""
+
+#: 
+msgid "Contact Us/ Sign Up"
+msgstr ""
+
+#: 
+msgid "I don't know how to upload the landing page. Will you please upload the landing page on my unbounce account and make it live"
+msgstr ""
+
+#: 
+msgid "Sure, I'll upload the landing page on your Unbounce account and make it go live."
+msgstr ""
+
+#: 
+msgid "What is a Section?"
+msgstr ""
+
+#: 
+msgid "A section is an element in a Landing Page that contains specific information. Like HEADER, ABOUT US, FEATURES, SERVICES, OUR TEAM etc."
+msgstr ""
+
+#: 
+msgid "Can you Redesign or Modify an Existing Landing Page?"
+msgstr ""
+
+#: 
+msgid "Yes, Definitely I can redesign any landing pages as per as your requirments."
+msgstr ""
+
+#: 
+msgid "Can you integrate chatting options?"
+msgstr ""
+
+#: 
+msgid "Yes, I can integrate chat option on your site with premium plugins."
+msgstr ""
+
+#: 
+msgid "How do I send you my content for the website?"
+msgstr ""
+
+#: 
+msgid "You can send me your sample design file, PSD or any link. You can also upload any media/images/etc. The process is simple and I'm happy to help you"
+msgstr ""
+
+#: 
+msgid "Unlimited Revisions"
+msgstr ""
+
+#: 
+msgid "Page/Channel Evaluation"
+msgstr ""
+
+#: 
+msgid "4 Pages"
+msgstr ""
+
+#: 
+msgid "Editable Template"
+msgstr ""
+
+#: 
+msgid "3 Platforms(Facebook & Instagram & Linkedin)"
+msgstr ""
+
+#: 
+msgid "Google Adwords"
+msgstr ""
+
+#: 
+msgid "Logo Creation"
+msgstr ""
+
+#: 
+msgid "14 Management Duration Days"
+msgstr ""
+
+#: 
+msgid "Audience of 5000"
+msgstr ""
+
+#: 
+msgid "30 Leads Included: name email phone country gender"
+msgstr ""
+
+#: 
+msgid "7 Delivery Days"
+msgstr ""
+
+#: 
+msgid "5 Delivery Days"
+msgstr ""
+
+#: 
+msgid "600 Leads"
+msgstr ""
+
+#: 
+msgid "100 Leads"
+msgstr ""
+
+#: 
+msgid "3 Delivery Days"
+msgstr ""
+
+#: 
+msgid "5 Revisions"
+msgstr ""
+
+#: 
+msgid "10 Posts"
+msgstr ""
+
+#: 
+msgid "30 Delivery Days"
+msgstr ""
+
+#: 
+msgid "6 Delivery Days"
+msgstr ""
+
+#: 
+msgid "14 Delivery Days"
+msgstr ""
+
+#: 
+msgid "Keywords"
+msgstr ""
+
+#: 
+msgid "3 Social Media Shares"
+msgstr ""
+
+#: 
+msgid "3 Social Post Suggestions"
+msgstr ""
+
+#: 
+msgid "Optimization Tests"
+msgstr ""
+
+#: 
+msgid "Competitor Analysis"
+msgstr ""
+
+#: 
+msgid "2 Pages to Optimise"
+msgstr ""
+
+#: 
+msgid "2 Delivery Days"
+msgstr ""
+
+#: 
+msgid "Strategy Development"
+msgstr ""
+
+#: 
+msgid "3 Affiliate Marketing Consultstions"
+msgstr ""
+
+#: 
+msgid "5 Pages"
+msgstr ""
+
+#: 
+msgid "3 Revisions"
+msgstr ""
+
+#: 
+msgid "21 Delivery Days"
+msgstr ""
+
+#: 
+msgid "100 Words"
+msgstr ""
+
+#: 
+msgid "1 Revision"
+msgstr ""
+
+#: 
+msgid "60 Seconds"
+msgstr ""
+
+#: 
+msgid "Original Music and Composed Music"
+msgstr ""
+
+#: 
+msgid "Unlimted Revisions"
+msgstr ""
+
+#: 
+msgid "90 Seconds"
+msgstr ""
+
+#: 
+msgid "50 Words"
+msgstr ""
+
+#: 
+msgid "Female & Men Voices"
+msgstr ""
+
+#: 
+msgid "24 Hours Delivery"
+msgstr ""
+
+#: 
+msgid "10 Minutes"
+msgstr ""
+
+#: 
+msgid "3 Speakers"
+msgstr ""
+
+#: 
+msgid "400 Words"
+msgstr ""
+
+#: 
+msgid "300 Words"
+msgstr ""
+
+#: 
+msgid "Financial Forecast"
+msgstr ""
+
+#: 
+msgid "9 Delivery Days"
+msgstr ""
+
+#: 
+msgid "400 Transactions"
+msgstr ""
+
+#: 
+msgid "4 Delivery Days"
+msgstr ""
+
+#: 
+msgid " Account Audit"
+msgstr ""
+
+#: 
+msgid " Bookkeeping"
+msgstr ""
+
+#: 
+msgid " Accounting Advisory"
+msgstr ""
+
+#: 
+msgid " Payroll"
+msgstr ""
+
+#: 
+msgid "Tax Return Filing"
+msgstr ""
+
+#: 
+msgid " Director Tax Return"
+msgstr ""
+
+#: 
+msgid " 2 Paystub"
+msgstr ""
+
+#: 
+msgid "Tax and YTD Calculation"
+msgstr ""
+
+#: 
+msgid " Report Creation"
+msgstr ""
+
+#: 
+msgid "Android"
+msgstr ""
+
+#: 
+msgid "1 Year Warranty"
+msgstr ""
+
+#: 
+msgid "8 Delivery Days"
+msgstr ""
+
+#: 
+msgid "Wireless"
+msgstr ""
+
+#: 
+msgid "2 Years Warranty"
+msgstr ""
+
+#: 
+msgid "3 Days Delivery"
+msgstr ""
+
+#: 
+msgid "50 Extra Leads"
+msgstr ""
+
+#: 
+msgid "Express Delivery in 3 Days"
+msgstr ""
+
+#: 
+msgid "Extra Language"
+msgstr ""
+
+#: 
+msgid "Extra Country"
+msgstr ""
+
+#: 
+msgid "Express Delivery in 5 Days"
+msgstr ""
+
+#: 
+msgid "Express Delivery in 24 Hours"
+msgstr ""
+
+#: 
+msgid "Express Delivery in 10 Days"
+msgstr ""
+
+#: 
+msgid "Express Delivery in 1 day"
+msgstr ""
+
+#: 
+msgid "Express Delivery in 2 Days"
+msgstr ""
+
+#: 
+msgid "1 Extra Revision"
+msgstr ""
+
+#: 
+msgid "Additional 1 Source Mined/Scarped"
+msgstr ""
+
+#: 
+msgid "Another Language to Choose"
+msgstr ""
+
+#: 
+msgid "Video Upload"
+msgstr ""
+
+#: 
+msgid "Additional Platform"
+msgstr ""
+
+#: 
+msgid "Additional Section"
+msgstr ""
+
+#: 
+msgid "Extra 5 Posts"
+msgstr ""
+
+#: 
+msgid "Extra 1 Page"
+msgstr ""
+
+#: 
+msgid "1 Platform"
+msgstr ""
+
+#: 
+msgid "Extra 100 Words"
+msgstr ""
+
+#: 
+msgid "Extra 3 Revisions"
+msgstr ""
+
+#: 
+msgid "Proofreading text"
+msgstr ""
+
+#: 
+msgid "Combining Two Voice"
+msgstr ""
+
+#: 
+msgid "Commercial Use"
+msgstr ""
+
+#: 
+msgid "Commercial License"
+msgstr ""
+
+#: 
+msgid "Lyrics Writing"
+msgstr ""
+
+#: 
+msgid "Extra 10 Seconds"
+msgstr ""
+
+#: 
+msgid "Extra 10 Minutes"
+msgstr ""
+
+#: 
+msgid "Extra Speaker"
+msgstr ""
+
+#: 
+msgid "Extra 1 Revision"
+msgstr ""
+
+#: 
+msgid "Extra 10 Transactions"
+msgstr ""
+
+#: 
+msgid "Learning best practices in accounting and how to avoid tax legally"
+msgstr ""
+
+#: 
+msgid "1 Month Tax Advice"
+msgstr ""
+
+#: 
+msgid "set up invoicing app"
+msgstr ""
+
+#: 
+msgid "Extra 1 Paystub"
+msgstr ""
+
+#: 
+msgid "Combining Two Voices"
+msgstr ""
+
+#: 
+msgid "Extra 50 Words"
+msgstr ""
+
+#: 
+msgid "Design professional"
+msgstr ""
+
+#: 
+msgid " responsive newsletters"
+msgstr ""
+
+#: 
+msgid " brochure, magazine"
+msgstr ""
+
+#: 
+msgid " flyer"
+msgstr ""
+
+#: 
+msgid "Professional voice for your IVR and other information for your customers"
+msgstr ""
+
+#: 
+msgid "Mix & Master your unique music on hold"
+msgstr ""
+
+#: 
+msgid "Professional Business Writing"
+msgstr ""
+
+#: 
+msgid "Business income tax return advice"
+msgstr ""
+
+#: 
+msgid "We will provide you the best tablet with minimum time and maximum quality and efficiency"
+msgstr ""
+
+#: 
+msgid "We will provide you the best smartphone with minimum time and maximum quality and efficiency"
+msgstr ""
+
+#: 
+msgid "We will provide you the best headphones with minimum time and maximum quality and efficiency"
+msgstr ""
+
+#: 
+msgid "Order Review"
+msgstr ""
+
+#: 
+msgid "Order Confirmation"
+msgstr ""
+
+#: 
+msgid "Order Summary:"
+msgstr ""
+
+#: 
+msgid "Design professional, responsive newsletters, brochure, magazine, flyer"
+msgstr ""
+
+#: 
+msgid "Do you confirm the order?"
+msgstr ""
+
+#: 
+msgid "Order Details"
+msgstr ""
+
+#: 
+msgid "Order Summary"
+msgstr ""
+
+#: 
+msgid "Sales tax"
+msgstr ""
+
+#: 
+msgid "sales tax is applied to the purchases of goods and servicesin your country,whether physical or digital. %1s tax is calculated according to the type of service and your biling address"
+msgstr ""
+
+#: 
+msgid "Basic Package"
+msgstr ""
+
+#: 
+msgid "Extra Package"
+msgstr ""
+
+#: 
+msgid "Sum"
+msgstr ""
+
+#: 
+msgid "Vat 17%"
+msgstr ""
+
+#: 
+msgid "Select a language"
+msgstr ""
+
+#: 
+msgid "Select a file"
+msgstr ""
+
+#: 
+msgid "Select Extra Language"
+msgstr ""
+
+#: 
+msgid "Select source language"
+msgstr ""
+
+#: 
+msgid "Select target language"
+msgstr ""
+
+#: 
+msgid "Select a file format"
+msgstr ""
+
+#: 
+msgid "Select a Content type"
+msgstr ""
+
+#: 
+msgid "Select Media Type"
+msgstr ""
+
+#: 
+msgid "Select a Gender"
+msgstr ""
+
+#: 
+msgid "Select Voice Gender"
+msgstr ""
+
+#: 
+msgid "Select Voice Type"
+msgstr ""
+
+#: 
+msgid "Select smartphone status"
+msgstr ""
+
+#: 
+msgid "Select tablet status"
+msgstr ""
+
+#: 
+msgid "Select a Country"
+msgstr ""
+
+#: 
+msgid "Select Extra Country"
+msgstr ""
+
+#: 
+msgid "Select the screen size of the tablet"
+msgstr ""
+
+#: 
+msgid "Select the type of wireless headset"
+msgstr ""
+
+#: 
+msgid "Select the water resistance level"
+msgstr ""
+
+#: 
+msgid "Text for Narration"
+msgstr ""
+
+#: 
+msgid "Package Requirements"
+msgstr ""
+
+#: 
+msgid "Active"
+msgstr ""
+
+#: 
+msgid "Comleted"
+msgstr ""
+
+#: 
+msgid "Cancelled"
+msgstr ""
+
+#: 
+msgid "Error!"
+msgstr ""
+
+#: 
+msgid "Cancel the order"
+msgstr ""
+
+#: 
+msgid "Order Started"
+msgstr ""
+
+#: 
+msgid "Expected delivery"
+msgstr ""
+
+#: 
+msgid "There is a delay in ordering"
+msgstr ""
+
+#: 
+msgid "Contact the seller"
+msgstr ""
+
+#: 
+msgid "days"
+msgstr ""
+
+#: 
+msgid "minutes"
+msgstr ""
+
+#: 
+msgid "hours"
+msgstr ""
+
+#: 
+msgid "give me your best. we will do the best for you too"
+msgstr ""
+
+#: 
+msgid "Resolution Accepted"
+msgstr ""
+
+#: 
+msgid "Request Modification"
+msgstr ""
+
+#: 
+msgid "Let the seller know what you'd like to change. Please notethat if the changes exceed the orginal scope of the order, the seller may request an additional fee."
+msgstr ""
+
+#: 
+msgid "Type a comment..."
+msgstr ""
+
+#: 
+msgid " tap button to attach a file."
+msgstr ""
+
+#: 
+msgid "Submit request"
+msgstr ""
+
+#: 
+msgid "Here is your delivery"
+msgstr ""
+
+#: 
+msgid "Approve"
+msgstr ""
+
+#: 
+msgid "View all deliveries"
+msgstr ""
+
+#: 
+msgid "Request modification"
+msgstr ""
+
+#: 
+msgid "Revision Request"
+msgstr ""
+
+#: 
+msgid "Select Attachment Option"
+msgstr ""
+
+#: 
+msgid "Insert Image"
+msgstr ""
+
+#: 
+msgid "Choose File"
+msgstr ""
+
+#: 
+msgid "Thanks for Rating!"
+msgstr ""
+
+#: 
+msgid "Please rate and include at least 10 characters..."
+msgstr ""
+
+#: 
+msgid "Share your experience..."
+msgstr ""
+
+#: 
+msgid "Completed"
+msgstr ""
+
+#: 
+msgid "request to cancel the order"
+msgstr ""
+
+#: 
+msgid "stated the issue is: "
+msgstr ""
+
+#: 
+msgid "your"
+msgstr ""
+
+#: 
+msgid "The seller can't do this job"
+msgstr ""
+
+#: 
+msgid " approved "
+msgstr ""
+
+#: 
+msgid "accepted this offer"
+msgstr ""
+
+#: 
+msgid "Order name"
+msgstr ""
+
+#: 
+msgid "you"
+msgstr ""
+
+#: 
+msgid "'s"
+msgstr ""
+
+#: 
+msgid "There is not enough money in your account"
+msgstr ""
+
+#: 
+msgid "is missing"
+msgstr ""
+
+#: 
+msgid "Extra quantity"
+msgstr ""
+
+#: 
+msgid "Your URL"
+msgstr ""
+
+#: 
+msgid "Log In to your account"
+msgstr ""
+
+#: 
+msgid "Select a Language"
+msgstr ""
+
+#: 
+msgid "Accurately transcribe audio"
+msgstr ""
+
+#: 
+msgid "Upload file for transcript"
+msgstr ""
+
+#: 
+msgid "Give Me Information About Your Business"
+msgstr ""
+
+#: 
+msgid "Business Data Report"
+msgstr ""
+
+#: 
+msgid "Business Opportunity Description"
+msgstr ""
+
+#: 
+msgid "Business Name"
+msgstr ""
+
+#: 
+msgid "Specialization"
+msgstr ""
+
+#: 
+msgid "Volume Sales"
+msgstr ""
+
+#: 
+msgid "Notice"
+msgstr ""
+
+#: 
+msgid "Image"
+msgstr ""
+
+#: 
+msgid "What's the Content"
+msgstr ""
+
+#: 
+msgid "What's the Title"
+msgstr ""
+
+#: 
+msgid "Images to design"
+msgstr ""
+
+#: 
+msgid "Give Me a Keyword List About Your Business"
+msgstr ""
+
+#: 
+msgid "The Contents of The Sections in a Pdf File"
+msgstr ""
+
+#: 
+msgid "Your Logo"
+msgstr ""
+
+#: 
+msgid "Is Your Site Secure"
+msgstr ""
+
+#: 
+msgid "Which Audience is The Site Suitable For?"
+msgstr ""
+
+#: 
+msgid "Select Music Type"
+msgstr ""
+
+#: 
+msgid "What is the Subject and Content of The Jingel"
+msgstr ""
+
+#: 
+msgid "Music File"
+msgstr ""
+
+#: 
+msgid "Select a country"
+msgstr ""
+
+#: 
+msgid "Message Content"
+msgstr ""
+
+#: 
+msgid "Tell me what you're looking for"
+msgstr ""
+
+#: 
+msgid "Tell me what you want your logo to look like"
+msgstr ""
+
+#: 
+msgid "Additional Section Content"
+msgstr ""
+
+#: 
+msgid "Zandesk keys for the chat"
+msgstr ""
+
+#: 
+msgid "Domain name (if not available I will update you)"
+msgstr ""
+
+#: 
+msgid "Video/ Promotional Video"
+msgstr ""
+
+#: 
+msgid "Select extra target language"
+msgstr ""
+
+#: 
+msgid "Which smartphone do you want?"
+msgstr ""
+
+#: 
+msgid "Your Social Media Links"
+msgstr ""
+
+#: 
+msgid "Tell me what kind of content you want"
+msgstr ""
+
+#: 
+msgid "Choose a color"
+msgstr ""
+
+#: 
+msgid "Tell me which Design Style you want"
+msgstr ""
+
+#: 
+msgid "Tell me what the company does"
+msgstr ""
+
+#: 
+msgid "Tell Me Where Your Site is Stored"
+msgstr ""
+
+#: 
+msgid "Tell Me Which Design Style You Want"
+msgstr ""
+
+#: 
+msgid "Yes"
+msgstr ""
+
+#: 
+msgid "Select a field"
+msgstr ""
+
+#: 
+msgid "Communication"
+msgstr ""
+
+#: 
+msgid "Home Styling"
+msgstr ""
+
+#: 
+msgid "Male"
+msgstr ""
+
+#: 
+msgid "Female"
+msgstr ""
+
+#: 
+msgid "Both"
+msgstr ""
+
+#: 
+msgid "Your Social Media"
+msgstr ""
+
+#: 
+msgid "Technical Information (address, contact us and more ...)"
+msgstr ""
+
+#: 
+msgid "What's your Company Name"
+msgstr ""
+
+#: 
+msgid "Deep"
+msgstr ""
+
+#: 
+msgid "High"
+msgstr ""
+
+#: 
+msgid "Low"
+msgstr ""
+
+#: 
+msgid "Hoarse"
+msgstr ""
+
+#: 
+msgid "Skinny"
+msgstr ""
+
+#: 
+msgid "Childish"
+msgstr ""
+
+#: 
+msgid "Quiet"
+msgstr ""
+
+#: 
+msgid "Dramatic"
+msgstr ""
+
+#: 
+msgid "Loud"
+msgstr ""
+
+#: 
+msgid "Happy"
+msgstr ""
+
+#: 
+msgid "Calm"
+msgstr ""
+
+#: 
+msgid "What is the Field of the Business"
+msgstr ""
+
+#: 
+msgid "Vision"
+msgstr ""
+
+#: 
+msgid "Description of staff, entrepreneurs and managers"
+msgstr ""
+
+#: 
+msgid "Manage Orders"
+msgstr ""
+
+#: 
+msgid "Order "
+msgstr ""
+
+#: 
+msgid "Private"
+msgstr ""
+
+#: 
+msgid "Video"
+msgstr ""
+
+#: 
+msgid "Write a note..."
+msgstr ""
+
+#: 
+msgid "Phone number is not valid"
+msgstr "Phone number is not valid"
+
+#: 
+msgid "Social Media Links"
+msgstr ""
+
+#: 
+msgid "Landing page Subject"
+msgstr ""
+
+#: 
+msgid "Image for Design"
+msgstr ""
+
+#: 
+msgid "Landing page Content"
+msgstr ""
+
+#: 
+msgid "All fields are required"
+msgstr ""
+
+#: 
+msgid "You can update your order requirements at any time"
+msgstr ""
+
+#: 
+msgid "Update Now"
+msgstr ""
+
+#: 
+msgid "Later"
+msgstr ""
+
+#: 
+msgid "Wanna go out?"
+msgstr ""
+
+#: 
+msgid "SMS / Mail"
+msgstr ""
+
+#: 
+msgid "Report"
+msgstr ""
+
+#: 
+msgid "My Profile"
+msgstr ""
+
+#: 
+msgid "You are missing"
+msgstr ""
+
+#: 
+msgid "My Wallet"
+msgstr ""
+
+#: 
+msgid "Orders"
+msgstr ""
+
+#: 
+msgid "Hello,"
+msgstr ""
+
+#: 
+msgid "Mixing"
+msgstr ""
+
+#: 
+msgid "Hide results"
+msgstr ""
+
+#: 
+msgid "sum"
+msgstr ""
+
+#: 
+msgid "Total:"
+msgstr ""
+
+#: 
+msgid "Awaiting approval"
+msgstr ""
+
+#: 
+msgid "Your cancellation request was received"
+msgstr ""
+
+#: 
+msgid "You approved the request to cancel the orderResolution Accepted"
+msgstr ""
+
+#: 
+msgid "You stated the issue is: "
+msgstr ""
+
+#: 
+msgid "Order cancelled by customer support"
+msgstr ""
+
+#: 
+msgid "Order was cancelled by Phone.do Customer Support. Payment for this order was refunded to your Phone.do balance."
+msgstr ""
+
+#: 
+msgid "What should i do to run this blog?"
+msgstr ""
+
+#: 
+msgid "You don't have to do anything. This blog will run automatically and generate post from ebay and automatically posted your website. You can run ads on your website to get commission fast."
+msgstr ""
+
+#: 
+msgid "2 Paystub"
+msgstr ""
+
+#: 
+msgid "Can i earn for a long term with this method?"
+msgstr ""
+
+#: 
+msgid "Yes. This is actually a long term money making machine."
+msgstr ""
+
+#: 
+msgid "What if I have any questions?"
+msgstr ""
+
+#: 
+msgid "You are free to ask as many questions before or after a job has been completed. I'm more than happy to assist"
+msgstr ""
+
+#: 
+msgid "What's the likelihood of this improving my SEO?"
+msgstr ""
+
+#: 
+msgid "SEO revolves around 50% on page and 50% off page. If you're not taking care of your off page SEO, you are potentially losing half of your SEO power. With these services, it is a 100% guarantee that your search traffic will increase."
+msgstr ""
+
+#: 
+msgid "Do you provide a report once a job has been completed?"
+msgstr ""
+
+#: 
+msgid "Yes, a full in-depth report is provided. Not only that, I will be there to answer any questions you might have following completion of your job."
+msgstr ""
+
+#: 
+msgid "Do you outsource any of your work?"
+msgstr ""
+
+#: 
+msgid "No, I don't. All information provided will remain strictly confidential, thus, I will never disclose any information related to my customers."
+msgstr ""
+
+#: 
+msgid "Can you count the number of words in my document?"
+msgstr ""
+
+#: 
+msgid "Yes, I can accurately count words in documents, pdf files, and websites, using specialized software. If you are not sure of the number of words in your file, you can contact me and I'll gladly count them for you."
+msgstr ""
+
+#: 
+msgid "What format can you work on?"
+msgstr "What format can you work on?"
+
+#: 
+msgid "I can translate, Microsoft Word documents (97-2016), Excel files (97-2016), PowerPoint files (97-2016), Open Office Files (.odt), Notepad files (.rtf files). I CANNOT translate images."
+msgstr "I can translate, Microsoft Word documents (97-2016), Excel files (97-2016), PowerPoint files (97-2016), Open Office Files (.odt), Notepad files (.rtf files). I CANNOT translate images."
+
+#: 
+msgid "100 words"
+msgstr ""
+
+#: 
+msgid "You approved the request to cancel the order"
+msgstr "You approved the request to cancel the order"
+
+#: 
+msgid "60 seconds"
+msgstr ""
+
+#: 
+msgid "Investors leads of whice country?"
+msgstr ""
+
+#: 
+msgid "Please enter your first name"
+msgstr ""
+
+#: 
+msgid "Please enter your last name"
+msgstr ""
+
+#: 
+msgid "Please enter your email"
+msgstr ""
+
+#: 
+msgid "Please enter password"
+msgstr ""
+
+#: 
+msgid "What type of agent will \\nyou be?"
+msgstr ""
+
+#: 
+msgid "Full-time position"
+msgstr ""
+
+#: 
+msgid "Full-time positions help businesses contact you during business hours and days regularly. A part-time position will give businesses the option to assist you and you can still keep your full-time day job."
+msgstr ""
+
+#: 
+msgid "Businesses will contact you during business hours and days regularly."
+msgstr ""
+
+#: 
+msgid "Part-time position"
+msgstr ""
+
+#: 
+msgid "businesses will assist you and you can still keep your full-time day job."
+msgstr ""
+
+#: 
+msgid "Agent Type"
+msgstr ""
+
+#: 
+msgid "Take a Selfie"
+msgstr ""
+
+#: 
+msgid "Date of birth"
+msgstr ""
+
+#: 
+msgid "Date of birth is required"
+msgstr ""
+
+#: 
+msgid "My gender"
+msgstr ""
+
+#: 
+msgid "Gender is required"
+msgstr ""
+
+#: 
+msgid "Personal information"
+msgstr ""
+
+#: 
+msgid "    Gallery"
+msgstr ""
+
+#: 
+msgid "    Camera"
+msgstr ""
+
+#: 
+msgid "Add location"
+msgstr ""
+
+#: 
+msgid "Street name & number"
+msgstr ""
+
+#: 
+msgid "Postal code"
+msgstr ""
+
+#: 
+msgid "Type description..."
+msgstr ""
+
+#: 
+msgid "A short description"
+msgstr ""
+
+#: 
+msgid "Please add a short description on you, so that business can get to know you better."
+msgstr ""
+
+#: 
+msgid "description"
+msgstr ""
+
+#: 
+msgid "Accent"
+msgstr ""
+
+#: 
+msgid "Education profile"
+msgstr ""
+
+#: 
+msgid "Hobbies"
+msgstr ""
+
+#: 
+msgid "Work Experience"
+msgstr ""
+
+#: 
+msgid "Reading, writing and speaking"
+msgstr ""
+
+#: 
+msgid "\\n Reading, writing and speaking"
+msgstr ""
+
+#: 
+msgid "Your WhatsApp link"
+msgstr ""
+
+#: 
+msgid "Your YouTube link"
+msgstr ""
+
+#: 
+msgid "Your Facebook link"
+msgstr ""
+
+#: 
+msgid "Your Instagram link"
+msgstr ""
+
+#: 
+msgid "Your Twitter link"
+msgstr ""
+
+#: 
+msgid "Your LinkedIn link"
+msgstr ""
+
+#: 
+msgid "Please upload a profile image"
+msgstr ""
+
+#: 
+msgid "Professional info"
+msgstr ""
+
+#: 
+msgid "Add education degree"
+msgstr ""
+
+#: 
+msgid "If you do not find what you are looking for in this list, then feel free to add by free text"
+msgstr ""
+
+#: 
+msgid "Add free text"
+msgstr ""
+
+#: 
+msgid "Add education title"
+msgstr ""
+
+#: 
+msgid "Add profession"
+msgstr ""
+
+#: 
+msgid "Add hobbies"
+msgstr ""
+
+#: 
+msgid "Add work experience"
+msgstr ""
+
+#: 
+msgid "WE ARE NOT JUST TALKING"
+msgstr ""
+
+#: 
+msgid "Is Talking Your Best Talent? \\nMake Money From It"
+msgstr ""
+
+#: 
+msgid "By signing up, you confirm that you’ve read and accepted our"
+msgstr ""
+
+#: 
+msgid "Terms & Condition"
+msgstr ""
+
+#: 
+msgid "Become an agent"
+msgstr ""
+
+#: 
+msgid "Earn extra income and unlock new opportunities by helping other business"
+msgstr ""
+
+#: 
+msgctxt "בואו נתחיל"
+msgid "Let’s go"
+msgstr ""
+
+#: 
+msgctxt "בחר/י קידומת מדינה"
+msgid "Select country code"
+msgstr ""
+
+#: 
+msgctxt "קידומת מדינה"
+msgid "Country code"
+msgstr ""
+
+#: 
+msgid "We will send you an SMS to verifyed\\nyour phone number"
+msgstr ""
+
+#: 
+msgctxt "חפש/י קוד מדינה..."
+msgid "Search country code..."
+msgstr ""
+
+#: 
+msgctxt "נדרש שם פרטי"
+msgid "first name is required"
+msgstr ""
+
+#: 
+msgctxt "נדרש שם משפחה"
+msgid "Last Name is required"
+msgstr ""
+
+#: 
+msgctxt "נדרש כתובת מייל"
+msgid "Email is required"
+msgstr ""
+
+#: 
+msgctxt "בחר/י ארץ לידה"
+msgid "Choose country of birth"
+msgstr ""
+
+#: 
+msgctxt "עריכת שפה ומבטא"
+msgid "Edit language & accent"
+msgstr ""
+
+#: 
+msgid "You can select up to 3 languages, All languages you choose should be at the level of writing, reading and speaking."
+msgstr ""
+
+#: 
+msgid "Edit Personal profile"
+msgstr ""
+
+#: 
+msgid "Country of Birth"
+msgstr ""
+
+#: 
+msgid "Description"
+msgstr ""
+
+#: 
+msgid "Language & Accent"
+msgstr ""
+
+#: 
+msgid "Additional language"
+msgstr ""
+
+#: 
+msgid "Preferred workplace"
+msgstr ""
+
+#: 
+msgid "Country of Birth is required"
+msgstr ""
+
+#: 
+msgid "Choose accent"
+msgstr ""
+
+#: 
+msgid "Choose language"
+msgstr ""
+
+#: 
+msgid "Choose language & accent"
+msgstr ""
+
+#: 
+msgid "All languages you choose should be at the level of writing, reading and speaking."
+msgstr ""
+
+#: 
+msgid "Add additional language"
+msgstr ""
+
+#: 
+msgid "Additional accent"
+msgstr ""
+
+#: 
+msgid "url"
+msgstr ""
+
+#: 
+msgid "Choose social media"
+msgstr ""
+
+#: 
+msgid "If you are not a member of any social network, you can skip this step and move on."
+msgstr ""
+
+#: 
+msgid "You can select up to 3 education degrees"
+msgstr ""
+
+#: 
+msgid "You can select up to 3 professions\n"
+""
+msgstr ""
+
+#: 
+msgid "You can select up to 3 experinces."
+msgstr ""
+
+#: 
+msgid "You can select up to 3 hobbies."
+msgstr ""
+
+#: 
+msgid "None"
+msgstr ""
+
+#: 
+msgid "Bachelor’s degree"
+msgstr ""
+
+#: 
+msgid "Master’s degree"
+msgstr ""
+
+#: 
+msgid "Add Preferred workplace"
+msgstr ""
+
+#: 
+msgid "At home"
+msgstr ""
+
+#: 
+msgid "At my Office"
+msgstr ""
+
+#: 
+msgid "Shared \\nspaces"
+msgstr ""
+
+#: 
+msgid "Outside"
+msgstr ""
+
+#: 
+msgid "Congratulations!!!"
+msgstr ""
+
+#: 
+msgid "Thanks for getting onboard!"
+msgstr ""
+
+#: 
+msgid "Let’s go!"
+msgstr ""
+
+#: 
+msgid "No extra"
+msgstr ""
+
+#: 
+msgid "Rating (10%)"
+msgstr ""
+
+#: 
+msgid "experience (20%)"
+msgstr ""
+
+#: 
+msgid "07:00am - 05:00pm"
+msgstr ""
+
+#: 
+msgid "05:00pm - 12:00am"
+msgstr ""
+
+#: 
+msgid "12:00am - 07:00am"
+msgstr ""
+
+#: 
+msgid "Weekend"
+msgstr ""
+
+#: 
+msgid "Holidays"
+msgstr ""
+
+#: 
+msgid "Providing information"
+msgstr ""
+
+#: 
+msgid "Take messages"
+msgstr ""
+
+#: 
+msgid "Call transfer"
+msgstr ""
+
+#: 
+msgid "Reminders"
+msgstr ""
+
+#: 
+msgid "Collection"
+msgstr ""
+
+#: 
+msgid "Surveys"
+msgstr ""
+
+#: 
+msgid "Donations"
+msgstr ""
+
+#: 
+msgid "Technical support"
+msgstr ""
+
+#: 
+msgid "Types of calls"
+msgstr ""
+
+#: 
+msgid " Fit"
+msgstr ""
+
+#: 
+msgid " Approved"
+msgstr ""
+
+#: 
+msgid "My working profile"
+msgstr ""
+
+#: 
+msgid "My rating"
+msgstr ""
+
+#: 
+msgid "Why is this my rating?"
+msgstr ""
+
+#: 
+msgid "At the moment you are still new and this is the initial rating. In order to improve the rating we encourage you watch the tutorial videos."
+msgstr ""
+
+#: 
+msgid "Do you want to improve your rating quickly?"
+msgstr ""
+
+#: 
+msgid "My availability"
+msgstr ""
+
+#: 
+msgid "Why this is my availability?"
+msgstr ""
+
+#: 
+msgid "At the moment you are still new and this is the initial availability. In order to improve the availability we encourage you watch the tutorial videos."
+msgstr ""
+
+#: 
+msgid "My base salary"
+msgstr ""
+
+#: 
+msgid "Why is this my salary?"
+msgstr ""
+
+#: 
+msgid "At the moment you are still new and this is the starting salary. In order to improve your salary you need to gain experience and a good rating \\nFor this we recommend you to purchase guides"
+msgstr ""
+
+#: 
+msgid "items to submit"
+msgstr ""
+
+#: 
+msgid "The file is received in the system!"
+msgstr ""
+
+#: 
+msgid "Thanks for sharing!"
+msgstr ""
+
+#: 
+msgid " You uploaded a heavy file,"
+msgstr ""
+
+#: 
+msgid " Sorry for the delay!"
+msgstr ""
+
+#: 
+msgid "Please wait for Loading..."
+msgstr ""
+
+#: 
+msgid "Video length limit:"
+msgstr ""
+
+#: 
+msgid " seconds!"
+msgstr ""
+
+#: 
+msgid "Welcome to Phone.do"
+msgstr "😍😍😍"
+
+#: 
+msgid "QR code"
+msgstr "QR code"

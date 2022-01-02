@@ -1,0 +1,25 @@
+header {
+  box-sizing: border-box;
+  font-family: Rubik;
+  height: 8vh;
+  width: 100%;
+  border-bottom: 0.1vh solid #98a9bc;
+  background-color: #ffff;
+  position: fixed;
+  z-index: 1;
+  top: 0vh;
+  left: 0;
+  overflow: hidden;
+}
+
+header > h2 {
+  position: absolute;
+  right: 19vw;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 2.6vh;
+  line-height: 8vh;
+  color: #171725;
+  margin: 0vh 10vh 0vh 0vh;
+}

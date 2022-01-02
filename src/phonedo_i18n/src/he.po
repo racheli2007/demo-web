@@ -1,0 +1,8182 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: phonedo\n"
+"Language: he\n"
+
+#: 
+msgid "Home"
+msgstr "בית"
+
+#: 
+msgid "Leads"
+msgstr "לידים"
+
+#: 
+msgid "Account"
+msgstr "חשבון"
+
+#: 
+#, fuzzy
+msgid "Sign in"
+msgstr "להתחבר"
+
+#: 
+msgid "Phone"
+msgstr "טלפון"
+
+#: 
+msgid "Password"
+msgstr "סיסמה"
+
+#: 
+msgid "Login"
+msgstr "התחברות"
+
+#: 
+#, fuzzy
+msgid "Don't have an account?"
+msgstr "אין לכם חשבון?"
+
+#: 
+#, fuzzy
+msgid "Sign Up"
+msgstr "הרשמה"
+
+#: 
+#, fuzzy
+msgid "Phone is required"
+msgstr "טלפון חובה"
+
+#: 
+msgid "Password is required"
+msgstr "נדרשת סיסמא"
+
+#: 
+msgid "Name is required"
+msgstr "נדרש שם"
+
+#: 
+msgid "Name"
+msgstr "שם"
+
+#: 
+msgid "Already have an Account?"
+msgstr "כבר יש לכם חשבון?"
+
+#: 
+msgid "Phone number"
+msgstr "מספר טלפון"
+
+#: 
+msgid "Industries"
+msgstr "תחומים"
+
+#: 
+msgid "Languages"
+msgstr "שפות"
+
+#: 
+msgid "Education"
+msgstr "השכלה"
+
+#: 
+msgid "Payment method"
+msgstr "אמצעי תשלום"
+
+#: 
+msgid "Settings"
+msgstr "הגדרות"
+
+#: 
+msgid "Notifications and sounds"
+msgstr "התראות וצלילים"
+
+#: 
+msgid "Security and privacy"
+msgstr "בטיחות ופרטיות"
+
+#: 
+msgid "Logout"
+msgstr "התנתקות"
+
+#: src/domain/hotline/hotline-scripts/script-survey/script-survey-question.tsx:72
+msgid "Add answer option"
+msgstr "הוסיפו אפשרות תשובה"
+
+#: src/domain/hotline/hotline-page/hotline-page-header.tsx:49
+msgid "Add simple script"
+msgstr "הוסיפו תסריט בסיסי"
+
+#: src/domain/hotline/hotline-page/hotline-page-header.tsx:56
+msgid "Add survey script"
+msgstr "הוסיפו תסריט סקר"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:39
+msgid "Calendar is not setup"
+msgstr "לוח השנה אינו מוגדר"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:58
+#, fuzzy
+msgid "Choose calendar for import"
+msgstr "בחרו לוח שנה לייבוא"
+
+#: src/domain/queue/queue-page/queue-page.tsx:20
+msgid "Edit Queue “Default music”"
+msgstr "עירכו תור ״מוזיקה ברירת מחדל״"
+
+#: src/domain/hotline/hotline-requirements/hotline-requirements.tsx:76
+msgid "Education degree"
+msgstr "תואר"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:70
+msgid "Import"
+msgstr "יבוא"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:42
+msgid "Import data from your Google calendar"
+msgstr "ייבאו נתונים מיומן הגוגל שלכם"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:84
+msgid "Importing data will take some time"
+msgstr "ייבוא הנתונים ייקח זמן"
+
+#: src/domain/hotline/hotline-requirements/hotline-requirements.tsx:42
+msgid "Language level"
+msgstr "רמת שפתית"
+
+#: src/domain/profile/language-page/language-page.tsx:22
+msgid "Language view"
+msgstr "תצוגת שפה"
+
+#: src/domain/queue/queue-page/queue-page.tsx:25
+msgid "Music on hold"
+msgstr "מוזיקה בהמתנה"
+
+#: src/domain/lead/lead-list/lead-list.tsx:72
+msgid "No assigned appointment"
+msgstr "אין מינוי מוקצה"
+
+#: src/domain/layout/layout.tsx:55
+msgid "Not found"
+msgstr "לא נמצא"
+
+#: src/domain/hotline/hotline-scripts/script-survey/script-survey.tsx:50
+msgid "Save script"
+msgstr "שימרו תסריט"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:45
+msgid "Start import"
+msgstr "התחילו לייבא"
+
+#: src/domain/profile/language-page/language-page.tsx:32
+msgid "System language"
+msgstr "שפת מערכת"
+
+#: src/domain/appointment/appointment-calendar-toolbar/appointment-calendar-toolbar.tsx:20
+msgid "Today"
+msgstr "היום"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:28
+msgid "Unlink calendar and clear data"
+msgstr "בטל קישור של לוח שנה ונקה נתונים"
+
+#: src/domain/appointment/appointment-page/appointment-page.tsx:87
+msgid "We will inform you when everything is ready"
+msgstr "אנו נודיע לך מתי הכל מוכן"
+
+#: 
+msgctxt "user"
+msgid "Hello, {user}"
+msgstr "שלום, {user}"
+
+#: 
+msgid "Incoming call"
+msgstr "שיחה נכנסת"
+
+#: 
+msgid "New"
+msgstr "חדש"
+
+#: 
+msgid "Clients"
+msgstr "לקוחות"
+
+#: 
+msgid "Incoming calls"
+msgstr "שיחות נכנסות"
+
+#: 
+msgid "Cdr"
+msgstr "פירוט שיחות"
+
+#: 
+msgid "Allocated numbers"
+msgstr "מספרים שהוקצו"
+
+#: 
+msgid "Hotlines"
+msgstr "קו חם"
+
+#: 
+msgid "Products"
+msgstr "מוצרים"
+
+#: 
+msgid "Queue"
+msgstr "תור"
+
+#: 
+msgid "Appointment"
+msgstr "קביעת פגישה"
+
+#: 
+msgid "Profile"
+msgstr "פרופיל"
+
+#: 
+msgid "Currency"
+msgstr "מטבע"
+
+#: 
+msgid "Company details"
+msgstr "פרטי החברה"
+
+#: 
+msgid "Application language"
+msgstr "שפת יישום"
+
+#: 
+msgid "Product catalog"
+msgstr "קטלוג מוצרים"
+
+#: 
+msgid "Modules"
+msgstr "מודולים"
+
+#: 
+msgid "Basic"
+msgstr "בסיסי"
+
+#: 
+msgid "Intermediate"
+msgstr "בינוני"
+
+#: 
+msgid "Advanced"
+msgstr "מתקדם"
+
+#: 
+#, fuzzy
+msgid "End call"
+msgstr "סיום שיחה"
+
+#: 
+msgid "Country"
+msgstr "מדינה"
+
+#: 
+msgid "Address"
+msgstr "כתובת"
+
+#: 
+msgid "Industry"
+msgstr "תחום"
+
+#: 
+msgid "Departments"
+msgstr "מחלקות"
+
+#: 
+msgid "Scripts"
+msgstr "שאלון"
+
+#: 
+msgid "Business"
+msgstr "עסקים"
+
+#: 
+msgid "Client"
+msgstr "לקוח"
+
+#: 
+msgid "Actions"
+msgstr "פעולות"
+
+#: 
+msgid "Call is already taken"
+msgstr "השיחה כבר מבוצעת"
+
+#: 
+msgid "Be faster next time!"
+msgstr "תהיה מהיר יותר בפעם הבאה!"
+
+#: 
+msgid "Ok, got it"
+msgstr "בסדר, הבנתי"
+
+#: 
+msgid "New Client"
+msgstr "לקוח חדש"
+
+#: 
+msgid "Information"
+msgstr "מידע"
+
+#: 
+msgid "Surname"
+msgstr "שם משפחה"
+
+#: 
+msgid "Answers"
+msgstr "תשובות"
+
+#: 
+msgid "Loading"
+msgstr "טוען"
+
+#: 
+msgid "Other scripts"
+msgstr "תסריטים אחרים"
+
+#: 
+#, fuzzy
+msgid "Client's answer"
+msgstr "תשובת הלקוח"
+
+#: 
+msgid "Calendar"
+msgstr "לוח שנה"
+
+#: 
+msgid "Save"
+msgstr "שמירה"
+
+#: 
+msgid "Title"
+msgstr "כותרת"
+
+#: 
+msgid "date From"
+msgstr "תאריך מ"
+
+#: 
+msgid "date To"
+msgstr "תאריך ל"
+
+#: 
+msgid "Comment"
+msgstr "תגובה"
+
+#: 
+msgid "Event title cannot be empty"
+msgstr "כותרת האירוע לא יכולה להיות ריקה"
+
+#: 
+msgid "Lead details"
+msgstr "פרטי הלקוח"
+
+#: 
+msgid "module.scheduleMeeting.description"
+msgstr "תזמון פגישה הוא מודול המאפשר לך לתזמן פגישות"
+
+#: 
+msgid "module.productCatalog.description"
+msgstr "תיאור מודול קטלוג מוצרים"
+
+#: 
+msgid "Take your call from anywhere"
+msgstr "קח את השיחה שלך מכל מקום"
+
+#: 
+msgid "Phonedo operates worldwide."
+msgstr "פונדו פועלת ברחבי העולם."
+
+#: 
+msgid "It is a global brokerage platform that connects between hundreds of thousands of businesses and millions of agents."
+msgstr "זוהי פלטפורמת תיווך עולמית המחברת בין מאות אלפי עסקים למיליוני סוכנים."
+
+#: 
+msgid "Register"
+msgstr "להירשם"
+
+#: 
+msgid "Country & phone number"
+msgstr "מדינה ומספר טלפון"
+
+#: 
+msgid "Selected country"
+msgstr "מדינה שנבחרה"
+
+#: 
+msgid "Select country"
+msgstr "בחר מדינה"
+
+#: 
+msgid "Code"
+msgstr "קוד"
+
+#: 
+msgid "Choose your country"
+msgstr "בחר את מדינתך"
+
+#: 
+msgid "Get code"
+msgstr "קבל קוד"
+
+#: 
+msgid "Security code"
+msgstr "קוד אבטחה"
+
+#: 
+msgid "Enter the 6 digit code sent to your phone"
+msgstr "הזן את הקוד בן 6 הספרות שנשלח לטלפון שלך"
+
+#: 
+msgid "Next"
+msgstr "הבא"
+
+#: 
+#, fuzzy
+msgid "Enter Phonedo"
+msgstr "כנסו לפונדו"
+
+#: 
+msgid "Answer"
+msgstr "תשובה"
+
+#: 
+#, fuzzy
+msgid "Bachelor's Degree"
+msgstr "תואר ראשון"
+
+#: 
+#, fuzzy
+msgid "Master's Degree"
+msgstr "תואר שני"
+
+#: 
+msgid "Dr."
+msgstr "ד\"ר"
+
+#: 
+msgid "Professor"
+msgstr "פרופסור"
+
+#: 
+msgid "module.stuffMember.description"
+msgstr "מודול - חברי צוות"
+
+#: 
+msgid "module.places.description"
+msgstr "מודול - מיקומים"
+
+#: 
+msgid "module.faq.description"
+msgstr "מודול - שו״ת"
+
+#: 
+msgid "Terms and Conditions"
+msgstr "תנאי שימוש"
+
+#: 
+#, fuzzy
+msgid "Privacy Policy"
+msgstr "מדיניות פרטיות"
+
+#: 
+msgid "Calls"
+msgstr "שיחות"
+
+#: 
+msgid "Billing"
+msgstr "קופה"
+
+#: 
+msgid "Support"
+msgstr "תמיכה"
+
+#: 
+msgid "Not rated yet"
+msgstr "לא דורג עדיין"
+
+#: 
+msgid "History"
+msgstr "הסטוריית"
+
+#: 
+msgid "Withdrawals"
+msgstr "משיכות"
+
+#: 
+msgid "Balance"
+msgstr "יתרה"
+
+#: 
+#, fuzzy
+msgid "Call"
+msgstr "שיחה"
+
+#: 
+msgid "Call details"
+msgstr "פרטי שיחה"
+
+#: 
+msgid "Your stats"
+msgstr "הסטטיסטיקה שלך"
+
+#: 
+msgid "Average rating"
+msgstr "דירוג ממוצע"
+
+#: 
+msgid "view details"
+msgstr "צפו בפרטים"
+
+#: 
+msgid "Your stats details"
+msgstr "פרטי הסטטיסטיקה שלך"
+
+#: 
+msgid "Service level"
+msgstr "רמת שירות"
+
+#: 
+msgid "Customer satisfaction"
+msgstr "שביעות רצון הלקוח"
+
+#: 
+msgid "Phonedo support"
+msgstr "תמיכת פונדו"
+
+#: 
+msgid "Live chat Support"
+msgstr "תמיכה בצ׳אט"
+
+#: 
+msgid "Contact Us by Email"
+msgstr "צרו עמנו קשר באימייל"
+
+#: 
+msgid "Could not launch"
+msgstr "לא ניתן להפעיל"
+
+#: 
+msgid "incl. bonus"
+msgstr "כולל בונוס"
+
+#: 
+msgid "Greeting message"
+msgstr "הודעת פתיחה"
+
+#: 
+msgid "Profile updated"
+msgstr "הפרופיל עודכן"
+
+#: 
+msgid "Add payment method"
+msgstr "הוסף אמצעי תשלום"
+
+#: 
+msgid "yes"
+msgstr "כן"
+
+#: 
+msgid "no"
+msgstr "לא"
+
+#: 
+msgid "Hotline details"
+msgstr "פרטי המוקד"
+
+#: 
+msgid "About us"
+msgstr "אודותינו"
+
+#: 
+msgid "Please enter valid email"
+msgstr "נא להזין כתובת דוא״ל תקינה"
+
+#: 
+msgid "Please enter your name and Email"
+msgstr "נא להזין שם וכתובת דוא״ל"
+
+#: 
+msgid "Please enter a password"
+msgstr "נא להזין סיסמא"
+
+#: 
+msgid "Please enter your phone number"
+msgstr "נא להזין את מספר הטלפון"
+
+#: 
+msgid "This phone is already registered"
+msgstr "מספר הטלפון שהוזן כבר בשימוש"
+
+#: 
+msgid "Catalog"
+msgstr "קטלוג"
+
+#: 
+msgid "Price"
+msgstr "מחיר "
+
+#: 
+msgid "Type"
+msgstr "סוג"
+
+#: 
+msgid "product"
+msgstr "מוצר"
+
+#: 
+msgid "service"
+msgstr "שירות"
+
+#: 
+msgid "Cancel"
+msgstr "ביטול"
+
+#: 
+msgid "Done"
+msgstr "בוצע"
+
+#: 
+msgid "Events"
+msgstr "ארוע"
+
+#: 
+msgid "Event manager"
+msgstr "מנהל אירועים"
+
+#: 
+msgid "Add participant"
+msgstr "הוספת משתתף"
+
+#: 
+msgid "Q&A"
+msgstr "שו״ת"
+
+#: 
+msgid "Change password"
+msgstr "החליפו סיסמה"
+
+#: 
+msgid "Name & Email"
+msgstr "שם ודוא״ל"
+
+#: 
+msgid "Create a password to secure your account"
+msgstr "צרו סיסמה לאבטחת החשבון"
+
+#: 
+msgid "Website"
+msgstr "אתר"
+
+#: 
+msgid "Organization Summary"
+msgstr "תקציר הארגון"
+
+#: 
+msgid "Company Purpose"
+msgstr "מטרת החברה"
+
+#: 
+msgid "Board Director"
+msgstr "חבר דירקטוריון"
+
+#: 
+msgid "VAT Number"
+msgstr "מספר מע״מ"
+
+#: 
+msgid "Preferences"
+msgstr "העדפות"
+
+#: 
+msgid "Social media"
+msgstr "מדיה חברתית"
+
+#: 
+msgid "Working hours & days"
+msgstr "ימים ושעות עבודה"
+
+#: 
+msgid "Work experience"
+msgstr "נסיון בעבודה"
+
+#: 
+msgid "Sales person"
+msgstr "איש מכירות"
+
+#: 
+msgid "Error"
+msgstr "שגיאה"
+
+#: 
+msgid "Setup your working hours and days"
+msgstr "הגדרות ימים ושעות עבודה"
+
+#: 
+msgid "Employments"
+msgstr "תעסוקה"
+
+#: 
+msgid "Experience in sale"
+msgstr "נסיון במכירות "
+
+#: 
+msgid "Time period"
+msgstr "תקופה"
+
+#: 
+msgid "Profession"
+msgstr "התמחות"
+
+#: 
+msgid "Position"
+msgstr "עמדה"
+
+#: 
+msgid "Do you have sales experience"
+msgstr "האם יש לך נסיון במכירות"
+
+#: 
+msgid "At least 2 years experience"
+msgstr "לפחות שנתיים נסיון"
+
+#: 
+msgid "How do you prefer to work"
+msgstr "כיצד הנכם מעדיפים לעהפבוד"
+
+#: 
+msgid "Work from home"
+msgstr "עבודה מהבית"
+
+#: 
+msgid "Work in a shared workspace"
+msgstr "עבודה מחלל משותף"
+
+#: 
+msgid "Mobility"
+msgstr "נייד"
+
+#: 
+msgid "Experience in sales"
+msgstr "נסיון במכירות"
+
+#: 
+msgid "Prefer to work"
+msgstr "עדיפות עבודה"
+
+#: 
+msgid "Fashion"
+msgstr "אופנה"
+
+#: 
+msgid "Sport"
+msgstr "ספורט"
+
+#: 
+msgid "Real estate"
+msgstr "נדל״ן"
+
+#: 
+msgid "Technology"
+msgstr "טכנולוגיה"
+
+#: 
+msgid "Media"
+msgstr "מדיה"
+
+#: 
+msgid "Logistics"
+msgstr "לוגיסטיקה"
+
+#: 
+msgid "Current password"
+msgstr "סיסמה נוכחית"
+
+#: 
+msgid "New password"
+msgstr "סיסמה חדשה"
+
+#: 
+msgid "Change"
+msgstr "החליפו"
+
+#: 
+msgid "Health Care"
+msgstr "בריאות"
+
+#: 
+msgid "Finance"
+msgstr "פיננסים"
+
+#: 
+msgid "Law"
+msgstr "חוק"
+
+#: 
+msgid "Construction"
+msgstr "בנייה"
+
+#: 
+msgid "Student"
+msgstr "סטודנט"
+
+#: 
+msgid "Employee"
+msgstr "עובד"
+
+#: 
+msgid "Unemployed"
+msgstr "מובטל"
+
+#: 
+msgid "Self-employed"
+msgstr "עצמאי"
+
+#: 
+msgid "Pensioner"
+msgstr "פנסיונר"
+
+#: 
+msgid "Few months"
+msgstr "מספר חודשים"
+
+#: 
+msgid "Developer"
+msgstr "יזם"
+
+#: 
+msgid "Sunday"
+msgstr "ראשון"
+
+#: 
+msgid "1 year"
+msgstr "שנה אחת"
+
+#: 
+msgid "2 year"
+msgstr "שנתיים"
+
+#: 
+msgid "3+ year"
+msgstr "שלש שנים"
+
+#: 
+msgid "Doctor"
+msgstr "דוקטור"
+
+#: 
+msgid "Lawyer"
+msgstr "עורך דין"
+
+#: 
+msgid "CPA"
+msgstr "רואה חשבון"
+
+#: 
+msgid "Psychologist"
+msgstr "פסיכולוג"
+
+#: 
+msgid "Social worker"
+msgstr "עובד סוציאלי"
+
+#: 
+msgid "Estate broker"
+msgstr "מתווך נדל״ן"
+
+#: 
+msgid "Economist"
+msgstr "כלכלן"
+
+#: 
+msgid "Diets"
+msgstr "דיאטות"
+
+#: 
+msgid "Electronic engineer"
+msgstr "מהנדס חשמל"
+
+#: 
+msgid "Other"
+msgstr "אחר"
+
+#: 
+msgid "Monday"
+msgstr "שני"
+
+#: 
+msgid "Tuesday"
+msgstr "שלישי"
+
+#: 
+msgid "Wednesday"
+msgstr "רביעי"
+
+#: 
+msgid "Thursday"
+msgstr "חמישי"
+
+#: 
+#, fuzzy
+msgid "Friday"
+msgstr "שישי"
+
+#: 
+msgid "Saturday"
+msgstr "שבת"
+
+#: 
+msgid "Close lead"
+msgstr "סיים שיחה"
+
+#: 
+msgid "Withdraw money"
+msgstr "משיכת כסף"
+
+#: 
+msgid "Amount of money to withdraw"
+msgstr "סכום למשיכה"
+
+#: 
+msgid "Withdraw"
+msgstr "משיכה"
+
+#: 
+msgid "Call is already taken, be faster next time!"
+msgstr "השיחה כבר נענתה. זה עניין של זריזות!"
+
+#: 
+msgid "Internal error, cannot process incoming"
+msgstr "שגיאה פנימית. לא ניתן לקבל"
+
+#: 
+msgid "Internal error. Please, try later"
+msgstr "שגיאה פנימית. יש לנסות מאוחר יותר "
+
+#: 
+msgid "Internal server error"
+msgstr "שגיאת שרת פנימית"
+
+#: 
+msgid "Password updated"
+msgstr "הסיסמה עודכנה"
+
+#: 
+msgid "Current password is incorrect"
+msgstr "הסיסמה הנוכחית אינה נכונה"
+
+#: 
+msgid "Years of educating"
+msgstr "שנות לימוד"
+
+#: 
+msgid "Degree"
+msgstr "תואר"
+
+#: 
+msgid "Courses"
+msgstr "קורסים"
+
+#: 
+msgid "Caller info"
+msgstr "פרטי המתקשר"
+
+#: 
+msgid "Message"
+msgstr "הודעה"
+
+#: 
+msgid "Notes"
+msgstr "תזכורות"
+
+#: 
+msgid "Purpose of the call"
+msgstr "מטרת השיחה"
+
+#: 
+msgid "Enter purpose of the call"
+msgstr "הזן את מטרת השיחה"
+
+#: 
+msgid "from"
+msgstr "מאת"
+
+#: 
+msgid "Enter a message"
+msgstr "הזן הודעה"
+
+#: 
+msgid "Take a message"
+msgstr "קח הודעה"
+
+#: 
+msgid "Media Attachments"
+msgstr "קבצי מדיה מצורפים "
+
+#: 
+msgid "Media attachment"
+msgstr "קובץ מדיה מצורף"
+
+#: 
+msgid "Stuff member"
+msgstr "חבר צוות "
+
+#: 
+msgid "Nearby infrastructure"
+msgstr "תשתיות באיזור"
+
+#: 
+msgid "FAQ"
+msgstr "שו״ת"
+
+#: 
+msgid "Activity"
+msgstr "פעילות"
+
+#: 
+msgid "Schedule meeting"
+msgstr "תאם פגישה"
+
+#: 
+msgid "Places"
+msgstr "מקומות"
+
+#: 
+msgid "Agent notes for business account"
+msgstr "תובנות מהמוקדן לעסק"
+
+#: 
+msgid "Enter a note about the call"
+msgstr "הזן תובנה לגבי השיחה"
+
+#: 
+msgid "Questions and answers"
+msgstr "שאלות ותשובות"
+
+#: 
+msgid "No questions available"
+msgstr "אין שאלות"
+
+#: 
+msgid "Meeting"
+msgstr "פגישה"
+
+#: 
+msgid "Note"
+msgstr "תזכורת"
+
+#: 
+msgid "Bonus for the call"
+msgstr "בונוס עבור השיחה"
+
+#: 
+msgid "We are here to help. You can send us an Email or write a chat message."
+msgstr "אנו כאן לסייע. תוכלו לפנות אלינו בדוא״ל או להתכתב עמנו בצ׳אט"
+
+#: 
+#, fuzzy
+msgid "Welcome"
+msgstr "ברוכים הבאים"
+
+#: 
+msgid "Are you sure to close?"
+msgstr "את\\ה בטוח\\ה?"
+
+#: 
+#, fuzzy
+msgid "Please, define, if customer's issue was resolved. Once submitted you wont't be able to edit the lead later."
+msgstr "אם תסגור את הכרטיסייה כעת לא תוכל לערוך אותה שוב"
+
+#: 
+msgid "Issue closed"
+msgstr "נושא סגור"
+
+#: 
+#, fuzzy
+msgid "About the business"
+msgstr "מידע על העסק"
+
+#: 
+msgid "Are you sure?"
+msgstr "את\\ה בטוח\\ה?"
+
+#: 
+msgid "You will be disconnected from the client"
+msgstr "תתנתק מהלקוח"
+
+#: 
+msgid "Lead info"
+msgstr "פרטי הפונה"
+
+#: 
+msgid "Email"
+msgstr "מייל"
+
+#: 
+msgid "For business"
+msgstr "תקשורת עם העסק"
+
+#: 
+msgid "Total"
+msgstr "סה\"כ"
+
+#: 
+msgid "to Phonedo Customer Service"
+msgstr "לשירות הלקוחות של פונדו"
+
+#: 
+msgid "English"
+msgstr "אנגלית"
+
+#: 
+msgid "Hebrew"
+msgstr "עברית"
+
+#: 
+msgid "Russian"
+msgstr "רוסית"
+
+#: 
+msgid "Insurance"
+msgstr "ביטוח"
+
+#: 
+msgid "Design"
+msgstr "עיצוב"
+
+#: 
+msgid "Contacts"
+msgstr "יצירת קשר"
+
+#: 
+#, fuzzy
+msgid "Animals"
+msgstr "בעלי חיים"
+
+#: 
+msgid "Working hours"
+msgstr "שעות עבודה"
+
+#: 
+msgid "Home styling"
+msgstr "עיצוב הבית"
+
+#: 
+msgid "Question"
+msgstr "שאלה"
+
+#: 
+msgid "Transportation"
+msgstr "תחבורה"
+
+#: 
+msgid "Agriculture"
+msgstr "חקלאות"
+
+#: 
+msgid "Services"
+msgstr "שירותים"
+
+#: 
+msgid "Jurisprudence"
+msgstr "משפטים"
+
+#: 
+msgid "Energy"
+msgstr "אנרגיה"
+
+#: 
+msgid "Incoming already assigned"
+msgstr "השיחה נענתה על ידי מוקדן אחר"
+
+#: 
+msgid "Call is already hanged up"
+msgstr "השיחה נותקה על ידי הפונה"
+
+#: 
+msgid "VOiP is not well-configured for your account, please contact support"
+msgstr "הגדרות ״שיחת רשת״ אינם מתאימים לחשבונכם. צרו קשר עם התמיכה"
+
+#: 
+msgid "Your app is currently unregistered because of network issues - please close the app by swiping it off and reopen it"
+msgstr "האפליקציה שברשותכם אינה רשומה במערכות שלנו בגלל תקלת רשת. אנא סיגרו ופיתחו את האפליקציה"
+
+#: 
+msgid "Issue opened"
+msgstr "נושא פתוח"
+
+#: 
+msgid "Call ended"
+msgstr "שיחה הסתיימה"
+
+#: 
+#, fuzzy
+msgid "Agent notes"
+msgstr "הערת המוקדן"
+
+#: 
+msgid "Oops, your phone disconnected from our network, please try again."
+msgstr "אופס, המכשיר שלך התנתק מהרשת שלנו, אנא נסה שוב"
+
+#: 
+msgid "Credit"
+msgstr "זכות"
+
+#: 
+#, fuzzy
+msgid "Client's answers"
+msgstr "תשובת הפונה"
+
+#: 
+msgid "Call purpose"
+msgstr "מטרת השיחה"
+
+#: 
+#, fuzzy
+msgid "Client's message"
+msgstr "הודעת הפונה"
+
+#: 
+msgid "Call agent notes"
+msgstr "תובנת המוקדן"
+
+#: 
+msgid "Client Info"
+msgstr "פרטי הפונה"
+
+#: 
+msgid "Client name"
+msgstr "שם הפונה"
+
+#: 
+msgid "Rate the call"
+msgstr "דרגו את השיחה"
+
+#: 
+msgid "Rate"
+msgstr "דירוג"
+
+#: 
+msgid "Review"
+msgstr "בחינה"
+
+#: 
+msgid "Bonus"
+msgstr "בונוס"
+
+#: 
+msgid "Favorites"
+msgstr "מועדף"
+
+#: 
+msgid "Remove from favorite"
+msgstr "הסר מהמועדפים"
+
+#: 
+msgid "Add to favorite"
+msgstr "הוסף למועדפים"
+
+#: 
+#, fuzzy
+msgid "If you liked the call you might want to add this call agent to your Favorites. They will have a priority when distributing calls for your business next time."
+msgstr "אם הנכם מרוצים מהשיחה, יתכן ותרצו להוסיף את המוקדן לרשימת המועדפים. מה שאומר שתהיה לו קדימות לענות לשיחות הבאות של העסק שלכם."
+
+#: 
+msgid "Write a review"
+msgstr "כתוב משוב"
+
+#: 
+msgid "Incorrect feedback"
+msgstr "משוב שגוי"
+
+#: 
+#, fuzzy
+msgid "Customer's satisfaction"
+msgstr "שביעות רצון הפונה"
+
+#: 
+msgid "Send bonus in percent of profit by call"
+msgstr "הענק בונוס באחוזים על עלות השיחה"
+
+#: 
+msgid "You can send a bonus payment to the Call agent for this call"
+msgstr "תוכן להעניק בונוס כספי למוקדן עבור השיחה "
+
+#: 
+msgid "You are given a bonus!"
+msgstr "קיבלת בונוס!"
+
+#: 
+msgid "Call info"
+msgstr "סיכום שיחה"
+
+#: 
+msgid "Date"
+msgstr "תאריך"
+
+#: 
+msgid "Call agent"
+msgstr "מוקדן"
+
+#: 
+msgid "Call ratings"
+msgstr "דירוג שיחה"
+
+#: 
+msgid "Listen"
+msgstr "הקשבה"
+
+#: 
+msgid "Pause"
+msgstr "השהייה"
+
+#: 
+msgid "Active calls"
+msgstr "שיחות פעילות"
+
+#: 
+msgid "Calls history"
+msgstr "הסטוריית שיחות"
+
+#: 
+msgid "We are here to help. You can send us an Email."
+msgstr "אנו כאן לסייע. ניתן לשלוח לנו דוא״ל"
+
+#: 
+msgid "Bonus for lead #"
+msgstr " בונוס לליד"
+
+#: 
+msgid "Charge for lead #"
+msgstr "עלות לליד"
+
+#: 
+msgid "You are about to receive an incoming call to your mobile phone."
+msgstr "אתם עומדים לקבל שיחה לטלפון הנייד"
+
+#: 
+msgid "To"
+msgstr "עד"
+
+#: 
+msgid "Join to:"
+msgstr "הצטרף אל"
+
+#: 
+msgid "Talk to agent"
+msgstr "דיבור עם המוקדן"
+
+#: 
+msgid "Talk to both"
+msgstr "דיבור עם שניהם"
+
+#: 
+msgid "Join call"
+msgstr "הצטרפות לשיחה"
+
+#: 
+msgid "Opened"
+msgstr "פתוח"
+
+#: 
+msgid "Closed"
+msgstr "סגור"
+
+#: 
+#, fuzzy
+msgid "Client's info"
+msgstr "פרטי לקוח"
+
+#: 
+msgid "Call ID"
+msgstr "מזהה שיחה"
+
+#: 
+#, fuzzy
+msgid "Client's name"
+msgstr "שם הלקוח"
+
+#: 
+#, fuzzy
+msgid "Charge for call"
+msgstr "חיוב לשיחה"
+
+#: 
+msgid "Bonus for call"
+msgstr "בונוס לשיחה"
+
+#: 
+msgid "Add bonus"
+msgstr "הוסף בונוס"
+
+#: 
+msgid "For record"
+msgstr "לפרוטוקול"
+
+#: 
+msgid "Recordings"
+msgstr "הקלטות"
+
+#: 
+msgid "Warning"
+msgstr "אַזהָרָה"
+
+#: 
+msgid "Didn't receive the code?"
+msgstr "לא קיבלת את הקוד?"
+
+#: 
+msgid "Let's go"
+msgstr "באו נתחיל"
+
+#: 
+msgid "We are not just talking"
+msgstr "אנחנו לא רק מדברים"
+
+#: 
+msgid "We Make The Connections Your Business Needs"
+msgstr "אנחנו יוצרים את הקשרים שהעסק שלך צריך"
+
+#: 
+msgid "So, what is Phone.do for businesses?"
+msgstr "אז מה זה פונדו לעסקים?"
+
+#: 
+msgid "Why does my business need Phone.do?"
+msgstr "מדוע העסק שלי צריך את פונדו?"
+
+#: 
+msgid "Unleash the awesome power of your mobile phone for your business. Phone.do put simply is a telephone answering service for your business. Or an outbound calling facility for your business. But the tech behind it means that it does so much more than that. Our amazing technology allows a remote agent to work as though they were embedded right at the center of your business."
+msgstr "שחררו את כוחו האדיר של מכשיר הפלאפון בשביל העסק שלכם. פונדו, בפשטות, היא מערכת מענה טלפוני לעסק שלכם, או מוקד טלפוני חיצוני בשביל העסק שלכם, אבל הטכנולוגיה שעומדת מאחורי כל זה עושה כל כך הרבה יותר. הטכנולוגיה המדהימה שלנו מאפשרת לסוכן מרוחק לעבוד כאילו הוא מוטמע עמוק בתוך העסק שלכם."
+
+#: 
+msgid "Which agent fits my business?"
+msgstr "איזה מוקדן מתאים לעסק שלי?"
+
+#: 
+msgid "We're a human telephone answering service. We connect agents and businesses to provide low cost call center solutions that work for you."
+msgstr "אנחנו מענה טלפוני אנושי. אנחנו מקשרים בין מוקדנים ועסקים כדי לספק מוקד טלפוני בעלות נמוכה שעובד בשבילכם"
+
+#: 
+msgid "Phone.do allows you to define and sort agents according to languages, specialties, employment experience, and mostly according to ratings and recommendations from other businesses."
+msgstr "פונדו מאפשרת לך להגדיר ולמיין סוכנים לפי שפות, התמחויות, ניסיון תעסוקתי, ובעיקר על פי דירוגים והמלצות של עסקים אחרים. המומחים שלנו מנתחים את איכויות הסוכנים בזמן אמת ומטמיעים את זה במערכת הנגישה עבורך. סדר העדיפויות המקצועי מבטיח תוצאות מקסימליות.\n"
+""
+
+#: 
+msgid "Who are we?"
+msgstr "מי אנחנו?"
+
+#: 
+msgid "Just people who want to help. We have seen a future where businesses and agents come together. Would you like to see this future too?"
+msgstr "פשוט אנשים שרוצים לעזור. אנחנו רואים עתיד שבו עסקים ומוקדנים עובדים מרחוק ביחד. אתם רוצים גם לראות את העתיד הזה?"
+
+#: 
+msgid "Business explanation"
+msgstr "הסבר עסקים"
+
+#: 
+msgid "So, Your business is grown fast, with many ongoing marketing campaigns for products or services and you getting a lot of traffic, Phone.do is the best solution for you."
+msgstr "אז העסק שלכם גדל במהירות עם קמפיינים שיווקיים מתמשכים רבים עבור מוצרים או שירותים ואתה מקבל תנועה רבה, פונדו הוא הפיתרון הטוב ביותר עבורך"
+
+#: 
+msgid "Business testimonial"
+msgstr "המלצות עסקים"
+
+#: 
+msgid "The call center in your pocket. It takes time, money and expertise to set up an effective hotline, whether you're taking incoming calls or making outgoing ones. And then you might have reps sat there waiting or the call."
+msgstr "מוקד טלפוני בכיס שלכם. לוקח זמן, כסף וניסיון כדי להקים מוקד טלפוני יעיל, בין אם זה בשביל שיחות נכנסות או יוצאות. ואז, אחרי שהקמתם אותו, יכולים להיות לכם נציגים שפשוט יושבים שם ומחכים לשיחה.\n"
+""
+
+#: 
+msgid "Why use Phone.do"
+msgstr "מדוע להשתמש בפונדו"
+
+#: 
+msgid "There comes a point in any business where you need more capacity. Every task you do comes at a cost. The cost is another activity that you could do instead. So, if you are constantly on the phone then you are missing out on other opportunities."
+msgstr "כל עסק מגיע לנקודה בו שהוא צריך תשומת לב רבה יותר. וזה מגיע על חשבון משהו אחר. לפעמים על חשבון פעילות חשובה חשובה אחרת שהייתה יכולה לקדם את העסק. אם אתם המון על הטלפון אתם בטוח מפסידים הזדמנויות אחרות."
+
+#: 
+msgid "Meet a few of our businesses"
+msgstr "פיגשו מספר מלקוחותינו העסקיים"
+
+#: 
+msgid "We could not think of entering new markets, due to language restrictions, and time zones. Phone.do for us it is a real revolution. Can't believe how nobody think of it before... Amazing"
+msgstr "לא יכולנו לחשוב על כניסה לשווקים חדשים, עקב הגבלה של שפות ואזורי זמן. Phone.do עבורינו זאת מהפכה אמיתית. לא להאמין איך לא חשבו על זה קודם. מדהים!!!"
+
+#: 
+msgid "As calls come onto our system, Phone.do automatically \"pushes\" notifications out to our community. Bids are sent to all agents that match your criteria and budget."
+msgstr "כל השיחות מגיעות אל המערכת שלנו. Phone.do באופן אוטומטי שולחת הודעות פוש לכל הקהילה. בעצם מין מכרז לכל הנציגים שמתאימים לפי הקריטריון והתקציב."
+
+#: 
+msgid "How to get started"
+msgstr "איך מתחילים"
+
+#: 
+msgid "Here's a quick overview of the process, from start to finish."
+msgstr "להלן בקצרה אודות התהליך מתחילתו ועד סופו"
+
+#: 
+msgid "Registration"
+msgstr "הרשמה"
+
+#: 
+msgid "Simply register your account with us. We need some details to be able to get you started and match you up with the right agent for your business."
+msgstr "עכשיו הגדר את חשבונך. אנו דורשים פרטים מינימליים על מנת לאפשר לך להתחיל ולהתאים עבורך את המענה הטוב ביותר"
+
+#: 
+msgid "Setting You Up For Success"
+msgstr "מגדירים אותך אל ההצלחה"
+
+#: 
+msgid "Obviously, we need a switchboard. Phone.do is a telephony-based solution. It might be that we are able to connect to your existing interface and adjust it, so it works on our system. Once this is set up, we're ready to start delivering for you. We work with your needs, large or small, no matter where you are on planet earth! In addition, the options are endless, such as free numbers, call routers, voicemail, customer relations management and more. Let us know what you need, and we'll take care of the technical side. Relax! You're with Phone.do  now!"
+msgstr "כמובן, אנחנו צריכים מרכזיה. phone.do הוא פיתרון המבוסס טלפונית. יכול להיות שאנחנו נוכל להתחבר לממשק הקיים שלך ולהתאים את זה, כך שזה עובד על המערכת שלנו. ברגע שזה מוגדר אנו מוכנים להתחיל לספק לך. אנו עובדים עם הצרכים שלך, קטן או גדול, לא משנה איפה אתה נמצא על פני כדור הארץ!\n"
+"בנוסף, האפשרויות הן אין סופיות כגון מספרים בחינם, נתבי שיחות, דואר קולי, ניהול קשרי לקוחות, ועוד. ספר לנו מה אתה צריך, ואנו נטפל בצד הטכני.\n"
+"תירגע! אתה עם Phone.do עכשיו!"
+
+#: 
+msgid "Create Telephone Campaigns"
+msgstr "ליצור קמפיינים טלפוניים "
+
+#: 
+msgid "We give you access to a comprehensive toolkit to make your campaign a success. These include • Voice marketing • Text SMS message marketing • Writing and content editing • Call success measurement • Call analysis • And more. We have the expertise to help you build an effective campaign. Whether it's building the right scripts, defining the campaign goals or anything else – we're here to help you get the most from your campaigns."
+msgstr "אנו נותנים לכם גישה לערכת כלים מקיפה להפוך את הקמפיין שלך להצלחה.\n"
+"זה כולל •שיווק קולי •שיווק הודעות ב SMS •כתיבה ועריכת תוכן •מדידת הצלחת שיחה •ניתוח שיחות •ועוד. יש לנו את המומחיות לעזור לך לבנות קמפיין יעיל. בין אם זה לבנות מלל נכון, להגדיר את יעדי הקמפיין או כל דבר אחר - אנחנו כאן לעזור לך לקבל הכי הרבה מהקמפיין שלך."
+
+#: 
+msgid "Setting Up The Hotlines"
+msgstr "הגדרת המוקדים"
+
+#: 
+msgid "We assign each campaign with its own IP address of phone number. This allows you and us to identify where the calls go to. This is where the flexibility in our system comes to the fore. You get to set • the number of agents • the working hours • what work they will be doing • what skills they must have • employment experience • ranking on our site • languages spoken • And other criteria This ensures you get the right agents for your campaign – delivering success. And then it's time to set the budget. We have a range of flexible pricing options, so you always get the cover you need at a price you can afford."
+msgstr "אנו מקצים לכל קמפיין כתובת IP משלו של מספר הטלפון. זה מאפשר לך ולנו לזהות לאן השיחות עוברות. כאן הגמישות במערכת שלנו באה לידי ביטוי. אתה יכול להגדיר •את מספר הסוכנים •שעות העבודה •איזה עבודה הם יעשו •אילו כישורים הם צריכים •נסיון תעסוקתי •דירוג באתר שלנו •השפות המדוברות •וקריטריונים אחרים. זה מאשר לך שאכן אתה מקבל את הסוכנים הכי טובים עבור הקמפיין שלך - לספק הצלחה.\n"
+"ואז מגיע הזמן להגדיר את התקציב שלך, יש לנו מגוון אפשרויות תמחור גמישות, כך שתמיד תקבל את הכיסוי הדרוש לך במחיר שאתה יכול להרשות לעצמך."
+
+#: 
+msgid "Set Up Your Payment"
+msgstr "הגדרת אמצעי התשלום"
+
+#: 
+msgid "Phone.do is prepaid, so before we get you active its time to top up your account. Don't forget – there are no setup fees and no monthly ongoing fees to be a part of the Phone.do community. Another reason to choose us!"
+msgstr "phone.do משלמים מראש, אז לפני שאנו מפעילים אותך, אני נכניס כסף לחשבונך.\n"
+"לא לשכוח - אין דמי התקנה, ואין עמלות חודשיות כדי להיות חלק מהקהילה של Phone.do\n"
+"עוד סיבה לבחור בנו!"
+
+#: 
+msgid "Activation"
+msgstr "הפעלה"
+
+#: 
+msgid "Now we've got you all up and ready to start, it's activation time! Our agents are ready to start working with you. The system is designed to help you get up and running quickly. Now is the time to put the planning into action. We're here to help you make the decisions that will keep your service up and running with the right agents. Don't hesitate to get in touch."
+msgstr "עכשיו שסידרנו את חשבונך אנחנו מוכנים להתחיל - הגיע זמן ההפעלה!\n"
+"הסוכנים שלנו מכונים להתחיל לעבוד איתך, המערכת נועדה לעזור לך להתחיל לעבוד במהירות. עכשיו זה הזמן להפוך את כל התכנון לפעולה. אנו כאן כדי לעזור לך לקבל החלטות שישאירו את השירות שלך עובד ובקצב מהיר עם הסוכנים הנכונים.\n"
+"אל תהסס ליצור איתנו קשר."
+
+#: 
+msgid "FAQs"
+msgstr "שאלות נפוצות"
+
+#: 
+msgid "Who pays the agents?"
+msgstr "מי משלם לנציגים?"
+
+#: 
+msgid "Don't worry, we've got you covered. There are different ways of making payments (per hour, per minute, outgoing calls, incoming calls, sales made) and we deal with all of these on your behalf."
+msgstr "אל תדאג, אנחנו דואגים לזה, יש דרכים שונות לבצע תשלומים (לפי שעה, לפי דקה, שיחות יוצאות, שיחות נכנסות, מכירות שבוצעו) ואנחנו דואגים לכל זה תחת שמך."
+
+#: 
+msgid "What is Phone.do's cut?"
+msgstr "כמה עמלה שפונדו גובה?"
+
+#: 
+msgid "Great question. We take a small percentage of the fee between you and the agent. This allows us to keep the platform operating effectively, advertise for new clients and generally keep this awesome community together."
+msgstr "שאלה מצוינת. אנו לוקחים אחוז קטן"
+
+#: 
+msgid "Are there any costs to join?"
+msgstr "האם יש עלות הצטרפות?"
+
+#: 
+msgid "No. There is no sign-up fee and no ongoing monthly fees. All you pay is what is needed to operate your campaign."
+msgstr "לא. אין עלות הצטרפות. ואין עלות חודשית. הל מה שתשלום הוא עבור הצורך לטפל בפניות מהקמפיין"
+
+#: 
+msgid "For Business!"
+msgstr "עבור עסקים!"
+
+#: 
+msgid "Is your business growing fast? Want to advertise campaigns without fear? Want to enter new markets? Want to improve service to your customers? Do not want to lose any Lead?"
+msgstr "העסק שלך גדל מהר? רוצה לפרסם קמפיינים ללא חשש? רוצה לשפר שירות לקוחות? לא רוצה לפספס לידים?"
+
+#: 
+msgid "We will handle all business calls for you. Incoming and outgoing. At any time, language, profession, purpose, experience, and field."
+msgstr "אנו נטפל עבורכם בכל שיחות העסק. נכנס ויוצא. בכל עת, שפה, מקצוע, מטרה, ניסיון ותחום."
+
+#: 
+msgid "We will do everything for you. We will sell the products, collect the payments, take the messages, schedule the meetings, conduct surveys, provide technical support, and more."
+msgstr "אנו נעשה הכל בשבילך. אנו נמכור את המוצרים, נגבה את התשלומים, נקבל את ההודעות, נקבע את הפגישות, נערוך סקרים, נעניק תמיכה טכנית ועוד."
+
+#: 
+msgid "You will only pay for actual call minutes, save 80% of the cost, listen and intervene in real time calls, you will get everything recorded transcribed and translated."
+msgstr "אתה תשלם רק עבור דקות שיחה בפועל, תחסוך 80% מהעלות, תקשיב ותתערב בשיחות בזמן אמת, תקבל את כל ההקלטות תמלל ותורגם."
+
+#: 
+msgid "Open a virtual office in seconds. Get a phone number in any country in the world. Choose who will answer your calls, and represent your business in the most professional way."
+msgstr "פתח משרד וירטואלי תוך שניות. קבל מספר טלפון בכל מדינה בעולם. בחר מי יענה לשיחותיך, וייצג את העסק שלך בצורה המקצועית ביותר."
+
+#: 
+msgid "Skip"
+msgstr "דלג"
+
+#: 
+msgid "your account"
+msgstr "חשבונך"
+
+#: 
+msgid "Login to"
+msgstr "כניסה אל"
+
+#: 
+msgid "Forgot password?"
+msgstr "שכחת סיסמה?"
+
+#: 
+msgid "Click here"
+msgstr "לחצו כאן"
+
+#: 
+msgid "Reset password"
+msgstr "אפסו סיסמה"
+
+#: 
+msgid "Send me a code"
+msgstr "שלחו לי קוד"
+
+#: 
+msgid "Country &"
+msgstr "מדינה ו"
+
+#: 
+msgid "By signing up, you confirm that you've read and accepted our"
+msgstr "בהרשמתכם הנכם מאשרים שקראתם ואישרתם את "
+
+#: 
+msgid "Business details"
+msgstr "פרטי העסק"
+
+#: 
+msgid "Business Description"
+msgstr "תאור העסק"
+
+#: 
+msgid "Problem with password recovering, maybe bad telephone number?"
+msgstr "בעיה בשחזור הסיסמה? יתכן ומספר הטלפון שגוי"
+
+#: 
+msgid "One-time password"
+msgstr "סיסמה זמנית"
+
+#: 
+msgid "Resend me a code"
+msgstr "שלחו שוב את הקוד"
+
+#: 
+msgid "Verify Code"
+msgstr "אשרו קוד"
+
+#: 
+msgid "Check your SMS inbox, we have sent you the code to"
+msgstr "בידקו את תיבת ההודעות, הקוד נשלח אליכם"
+
+#: 
+msgid "Resend"
+msgstr "שליחה חוזרת"
+
+#: 
+msgid "Name &"
+msgstr "שם &"
+
+#: 
+msgid "Company"
+msgstr "חברה "
+
+#: 
+msgid "Company name"
+msgstr "שם העסק "
+
+#: 
+msgid "Is Talking Your Best Talent? Make Money From It"
+msgstr "האם דיבור הוא הכשרון הטוב ביותר שלכם? למה שלא תרוויחו מזה כסף"
+
+#: 
+msgid "So, what is Phone.do for Agents?"
+msgstr "אז. מה זה בדיוק Phone.do לנציגים?"
+
+#: 
+msgid "Phone.do is a service that connects businesses and agents for the greater good. Think of a call center app that works for businesses and call agents and you're on the right track. Read more below."
+msgstr "Phone.do הוא שירות המחבר בין עסקים וסוכנים לטובת הכלל. תחשוב על אפליקציית מוקד טלפוני שעובדת עבור עסקים וסוכני שיחות ואתה בדרך הנכונה. קרא עוד בהמשך."
+
+#: 
+msgid "Create an activity, your way"
+msgstr "צור פעילות, בדרך שלך"
+
+#: 
+msgid "We're on the lookout for people who want to earn cash. If you want to explore an opportunity to make money without committing or leaving your current role then we've got just the opportunity for you."
+msgstr "אנחנו מחפשים אנשים שרוצים להרוויח כסף. אם אתה תרצה לגלות הזדמנות להרוויח כסף ללא התחייבות או עזיבה של מקום עבודה נוכחי, אז יש לנו בדיוק את העבודה בשבילך."
+
+#: 
+msgid "Do what you love and get paid"
+msgstr "עשו מה שאתם אוהבים והרוויחו כסף"
+
+#: 
+msgid "Scout for street art or surf at sunset, Turn your passion into profit. Earn money without it feeling like a job."
+msgstr "חיפשו אחר אומנות רחוב או גלשו בשקיעה, הפכו את התשוקה שלכם לרווח. הרוויחו כסף מבלי שזה ירגיש עבודה."
+
+#: 
+msgid "Welcome to Phone.do, World's most advanced an innovative human answering service system that commects businesses around the world."
+msgstr "ברוכה הבאה לפונדו, מערכת מענה אנושי המתקדמת והמתחדשת בעולם, העונה לעסקים סביב העולם"
+
+#: 
+msgid "Agent explanation"
+msgstr "הסבר לנציגים"
+
+#: 
+msgid "Agent testimonial"
+msgstr "המלצת סוכן"
+
+#: 
+msgid "Phone.do as an advanced and modern platform for perfect human answering services. You can work as a customer support agent and sales representative using Phone.do."
+msgstr "Phone.do כפלטפורמה מתקדמת ומודרנית לשירותי מענה אנושיים מושלמים. אתה יכול לעבוד כסוכן תמיכה בלקוחות ונציג מכירות באמצעות Phone.do."
+
+#: 
+msgid "We're here to help you develop a business on the back of your passion and talent. Phone.do have a large number of tools that enable you to grow a business with us and make more money. Don't work for the man. Those days are from the past. Develop a business on the back of talking to people. What’s there not to love?"
+msgstr "אנחנו פה לעזור לכם לפתח עסק על בסיס \n"
+"התשוקה שלכם והכישרון לפונדו יש הרבה כלים \n"
+"לפתח עסק איתנו ולהרוויח הרבה כסף.   \n"
+"תהיה הבוס של עצמך, הימים האלו עברו .לפתח \n"
+"עסק על בסיס לדבר עם אנשים ,מה יש לא לאהוב ?"
+
+#: 
+msgid "Meet a few of our agents"
+msgstr "פגוש כמה מהסוכנים שלנו"
+
+#: 
+msgid "We connect you with the businesses that are looking for people just like you. No more searching high and low for the right kind of business to partner. We've done all the legwork for you so you can make money right away."
+msgstr "אנו מחברים אותך עם העסקים המחפשים אנשים בדיוק כמוך. לא עוד חיפוש עסקים בשביל להתחבר איתם. אנו עשינו את ההתרוצצות בשבילך כדי שאתה תוכל להרויח כסף בדרך הנכונה."
+
+#: 
+msgid "In every job I have worked in the past I felt missed. Because I was not rewarded according to my skills but according to what they were willing to pay me. Through Phone.do I decide how much I'm worth. And you will be amazed. I get paid exactly how much I want."
+msgstr "בכל עבודה בה עבדתי בעבר הרגשתי מפוספס, לא השתכרתי בהתאם ליכולותי אלא בהתאם למה שהמעסיקים היו מוכנים לשלם. דרך phone.do החלטתי כמה אני שווה, אתה תופתע, אני משתכר בדיוק כמו שאני רוצה."
+
+#: 
+msgid "I enjoy the money, the praise, the feedback, the promotion, the bonuses, the excitement ... I enjoy working with the Phone.do platform, you could say I was really addicted to it."
+msgstr "אני נהנה מהכסף, מהפירגונים, מהמשוב, מהקידום, הבונוסים והריגושים... \n"
+"אני נהנה לעבוד עם הפלטפורמה של phone.do אפשר להגיד, ממש התמכרתי לזה."
+
+#: 
+msgid "Simply complete your details. We need to know a little about you so we can match you with the right opportunities. This includes your name, address, languages spoken, skills, employment experience, degrees, qualifications, expertise, hobbies, etc."
+msgstr "פשוט השלם את פרטיך, אנו צריכים לדעת קצת יותר עליך כדי שנוכל להתאים לך את ההזדמנויות הנכונות. זה כולל את השם שלך, כתובת, שפות מדוברות, כישורים, נסיון עבודה, תארים, מומחיות, תחביבים וכו' "
+
+#: 
+msgid "Creating your profiles"
+msgstr "יצירת הפרופילים שלך"
+
+#: 
+msgid "Once your part of the Phone.do family, you can set up profiles according to the type of activity you are looking for. The more profiles you have, the greater your chance of earning. Don't worry, you can always add more profiles, edit or delete a profile or even pause your account for a short while – whatever suits you. You are totally in control!"
+msgstr "ברגע שאתה חלק ממשפחת phone.do אתה יכול ליצור פרופילים לפי סגנון הפעילות שאתה מחפש. ככל שיהיו לך יותר פרופילים, כך יגדלו סיכוייך להרוויח. אל תדאג, תמיד תוכל להוסיף עוד פרופילים, לערוך ולמחוק או אפילו להשהות את החשבון לזמן קצר - מה שטוב לך.\n"
+"אתה לגמרי בשליטה!"
+
+#: 
+msgid "The next step is to activate the profile or profiles that you are ready to use. You set up how long you're available for – whether that's a regular schedule, a set timeframe or you're ready to start right away. Again, the power is in your hands."
+msgstr "השלב הבא הוא להפעיל את הפרופיל או הפרופילים שמוכנים לשימוש. אתה מגדיר לכמה זמן אתה פנוי - בין אם זה מערכת רגילה, מסגרת זמן מוגדרת או אתה מוכן להתחיל מיד. שוב, הכח בידיך."
+
+#: 
+msgid "How much do I get paid?"
+msgstr "כמה אשתכר?"
+
+#: 
+msgid "We recommend a tariff for your work with our clients, based on demand and supply plus what they want you to do for them. A business can set a maximum price they are willing to pay. The right balance for all of us is that there are enough calls for you guys plus it being financially viable for the company. We find the right balance so that everyone wins."
+msgstr "אנו מציעים תעריף לעבודתך עם הלקוחות שלנו, על בסיס ביקוש והיצע, פלוס מה הם רוצים שתעשה בשבילם. עסק יכול להגדיר סכום מקסימלי שהם מוכנים לשלם.\n"
+"האיזון הנכון לכולנו הוא שיש מספיק שיחות בשבילכם ושיהיה משתלם כלכלית עבור החברה. אנו מוצאים את האיזון הנכון כדי שכולם יצאו מנצחים."
+
+#: 
+msgid "How & when do I get Paid?"
+msgstr "כיצד ומתי אקבל תשלום?"
+
+#: 
+msgid "All earnings available for withdrawal immediately in any currency: by transferring to your local bank account, PayPal, Debit Card, or Paper Check."
+msgstr "כל הרווחים זמינים למשיכה מידית בכל סוג מטבע:\n"
+"ע\"י העברה בנקאית, פייפאל, כרטיס דביט, או שיק."
+
+#: 
+msgid "How can I get promoted?"
+msgstr "איך ניתן להתקדם?"
+
+#: 
+msgid "This isn't a typical job role. There are no bosses asking you to stay late or come in early. You can earn a promotion through the site based on the good work you carry out for your clients. The higher your rating, the more you earn for each job. Just like any online community, your good standing means you are more in demand."
+msgstr "זה לא עבודה רגילה, אין בוסים שמבקשים ממך להישאר מאוחר או לבוא מוקדם. ניתן להרויח קידום באמצעות האתר על בסיס עבודה טובה שאתה מבצע עבור הלקוחות שלך. ככל שהדירוג שלך גבוה יותר, כך אתה מרוויח יותר לכל עבודה.\n"
+"בדיוק כמו כל קהילה ברשת, מצבכם הטוב אומר שאתם יותר מבוקשים. "
+
+#: 
+msgid "How do I earn even more?"
+msgstr "כיצד ניתן להרוויח אף יוצר?"
+
+#: 
+msgid "If you can commit to more hours, then that is great. The more profiles you have, the more opportunities you have to earn money with us. And when you start to earn a promotion through your good work, these opportunities multiply."
+msgstr "אם תוכל להתחייב לשעות נוספות, אז זה נהדר. ככל שיהיו לך יותר פרופילים, יהיו לך יותר הזדמנויות לצבור כסף איתנו, וכשתתחיל להרויח קידומים דרך עבודתך הטובה, הזדמנויות אלו יתרבו."
+
+#: 
+msgid "Like to talk on the phone? Let's make money out of this! For every minute of conversation. Every language you speak. In every field you love."
+msgstr "אוהבים לדבר בטלפון? בואו נרוויח מזה כסף! על כל דקת שיחה. כל שפה שאתה מדבר. בכל תחום שאתה אוהב."
+
+#: 
+msgid "You want to make all your dreams come true? Looking to supplement income without leaving the permanent workplace? Want to pull your profits at any given moment?"
+msgstr "אתה רוצה להגשים את כל חלומותיך? מעוניין להשלים הכנסה מבלי לעזוב את מקום העבודה הקבוע? רוצה למשוך את הרווחים שלך בכל רגע נתון?"
+
+#: 
+msgid "Tired of a boss on the head? Want to decide for yourself when to work? Want to work from the couch at home or from the chair resting on the beach? Are you people of night or weekend?"
+msgstr "נמאס לכם מבוס על הראש? רוצים להחליט בעצמכם מתי לעבוד? רוצים לעבוד מהספה בבית או מהכיסא שנח על החוף? האם אתם אנשים של לילה או סוף שבוע?"
+
+#: 
+msgid "Want to control your wages? To be rewarded according to your qualifications? Get generous bonuses? Also profit from customer referral, post publishing, affiliate programs?"
+msgstr "רוצה לשלוט בשכר שלך? להיות מתוגמל בהתאם לכישוריך? לקבל בונוסים אטרקטיביים? להרויח גם מהפנית לקוחות, פרסום פוסטים, תוכניות שותפים?"
+
+#: 
+msgid "Want a job without giving up on fun and hobbies? Without giving up on family life? Without committing?"
+msgstr "רוצה עבודה בלי לותר על כיף ותחביבים? בלי לותר על חיי משפחה? ללא התחייבות?"
+
+#: 
+msgid "new account"
+msgstr "חשבון חדש"
+
+#: 
+msgid "and"
+msgstr "ו"
+
+#: 
+msgid "earn money"
+msgstr "להרוויח כסף"
+
+#: 
+msgid "Sign in to"
+msgstr "הירשם ל"
+
+#: 
+msgid "Enter your phone number and click Send"
+msgstr "הכניסו את מספר הטלפון וליחצו ״שלח״"
+
+#: 
+msgid "Create Hotline"
+msgstr "צרו מוקד טלפוני "
+
+#: 
+msgid "Give your Hotline a name"
+msgstr "תנו למוקד הטלפוני שלכם שם"
+
+#: 
+msgid "Please select a country"
+msgstr "בבקשה תבחר מדינה"
+
+#: 
+msgid "Setup a Hotline"
+msgstr "הגדר קו חם"
+
+#: 
+msgid "Setup a hotline with all the right parameters."
+msgstr "הגדר מוקד עם כל הפרמטרים הנכונים"
+
+#: 
+msgid "Hotline name"
+msgstr "שם מוקד"
+
+#: 
+msgid "Target"
+msgstr "מטרה"
+
+#: 
+msgid "Location"
+msgstr "מיקום"
+
+#: 
+msgid "Language"
+msgstr "שפה"
+
+#: 
+msgid "Type a welcome message..."
+msgstr "הקלד הודעת פתיחה"
+
+#: 
+msgid "Type any kind of message you would like."
+msgstr "הקלד איזה סוג הודעה שתרצה"
+
+#: 
+msgid "For example"
+msgstr "לדוגמא"
+
+#: 
+msgid "“Hello, how we can help you?”"
+msgstr "שלום, איך אפשר לעזור לך?"
+
+#: 
+msgid "Enter your city"
+msgstr "הכנס את עירך"
+
+#: 
+msgid "This Hotline will be deleted permanently."
+msgstr "המוקד ימחק לצמיתות"
+
+#: 
+msgid "Delete"
+msgstr "מחק"
+
+#: 
+msgid "Back"
+msgstr "חזור"
+
+#: 
+msgid "Step"
+msgstr "שלב"
+
+#: 
+msgid "of"
+msgstr "מתוך"
+
+#: 
+msgid "Step 1 of"
+msgstr "שלב 1 מתוך"
+
+#: 
+msgid "Save and Exit"
+msgstr "שמור וצא"
+
+#: 
+msgid "Setup your Hotline"
+msgstr "הגדר את המוקד שלך"
+
+#: 
+msgid "Number / SIP"
+msgstr "מספר / סיפ"
+
+#: 
+msgid "Music"
+msgstr "מוזיקה"
+
+#: 
+msgid "Power-Ups"
+msgstr "הפעלות"
+
+#: 
+msgid "Requirements"
+msgstr "דרישות"
+
+#: 
+msgid "Hotline activation"
+msgstr "פעילות המוקד"
+
+#: 
+msgid "Please type correct phone number"
+msgstr "בבקשה הכנס מספר טלפון תקין"
+
+#: 
+msgid "Incoming or Outgoing calls"
+msgstr "שיחות נכנסות או יוצאות"
+
+#: 
+msgid "Setup incoming or outgoing calls for your Hotline."
+msgstr "הגדר שיחות  נכנסות או יוצאות מהמוקד שלך "
+
+#: 
+msgid "Setup only Incoming calls to my Hotline"
+msgstr "הגדר רק שיחות נכנסות למוקד שלי"
+
+#: 
+msgid "Outgoing calls"
+msgstr "שיחות יוצאות"
+
+#: 
+msgid "Setup only Outgoing calls to my Hotline"
+msgstr "הגדר רק שיחות יוצאות למוקד שלי"
+
+#: 
+msgid "Notifications"
+msgstr "התראות"
+
+#: 
+msgid "Choose how you would like to receive Notifications."
+msgstr "בחר כיצד תרצה לקבל התראות"
+
+#: 
+msgid "Type other email"
+msgstr "הכנס מייל נוסף"
+
+#: 
+msgid "WhatsApp number"
+msgstr "מספר וואטסאפ"
+
+#: 
+msgid "Type other phone"
+msgstr "הכנס טלפון נוסף"
+
+#: 
+msgid "Summary"
+msgstr "תקציר"
+
+#: 
+msgid "Choose which platform you would like to receive the summary from."
+msgstr "בחר באיזה צורה תרצה לקבל את התקציר"
+
+#: 
+msgid "App"
+msgstr "אפליקציה"
+
+#: 
+msgid "WhatsApp"
+msgstr "וואטסאפ"
+
+#: 
+msgid "WebHook"
+msgstr "וובוק"
+
+#: 
+msgid "Buy and select Phone number."
+msgstr "קנה ובחר מספר טלפון"
+
+#: 
+msgid "Add your country and choose a phone number from the list."
+msgstr "הוסף מדינה ובחר מספר טלפון מהרשימה"
+
+#: 
+msgid "Purchase number"
+msgstr "קנה מספר"
+
+#: 
+msgid "Choose a"
+msgstr "בחר"
+
+#: 
+msgid "for your Hotline"
+msgstr "למוקד שלך"
+
+#: 
+msgid "You can choose a sound or upload a new one."
+msgstr "ניתן לבחור צליל או להעלות צליל חדש"
+
+#: 
+msgid "Welcome sound"
+msgstr "צליל פתיחה"
+
+#: 
+msgid "Voice mail sound"
+msgstr "צליל דואר קולי"
+
+#: 
+msgid "Company address"
+msgstr "כתובת חברה"
+
+#: 
+msgid "Choose one of a few targets for your Hotline."
+msgstr "בחר אחד מכמה המטרות למוקד שלך"
+
+#: 
+msgid "City"
+msgstr "עיר"
+
+#: 
+msgid "Postal(zip) code"
+msgstr "מיקוד"
+
+#: 
+msgid "Street name"
+msgstr "רחוב"
+
+#: 
+msgid "Street number"
+msgstr "מספר רחוב"
+
+#: 
+msgid "Add all your company details and info, You can choose an existing company or add a new one."
+msgstr "הוסף את כל פרטי החברה, ניתן לבחור בחברה קיימת או להוסיף חברה חדשה"
+
+#: 
+msgid "Add company details"
+msgstr "הוסף פרטי חברה"
+
+#: 
+msgid "Add all your company details and info."
+msgstr "הוסף את כל פרטי החברה והמידע"
+
+#: 
+msgid "Upload a logo"
+msgstr "העלה לוגו"
+
+#: 
+msgid "Email address"
+msgstr "כתובת מייל"
+
+#: 
+msgid "Company URL"
+msgstr "כתובת של אתר החברה"
+
+#: 
+msgid "Business type"
+msgstr "סוג חברה"
+
+#: 
+msgid "Social links"
+msgstr "קישורים חברתיים"
+
+#: 
+msgid "Error while setting hotline company"
+msgstr "שגיאה בעת הגדרת חברת המוקד"
+
+#: 
+msgid "Existing companies"
+msgstr "חברות קיימות"
+
+#: 
+msgid "Choose one company from your existing list."
+msgstr "בחר חברה אחת מהרשימה הקיימת"
+
+#: 
+msgid "Something went wrong"
+msgstr "אירעה שגיאה"
+
+#: 
+msgid "Add your Social links"
+msgstr "הוסף קישורים חברתיים"
+
+#: 
+msgid "Add WhatsApp link"
+msgstr "הוסף קישור לוואטסאפ"
+
+#: 
+msgid "Add YouTube link"
+msgstr "הוסף קישור ליוטיוב"
+
+#: 
+msgid "Add Facebook link"
+msgstr "הוסף קישור לפייסבוק"
+
+#: 
+msgid "Add Instagram link"
+msgstr "הוסף קישור לאינסטגרם"
+
+#: 
+msgid "Add Twitter link"
+msgstr "הוסף קישור לטוויטר"
+
+#: 
+msgid "Add LinkedIn link"
+msgstr "הוסף  קישור ללינקנדאין"
+
+#: 
+msgid "Choose your Business type from the list"
+msgstr "בחר את סוג החברה שלך מתוך הרשימה"
+
+#: 
+msgid "Choose Hotline target"
+msgstr "בחר את מטרת המוקד"
+
+#: 
+msgid "Choose Hotline language"
+msgstr "בחר את שפת המוקד"
+
+#: 
+msgid "Frequently asked questions"
+msgstr "שאלות נפוצות"
+
+#: 
+msgid "Add questions and answers for you agents"
+msgstr "הוסף שאלות ותשובות לסוכנים שלכם"
+
+#: 
+msgid "Add Q&A"
+msgstr "הוסף שאלות ותשובות"
+
+#: 
+msgid "Age"
+msgstr "גיל"
+
+#: 
+msgid "Mandatory field"
+msgstr "שדה חובה"
+
+#: 
+msgid "Available call agent"
+msgstr "סוכן טלפון זמין"
+
+#: 
+msgid "See all available call agents they are fit to your requirements."
+msgstr "ראה כל סוכנים פנויים שמתאימים לדרישותיך"
+
+#: 
+msgid "Certificates"
+msgstr "תעודות"
+
+#: 
+msgid "Add new certificate"
+msgstr "הוסף תעודה חדשה"
+
+#: 
+msgid "Setup your degree level."
+msgstr "הגדר רמת תואר"
+
+#: 
+msgid "Add new education"
+msgstr "הוספת השכלה נוספת"
+
+#: 
+msgid "Experience"
+msgstr "נסיון"
+
+#: 
+msgid "Setup your professionalism & experience in years."
+msgstr "הגדר מקצועיותך וניסיונך בשנים"
+
+#: 
+msgid "Professionalism"
+msgstr "מקצועיות"
+
+#: 
+msgid "Add new"
+msgstr "הוספת חדש"
+
+#: 
+msgid "Facilities"
+msgstr "מוסדות"
+
+#: 
+msgid "Gender"
+msgstr "מין"
+
+#: 
+msgid "Interests"
+msgstr "תחומי התעניינות"
+
+#: 
+msgid "Add new interest"
+msgstr "הוסף תחום התעניינות נוסף"
+
+#: 
+msgid "Feel free to add more language"
+msgstr "הרגש חופשי להוסיף עוד שפה"
+
+#: 
+msgid "Add language"
+msgstr "הוספת שפה"
+
+#: 
+msgid "Setup your language level by reading, write and speak in this language."
+msgstr "הגדר רמת שפה לפי קריאה, כתיבה ודיבור בשפה זו"
+
+#: 
+msgid "Reading"
+msgstr "קריאה"
+
+#: 
+msgid "Talking"
+msgstr "דיבור"
+
+#: 
+msgid "Writing"
+msgstr "כתיבה"
+
+#: 
+msgid "Mass Ranking"
+msgstr "דירוג המונים"
+
+#: 
+msgid "Placement Ranking"
+msgstr "דירוג מיקום"
+
+#: 
+msgid "Skills"
+msgstr "כישורים"
+
+#: 
+msgid "Add new skill"
+msgstr "הוסף כישורים נוספים"
+
+#: 
+msgid "Questioning"
+msgstr "תשאול"
+
+#: 
+msgid "Questions"
+msgstr "שאלות"
+
+#: 
+msgid "Add free question"
+msgstr "הוסף שאלה חינמית"
+
+#: 
+msgid "Add question"
+msgstr "הוספת שאלה"
+
+#: 
+msgid "Add answer"
+msgstr "הוספת תשובה"
+
+#: 
+msgid "You can edit or delete questions or answers"
+msgstr "ניתן לערוך או למחוק שאלות או תשובות"
+
+#: 
+msgid "Add a Q&A"
+msgstr "הוספת שאלות ותשובות"
+
+#: 
+msgid "Setup hotline activation"
+msgstr "הגדר פעילות מוקד"
+
+#: 
+msgid "Setup the hotline activation, days, hours, etc."
+msgstr "הגדר פעילות מוקד, ימים, שעות וכו'."
+
+#: 
+msgid "Activation On/Off"
+msgstr "פעילות כבוי/מכובה"
+
+#: 
+msgid "Setup the hotline hours."
+msgstr "הגדר שעות מוקד"
+
+#: 
+msgid "Setup days"
+msgstr "הגדר ימים"
+
+#: 
+msgid "Setup the hotline days."
+msgstr "הגדר ימי מוקד"
+
+#: 
+msgid "Holidays On/Off"
+msgstr "שבתות וחגים כבוי/מכובה"
+
+#: 
+msgid "Upload"
+msgstr "העלאה"
+
+#: 
+msgid "Setup the right Hotline requirements."
+msgstr "הגדר את דרישות המוקד"
+
+#: 
+msgid "Setup your industries, language level, and education."
+msgstr "הגדר את התחומים, הרמה השפתית והשכלת הנציגים"
+
+#: 
+msgid "See available call agent based on your requirements.."
+msgstr "צפו בנציגים הזמינים לפי הדרישות שקבעתם"
+
+#: 
+msgid "Choose the type of questionnaire that you want or add a new one."
+msgstr "בחרו את סוג השאלון או צרו שאלון חדש"
+
+#: 
+msgid "Script deleted"
+msgstr "התסריט נמחק"
+
+#: 
+msgid "Add questionnaire..."
+msgstr "הוסף שאלון"
+
+#: 
+msgid "Power-Ups."
+msgstr "תוספים ומודולים"
+
+#: 
+msgid "Setup your working power-ups"
+msgstr "הגדירו את התוספים שיכללו במוקד"
+
+#: 
+msgid "Purchase new number"
+msgstr "רכשו מספר טלפון חדש"
+
+#: 
+msgid "Country is required"
+msgstr "חובה לבחור מדינה"
+
+#: 
+msgid "Selected number"
+msgstr "המספר נבחר"
+
+#: 
+msgid "Select number"
+msgstr "בחר מספר"
+
+#: 
+msgid "Phone number is required"
+msgstr "חובה לבחור מספר טלפון"
+
+#: 
+msgid "Selected date period"
+msgstr "תקופת התאריכים שנבחרו"
+
+#: 
+msgid "Select date period"
+msgstr "בחרו תקופת תאריכים"
+
+#: 
+msgid "Date period is required"
+msgstr "חובה לבחור תקופת תאריכים"
+
+#: 
+msgid "Buy"
+msgstr "קניה"
+
+#: 
+msgid "Choose the number"
+msgstr "בחירת מספר"
+
+#: 
+msgid "Choose the date period"
+msgstr "בחר טווח תאריך"
+
+#: 
+msgid "month"
+msgstr "חודש"
+
+#: 
+msgid "months"
+msgstr "חודשים"
+
+#: 
+msgid "or upload a new one."
+msgstr "או העלו חדש"
+
+#: 
+msgid "Setup a"
+msgstr "הגדר "
+
+#: 
+msgid "for your Hotline and choose the language you want for the sound."
+msgstr "עבור המוקד שלכם ובחרו את השפה שתרצו עבור המוזיקה"
+
+#: 
+#, fuzzy
+msgid "Help"
+msgstr "עזרה"
+
+#: 
+#, fuzzy
+msgid "You can always choose to chat or call with us"
+msgstr "תמיד תוכל לשוחח איתנו בצ'אט או להתקשר אלינו"
+
+#: 
+#, fuzzy
+msgid "Choose one of the platforms to chat or call with us."
+msgstr "בחר את האופן בו תרצה לתקשר איתנו."
+
+#: 
+#, fuzzy
+msgid "Chat"
+msgstr "צ'אט"
+
+#: 
+msgid "eMeet"
+msgstr "פגישה"
+
+#: 
+#, fuzzy
+msgid "Call us"
+msgstr "התקשר אלינו"
+
+#: 
+#, fuzzy
+msgid "Get a call"
+msgstr "קבל שיחה"
+
+#: 
+#, fuzzy
+msgid "Whatsapp"
+msgstr "וואטסאפ"
+
+#: 
+msgid "phone number is invalid"
+msgstr "מספר הטלפון אינו תקין"
+
+#: 
+#, fuzzy
+msgid "Your request has been accepted, you will receive a call."
+msgstr "בקשתך התקבלה, תקבל שיחה בהקדם."
+
+#: 
+#, fuzzy
+msgid "faild to create a call"
+msgstr "יצירת שיחה נכשלה"
+
+#: 
+#, fuzzy
+msgid "Call me"
+msgstr "התקשרו אלי"
+
+#: 
+#, fuzzy
+msgid "Business Processing"
+msgstr "עיבוד עסקי"
+
+#: 
+msgid "Outsourcing"
+msgstr "מיקור חוץ"
+
+#: 
+#, fuzzy
+msgid "24/7/365 professinoal, human, multilingual, multi"
+msgstr "BPO לעסקים בכל סוג, גודל ומיקום"
+
+#: 
+#, fuzzy
+msgid "tasking and multi disciplinary BPO for businesses at"
+msgstr "מקצועי, אנושי, רב לשוני,"
+
+#: 
+msgctxt "רב משימתי ורב תחומי 24/7/365"
+msgid "any kind, size and location"
+msgstr "רב משימתי ורב תחומי 24/7/365"
+
+#: 
+#, fuzzy
+msgid "Answering"
+msgstr "מענה"
+
+#: 
+msgid "Human"
+msgstr "אנושי"
+
+#: 
+msgid "Human "
+msgstr "שירות"
+
+#: 
+msgid "Professional, multilingual, tasking and multi disciplinary BPO for businesses at any kind,size and location."
+msgstr "BPO מקצועי, רב לשוני, רב משימתי ורב תחומי. לעסקים בכל סוג, גודל ומיקום.\n"
+""
+
+#: 
+msgid "Available"
+msgstr "זמינות"
+
+#: 
+msgid "Service "
+msgstr "אנושי"
+
+#: 
+msgid "Tasks"
+msgstr "משימות"
+
+#: 
+#, fuzzy
+msgid "Call transfers, Messages, Sales, Bookings, Donation, Subscription, Reminders, Meetings, Confirmations, Surveys, Complaints, Tech Support, Collecting."
+msgstr "ניתוב שיחות, הודעות, מכירות, הזמנות, תרומות, מינויים, תזכורות, פגישות, אישורים, סקרים, תלונות, תמיכה טכנית, גבייה."
+
+#: 
+msgid "Payment"
+msgstr "תשלום"
+
+#: 
+msgid "per min"
+msgstr "לפי דקה"
+
+#: 
+#, fuzzy
+msgid "Inbound"
+msgstr "הפנייה"
+
+#: 
+msgid "Sip, WebRTC, DID, Click to call."
+msgstr "סיפ, ווב אר טי סי, חיפ, לחץ להתקשר"
+
+#: 
+msgid "Delivery"
+msgstr "תוצרים"
+
+#: 
+msgid "API, App, WhatsApp, mail, web, webhook."
+msgstr "אפליקציה, וואטסאפ, דוא''ל, אתר, אירוע, ממשק תכנות יישומים"
+
+#: 
+msgid "We will handle your phone inquiries in any language, subject, matter, purpose."
+msgstr "אנו נטפל בפניות הטלפוניות שלכם בכל שפה, נושא, תחום, מטרה"
+
+#: 
+msgid "During The Call"
+msgstr "במהלך השיחה"
+
+#: 
+msgid "Listen, Guide, Intervene"
+msgstr "תקשיב, תדריך, תתערב"
+
+#: 
+msgid "After The Call"
+msgstr "לאחר השיחה"
+
+#: 
+msgid "Recorded, transcribed, translated"
+msgstr "מוקלט, מתומלל, מתורגם"
+
+#: 
+msgid "Start in"
+msgstr "התחל בתוך"
+
+#: 
+msgid "00:10:15 Min"
+msgstr "00:10:15  דק'"
+
+#: 
+msgid "Enter business details"
+msgstr "הזן את פרטי העסק"
+
+#: 
+msgid "00:02:30 Min"
+msgstr "00:02:30 דק'"
+
+#: 
+msgid "Choose answer language"
+msgstr "בחר שפת מענה"
+
+#: 
+msgid "00:00:05 Min"
+msgstr "00:00:05 דק'"
+
+#: 
+msgid "Choose phone number"
+msgstr "בחר מספר טלפון"
+
+#: 
+msgid "00:00:30 Min"
+msgstr "00:00:30 דק'"
+
+#: 
+msgid "Create call script"
+msgstr "צור תסריט שיחה"
+
+#: 
+msgid "00:05:30 Min"
+msgstr "00:05:30 דק'"
+
+#: 
+msgid "Forward your calls"
+msgstr "בצע הפניית שיחות"
+
+#: 
+msgid "00:01:25 Min"
+msgstr "00:01:25 דק'"
+
+#: 
+#, fuzzy
+msgid "00:00:15 Min"
+msgstr "00:00:15 דק'"
+
+#: 
+msgid "upload your logo"
+msgstr "העלה את הלוגו שלך"
+
+#: 
+msgid "hello"
+msgstr "שלום"
+
+#: 
+msgid "Already have an account?"
+msgstr "כבר יש לך חשבון?"
+
+#: 
+msgid "Create An Account"
+msgstr "צור חשבון"
+
+#: 
+msgid "Create your account to start managing your Phone.do."
+msgstr ".שלך Phone.do צור את החשבון שלך כדי להתחיל לנהל את ה"
+
+#: 
+msgid "Company Name"
+msgstr "שם החברה"
+
+#: 
+msgid "Confirm Password"
+msgstr "אשר סיסמה"
+
+#: 
+msgid "*password must have least 8 characters long and include"
+msgstr "על הסיסמה לכלול לפחות 8 תווים"
+
+#: 
+msgid "uppercase and lowercase letters,numbers,and symbols"
+msgstr "אותיות גדולות וקטנות, מספרים וסמלים"
+
+#: 
+msgid "*Subdomain only accepts lower case letters, digits and '-' sign"
+msgstr " תת-דומיין מקבל רק אותיות קטנות, ספרות ו'-'"
+
+#: 
+msgid "By creating account, you agree to our"
+msgstr "על ידי יצירת חשבון אתה מסכים "
+
+#: 
+msgid "Terms & Conditions"
+msgstr "תנאים וההגבלות שלנו"
+
+#: 
+msgid "| Privacy & Policy"
+msgstr "מדיניות פרטיות |"
+
+#: 
+msgid "Create an account!"
+msgstr "צור חשבון!"
+
+#: 
+msgid "Or create an account using:---------------------------------------"
+msgstr "או ליצור חשבון באמצעות---------------------------------------:"
+
+#: 
+msgid "You must agree to the terms and conditions"
+msgstr "עליך להסכים לתנאים ולהגבלות"
+
+#: 
+msgid "Confirm Your Number"
+msgstr "אשר את מספרך"
+
+#: 
+#, fuzzy
+msgid "Enter the 6-digit code we just sent to your phone."
+msgstr "הזן את הקוד בן 6 הספרות ששלחנו זה עתה לפלאפון שלך."
+
+#: 
+msgid "verification code invalid!"
+msgstr "קוד אימות לא חוקי!"
+
+#: 
+msgid "Didn’t get a code?"
+msgstr "לא קיבלת קוד?"
+
+#: 
+msgid "Resend Code"
+msgstr "שלח קוד שוב"
+
+#: 
+msgid "Create an account"
+msgstr "צור חשבון"
+
+#: 
+msgid "YOUR BASIC INFORMATION"
+msgstr "המידע הבסיסי שלך"
+
+#: 
+msgid "Please complete your basic information"
+msgstr "אנא מלא את המידע הבסיסי שלך"
+
+#: 
+msgid "Vat Number"
+msgstr "מספר מע''מ"
+
+#: 
+msgid "Company Address"
+msgstr "כתובת החברה"
+
+#: 
+msgid "state"
+msgstr "אזור"
+
+#: 
+msgid "State"
+msgstr "אזור"
+
+#: 
+msgid "Region"
+msgstr "אזור"
+
+#: 
+msgid "Zip Code"
+msgstr "מיקוד"
+
+#: 
+msgid "next"
+msgstr "הבא"
+
+#: 
+msgid "number connot be empty"
+msgstr "המספר לא יכול להיות ריק"
+
+#: 
+msgid "you need to select a region"
+msgstr "עליך לבחור אזור"
+
+#: 
+msgid "you need to select a country"
+msgstr "אתה צריך לבחור מדינה"
+
+#: 
+msgid "company name connot be empty"
+msgstr "שם החברה לא יכול להיות ריק"
+
+#: 
+msgid "TELL US ABOUT YOUR BUSINESS"
+msgstr "ספר לנו על העסק שלך"
+
+#: 
+msgid "Please complete your business details."
+msgstr ".אנא מלא את פרטי העסק שלך"
+
+#: 
+msgid "Area Of Practice"
+msgstr "תחום עיסוק"
+
+#: 
+msgid "Main Activity"
+msgstr "פעילות עיקרית"
+
+#: 
+msgid "Telephone Service"
+msgstr "שירות טלפוני"
+
+#: 
+msgid "Number Of Customers"
+msgstr "מספר לקוחות"
+
+#: 
+msgid "Please select your logo Image for Preview"
+msgstr "אנא בחר תמונה לוגו שלך לתצוגה מקדימה"
+
+#: 
+msgid "Logo"
+msgstr "לוגו"
+
+#: 
+msgid "Country Of Operation"
+msgstr "ארץ פעילות"
+
+#: 
+msgid "you need to uploud a logo"
+msgstr "אתה צריך להעלות לוגו"
+
+#: 
+msgid "area connot be empty"
+msgstr "האזור לא יכול להיות ריק"
+
+#: 
+msgid "ARE YOU ON SOCIAL MEDIA?"
+msgstr "אתה במדיה חברתית?"
+
+#: 
+msgid "Choose your social media if you have one."
+msgstr ".בחר את המדיה החברתית שלך אם יש לך"
+
+#: 
+msgid "Website URL"
+msgstr "כתובת אתר"
+
+#: 
+msgid "Facebook"
+msgstr "פייסבוק"
+
+#: 
+msgid "Instagram"
+msgstr "אינסטגרם"
+
+#: 
+msgid "YouTube"
+msgstr "יוטיוב"
+
+#: 
+msgid "youtube"
+msgstr "יוטיוב"
+
+#: 
+msgid "whatsapp"
+msgstr "ווצאפ"
+
+#: 
+msgid "twitter"
+msgstr "טוויטר"
+
+#: 
+msgid "tiktok"
+msgstr "טיקטוק"
+
+#: 
+msgid "linkedin"
+msgstr "לינקדאין"
+
+#: 
+msgid "instagram"
+msgstr "אינסטגרם"
+
+#: 
+msgid "facebook"
+msgstr "פייסבוק"
+
+#: 
+msgid "website"
+msgstr "אתר"
+
+#: 
+msgid "Twitter"
+msgstr "טוויטר"
+
+#: 
+msgid "Snapchat"
+msgstr "סנאפצ'אט"
+
+#: 
+msgid "TikTok"
+msgstr "טיק טוק"
+
+#: 
+msgid "Telegram"
+msgstr "טלגרם"
+
+#: 
+msgid "FILL IN YOUR SOCIAL MEDIA?"
+msgstr "למלא את המדיה החברתית שלך?"
+
+#: 
+msgid "TELL US WHO YOU ARE?"
+msgstr "ספר לנו מי אתה?"
+
+#: 
+msgid "Give us your basic information"
+msgstr "תן לנו את המידע הבסיסי שלך"
+
+#: 
+msgid "Full name"
+msgstr "שם מלא"
+
+#: 
+msgid "Full Name"
+msgstr "שם מלא"
+
+#: 
+msgid "Email Address"
+msgstr "כתובת דוא''ל"
+
+#: 
+msgid "Roll In The Company"
+msgstr "תפקיד בחברה"
+
+#: 
+msgid "confirm"
+msgstr "אישור"
+
+#: 
+msgid "Confirm"
+msgstr "אישור"
+
+#: 
+msgid "PHONE.DO PRICING"
+msgstr "PHONE.DO מחירים של"
+
+#: 
+msgid "This calculator will help you calculate your percentage profit"
+msgstr "מחשבון זה יעזור לכם לחשב את הרווח האחוזי שלכם"
+
+#: 
+msgid "and the total price to your customers."
+msgstr ".והמחיר הכולל ללקוחות שלך"
+
+#: 
+msgid "Percentage"
+msgstr "אחוזים"
+
+#: 
+msgid "Phone.do charge for one minute call"
+msgstr "Phone.do גובה עבור דקת שיחה אחת "
+
+#: 
+#, fuzzy
+msgid "NIS 1.0"
+msgstr "1.0 ₪"
+
+#: 
+msgid "calculate"
+msgstr "חשב"
+
+#: 
+msgid "Profit"
+msgstr "רווח"
+
+#: 
+msgid "NIS"
+msgstr "₪"
+
+#: 
+msgid "Price per customer"
+msgstr "מחיר ללקוח"
+
+#: 
+msgid "All notifications"
+msgstr "כל ההודעות"
+
+#: 
+msgid "Request here"
+msgstr "בקש כאן"
+
+#: 
+msgid "Log in and start managing your Phone.do account."
+msgstr ".שלך Phone.do היכנס והתחל לנהל את חשבון"
+
+#: 
+msgid "LOGIN TO PHONE.DO!"
+msgstr "היכנס לPhone.do !"
+
+#: 
+msgid "Don’t have an account?"
+msgstr "אין לך חשבון?"
+
+#: 
+msgid "Forgot your password?"
+msgstr "שכחת את הסיסמה שלך?"
+
+#: 
+msgid "Get started"
+msgstr "התחל"
+
+#: 
+msgid "Log in"
+msgstr "התחבר"
+
+#: 
+msgid "Download on the"
+msgstr "הורד ב-"
+
+#: 
+msgid "Or sign in using:______________________________________"
+msgstr "______________________________________:או היכנס באמצעות"
+
+#: 
+msgid "GET IT ON"
+msgstr "הפעל את זה"
+
+#: 
+msgid "phone company"
+msgstr "חברת טלפונים"
+
+#: 
+msgid "Human telephone answering"
+msgstr "מענה טלפוני אנושי"
+
+#: 
+msgid "24/7 paid per minute of conversation"
+msgstr "בתשלום 24/7 לדקת שיחה"
+
+#: 
+msgid "will respond to your business's phone calls."
+msgstr ".יגיב לשיחות הטלפון של העסק שלך"
+
+#: 
+msgid "In every language, in every subject, in every field and for every purpose"
+msgstr "בכל שפה, בכל נושא, בכל תחום ולכל מטרה"
+
+#: 
+msgid "Pricing per minute"
+msgstr "תמחור לדקה"
+
+#: 
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: 
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: 
+msgid "Phone Number"
+msgstr "מספר טלפון"
+
+#: 
+msgid "TELL US ABOUT YOUR BUISNESS"
+msgstr "ספר לנו על העסקים שלך"
+
+#: 
+msgid "change logo"
+msgstr "החלף לוגו"
+
+#: 
+msgid "Choose your social media."
+msgstr ".בחר את המדיה החברתית שלך"
+
+#: 
+msgid "Youtube"
+msgstr "יוטיוב"
+
+#: 
+msgid "Linkedin"
+msgstr "לינקדאין"
+
+#: 
+msgid "Tiktok"
+msgstr "טיק טוק"
+
+#: 
+msgid "Role In The Company"
+msgstr "תפקיד בחברה"
+
+#: 
+msgid "FILL IN YOUR SOCIAL MEDIA DETAILS"
+msgstr "מלא את פרטי המדיה החברתית שלך"
+
+#: 
+msgid "Your account has been created!"
+msgstr "החשבון שלך נוצר!"
+
+#: 
+msgid "Are you ready to manage your own account?"
+msgstr "האם אתה מוכן לנהל את החשבון שלך?"
+
+#: 
+msgid "Continue"
+msgstr "המשך"
+
+#: 
+msgid "I agree  to the"
+msgstr "אני מסכים ל"
+
+#: 
+msgid "First name"
+msgstr "שם פרטי"
+
+#: 
+msgid "Last name"
+msgstr "שם משפחה"
+
+#: 
+msgid "Privacy & Policy"
+msgstr "מידניות פרטיות"
+
+#: 
+msgid "number cannot be empty"
+msgstr "המספר לא יכול להיות ריק"
+
+#: 
+msgid "company name cannot be empty"
+msgstr "שם החברה לא יכול להיות ריק"
+
+#: 
+msgid "you need to upload a logo"
+msgstr "אתה צריך להעלות לוגו"
+
+#: 
+msgid "area cannot be empty"
+msgstr "השדה לא יכול להיות ריק"
+
+#: 
+msgid "LOGIN TO PHONE.DO!."
+msgstr "היכנס ל phone.do!."
+
+#: 
+msgid "Human Answering Service"
+msgstr "שירות מענה אנושי"
+
+#: 
+msgid "professional, multilingual, multitasking and multi disciplinary BPO for businesses at any kind, size and location."
+msgstr "מענה טלפוני אנושי לעסקים. מקצועי, רב ערוצי, רב לשוני, רב משימתי ורב תחומי. לעסקים בכל סוג, גודל ומיקום"
+
+#: 
+msgid "Let's start"
+msgstr "בואו נתחיל"
+
+#: 
+#, fuzzy
+msgid "Call transfers, Messages, Sales, Bookings, Donation, Subscription, Reminders, Meetings, Confirmations, Surveys, Complaints, Tech Support, Collecting"
+msgstr "ניתוב שיחות, הודעות, מכירות, הזמנות, תרומות, מינויים, תזכורות, פגישות, אישורים, סקרים, תלונות, תמיכה טכנית, גבייה"
+
+#: 
+msgid "API, App, WhatsApp, mail, web, webbook"
+msgstr "אפליקציה, וואטסאפ, דוא''ל, אתר, אירוע, ממשק תכנות יישומים"
+
+#: 
+msgid "Sip, WebRTC, DID, Click to call"
+msgstr "סיפ, ווב אר טי סי, חיפ, לחץ להתקשר"
+
+#: 
+msgid "Phone company"
+msgstr "חברת טלפון"
+
+#: 
+msgid "will handle your phone inquiries"
+msgstr " יטפל בפניות הטלפוניות שלכם"
+
+#: 
+msgid "We will handle your phone inquiries"
+msgstr "אנו נטפל בפניות הטלפוניות שלכם"
+
+#: 
+msgid "in any language, subject, matter, purpose."
+msgstr "בכל שפה, נושא, תחום, מטרה"
+
+#: 
+msgid "Price per minute"
+msgstr "תשלום לפי דקה"
+
+#: 
+msgid "This value should not be blank."
+msgstr "שדה חובה"
+
+#: 
+msgid "Download The App"
+msgstr "הורד את האפלקציה"
+
+#: 
+msgid "Min"
+msgstr "דקות"
+
+#: 
+msgid "All rights reserved"
+msgstr "כל הזכויות שמורות"
+
+#: 
+msgid "You are now ready to Download the App"
+msgstr "אתה מוכן כעת להוריד את האפליקציה"
+
+#: 
+msgid "Update your profile now!"
+msgstr "עדכן את הפרופיל שלך עכשיו!"
+
+#: 
+msgid "save"
+msgstr "שמור"
+
+#: 
+msgid "Your Name"
+msgstr "שם"
+
+#: 
+msgid "Business Description - 5 Words About Your Self"
+msgstr "תאור העסק - 5 מילים על עצמך"
+
+#: 
+msgid "Update Your Profile"
+msgstr "עדכן את הפרופיל שלך"
+
+#: 
+#, fuzzy
+msgid "upload Your Profile Image"
+msgstr "העלה את תמונת הפרופיל שלך"
+
+#: 
+msgid "Add New Customer"
+msgstr " הוסף לקוח חדש"
+
+#: 
+msgid "Customer Details"
+msgstr "פרטי הלקוח"
+
+#: 
+msgid "A default password value will be set to the customer's phone number"
+msgstr "סיסמא ישלח למספר טלפון של הלקוח"
+
+#: 
+msgid "Customer Information"
+msgstr "פרטי הלקוח"
+
+#: 
+msgid "EDIT CUSTOMER"
+msgstr "ערוך פרטי לקוח"
+
+#: 
+msgid "Telephone"
+msgstr "טלפון"
+
+#: 
+msgid "CUSTOMER VIEW"
+msgstr "פרטי לקוח"
+
+#: 
+msgid "left"
+msgstr "עזב"
+
+#: 
+msgid "active"
+msgstr "פעיל"
+
+#: 
+msgid "Add customer"
+msgstr "הוסף לקוח"
+
+#: 
+msgid "Customers"
+msgstr "לקוחות"
+
+#: 
+#, fuzzy
+msgid "Sort By"
+msgstr "סנן לפי"
+
+#: 
+msgid "--select--"
+msgstr "בחר"
+
+#: 
+msgid "Results"
+msgstr "תוצאות"
+
+#: 
+msgid "View"
+msgstr "הצג"
+
+#: 
+msgid "Your website"
+msgstr "האתר שלך"
+
+#: 
+msgid "Your application"
+msgstr "האפלקציה שלך"
+
+#: 
+msgid "Application"
+msgstr "אפלקציה"
+
+#: 
+#, fuzzy
+msgid "Your Application"
+msgstr "האפלקציה שלך"
+
+#: 
+#, fuzzy
+msgid "Your Website"
+msgstr "האתר שלך"
+
+#: 
+msgid "The most profitable customers"
+msgstr "הלקוחות הרווחיים ביותר"
+
+#: 
+msgid "Net sales, found on the income statement are used to calculate this ration returns and refunds must be backed out of total sales to measure the truly measure the firm’s assets abillity to generate sales."
+msgstr "מכירות נטו, שנמצאו בדוח רווח והפסד, משמשות לחישוב התשואות של הקצבה זו ויש להחזיר החזר כספי מכלל המכירות כדי למדוד את מידת היכולת של נכסי המשרד לייצר מכירות."
+
+#: 
+msgid "Customer report"
+msgstr "דוח לקוחות"
+
+#: 
+msgid "Loading Chart"
+msgstr "טוען תרשים"
+
+#: 
+msgid "Outcoming calls"
+msgstr "שיחות יוצאות"
+
+#: 
+msgid "View more customers"
+msgstr "הצג יותר לקוחות"
+
+#: 
+msgid "Leading business sector"
+msgstr "העסק המוביל"
+
+#: 
+msgid "Total calls in month"
+msgstr "סך השיחות בחודש"
+
+#: 
+msgid "Top Sales Locations"
+msgstr "מיקומי מכירות מובילים"
+
+#: 
+msgid "Our most customers in "
+msgstr "רב החברות שלנו ב "
+
+#: 
+msgid "Massive"
+msgstr "גדול"
+
+#: 
+msgid "Small"
+msgstr "קטן"
+
+#: 
+msgid "Send message"
+msgstr "שלח הודעה"
+
+#: 
+#, fuzzy
+msgid "no data found"
+msgstr "לא נמצא מידע"
+
+#: 
+msgid "Dashboard"
+msgstr "לוח בקרה"
+
+#: 
+msgid "Wallet"
+msgstr "ארנק"
+
+#: 
+msgid "Reports"
+msgstr "דיווחים"
+
+#: 
+msgid "Screens"
+msgstr "מסכים"
+
+#: 
+msgid "Tipalti Contact"
+msgstr "טיפלתי"
+
+#: 
+msgid "Contact us"
+msgstr "צור קשר"
+
+#: 
+msgid "What Is Your Question?"
+msgstr "מה השאלה שלך?"
+
+#: 
+msgid "Tell us how can we help you?"
+msgstr "ספר לנו כיצד אנו יכולים לעזור לך?"
+
+#: 
+msgid "you need to select"
+msgstr "אתה צריך לבחור"
+
+#: 
+msgid "New Customers"
+msgstr "לקוחות חדשים"
+
+#: 
+msgid "---No new customers joined this month---"
+msgstr "---אין לקוחות חדשים החודש---"
+
+#: 
+msgid "customers report"
+msgstr "דיווח לקוחות"
+
+#: 
+msgid "Withdrawal History"
+msgstr "היסטוריית משיכה"
+
+#: 
+msgid "---No Withdrawal done this month yet---"
+msgstr "---אין עדיין משיכות החודש---"
+
+#: 
+msgid "View all Withdrawals"
+msgstr "צפה בכל המשיכות"
+
+#: 
+msgid "INFORMATION"
+msgstr "מידע"
+
+#: 
+msgid "Global Settings"
+msgstr "הגדרות כלליות"
+
+#: 
+msgid "Global Information"
+msgstr "מידע כללי"
+
+#: 
+msgid "Logo Company"
+msgstr "לוגו חברה"
+
+#: 
+msgid "information"
+msgstr "מידע"
+
+#: 
+msgid "settings"
+msgstr "הגדרות"
+
+#: 
+msgid "pricing"
+msgstr "מחירון"
+
+#: 
+msgid "Edit"
+msgstr "ערוך"
+
+#: 
+msgid "Interface Language"
+msgstr "שפת ממשק"
+
+#: 
+msgid "Web Site"
+msgstr "אתר"
+
+#: 
+msgid "PRICING"
+msgstr "מחירון"
+
+#: 
+msgid "Price per minute:"
+msgstr "מחיר לדקה:"
+
+#: 
+msgid "no notifications!"
+msgstr "אין התראות!"
+
+#: 
+msgid "Notification"
+msgstr "עדכונים"
+
+#: 
+msgid "Profits"
+msgstr "רווחים"
+
+#: 
+msgid "Business:"
+msgstr "עסק:"
+
+#: 
+msgid "all"
+msgstr "הכל"
+
+#: 
+msgid "From:"
+msgstr "מ"
+
+#: 
+msgid "To:"
+msgstr "ל:"
+
+#: 
+msgid "Export as CSV"
+msgstr "הורד כקובץ CSV"
+
+#: 
+msgid "Have a question?"
+msgstr "יש לכם שאלה?"
+
+#: 
+msgid "Our team is here to give you"
+msgstr "הצוות שלנו כאן כדי לתת לכם"
+
+#: 
+msgid "personalized support"
+msgstr "תמיכה מותאמת אישית"
+
+#: 
+msgid "have more questions?"
+msgstr "יש לך שאלות נוספות?"
+
+#: 
+#, fuzzy
+msgid "Chat with us"
+msgstr "שוחח עימנו"
+
+#: 
+msgid "Payment Method"
+msgstr "אמצעי תשלום"
+
+#: 
+msgid "Payment Currency"
+msgstr "מטבע תשלום"
+
+#: 
+msgid "Name On Account"
+msgstr "שם בעל החשבון"
+
+#: 
+msgid "National ID Number"
+msgstr "מספר תעודת זהות"
+
+#: 
+msgid "Bank Name"
+msgstr "שם הבנק"
+
+#: 
+msgid "SWIFT"
+msgstr "SWIFT"
+
+#: 
+msgid "Bank Code"
+msgstr "קוד הבנק"
+
+#: 
+msgid "Branch Code"
+msgstr "קוד הסניף"
+
+#: 
+msgid "Account Number"
+msgstr "מספר חשבון"
+
+#: 
+msgid "IBAN"
+msgstr "IBAN"
+
+#: 
+msgid "Income"
+msgstr "הכנסות"
+
+#: 
+msgid "Withdrawal"
+msgstr "הוצאות"
+
+#: 
+msgid "New Withdrawal"
+msgstr "משיכה חדשה"
+
+#: 
+msgid "Total Profit:"
+msgstr "סה\"כ  רווח"
+
+#: 
+#, fuzzy
+msgid "Filter profit by"
+msgstr "סנן את הרווח לפי"
+
+#: 
+msgid "Total Profit"
+msgstr "סך הרווחים"
+
+#: 
+msgid "Overview"
+msgstr "סקירה כללית"
+
+#: 
+msgid "show"
+msgstr "תצוגה"
+
+#: 
+msgid "Status"
+msgstr "סטטוס"
+
+#: 
+msgid "password"
+msgstr "סיסמה"
+
+#: 
+msgid "Payment Number"
+msgstr "מספר תשלום"
+
+#: 
+msgid "Date & Time"
+msgstr "שעה ותאריך"
+
+#: 
+msgid "Amount"
+msgstr "כמות"
+
+#: 
+msgid "January"
+msgstr "ינואר"
+
+#: 
+msgid "February"
+msgstr "פבואר"
+
+#: 
+msgid "March"
+msgstr "מרץ"
+
+#: 
+msgid "April"
+msgstr "אפריל"
+
+#: 
+msgid "May\n"
+""
+msgstr "מאי"
+
+#: 
+msgid "June"
+msgstr "יוני"
+
+#: 
+msgid "July"
+msgstr "יולי"
+
+#: 
+msgid "August"
+msgstr "אוגוסט"
+
+#: 
+msgid "September"
+msgstr "ספטמבר"
+
+#: 
+msgid "October"
+msgstr "אוקטובר"
+
+#: 
+msgid "November"
+msgstr "נובמבר"
+
+#: 
+msgid "December"
+msgstr "דצמבר"
+
+#: 
+msgid "sub domain"
+msgstr "תת-דומיין"
+
+#: 
+msgid "Customers who have left"
+msgstr "לקוחות שעזבו"
+
+#: 
+msgid "Marketing"
+msgstr "שיווק"
+
+#: 
+msgid "month in service"
+msgstr "חודשים בשרות"
+
+#: 
+msgid "vs"
+msgstr "לעומת"
+
+#: 
+msgid "Feed"
+msgstr "פיד"
+
+#: 
+msgid "filter"
+msgstr "סינון"
+
+#: 
+msgid "Like"
+msgstr "לייק"
+
+#: 
+msgid "Dislike"
+msgstr "דיסלייק"
+
+#: 
+msgid "Comments"
+msgstr "תגובות"
+
+#: 
+msgid "Share"
+msgstr "שתף"
+
+#: 
+msgid "Cancel saving this item for later"
+msgstr "בטל את שמירת הפריט למועד מאוחר יותר"
+
+#: 
+msgid "Share via"
+msgstr "שתף באמצעות"
+
+#: 
+msgid "Unfollow Janet Doe"
+msgstr "בטל מעקב"
+
+#: 
+msgid "Report the post"
+msgstr "דווח על פוסט"
+
+#: 
+msgid "Save this item for later"
+msgstr "שמור פריט זה למועד מאוחר"
+
+#: 
+msgid "Why are you reporting this?"
+msgstr "מדוע אתה מדווח על כך?"
+
+#: 
+msgid "Tell us a little more"
+msgstr "ספר לנו עוד קצת"
+
+#: 
+msgid "fake account"
+msgstr "חשבון מזוייף"
+
+#: 
+msgid "fake information"
+msgstr "מידע מזויף"
+
+#: 
+msgid "phishing"
+msgstr "פישינג"
+
+#: 
+msgid "industry"
+msgstr "תחום"
+
+#: 
+msgid "topic or language is offensive"
+msgstr "הנושא או השפה פוגעים"
+
+#: 
+msgid "harassment or a threat"
+msgstr "הטרדה או איום"
+
+#: 
+msgid "Compared to"
+msgstr "לעומת"
+
+#: 
+msgid "last month"
+msgstr "חודש שעבר"
+
+#: 
+msgid "customers left"
+msgstr "לקוחות שעזבו"
+
+#: 
+msgid "hate speech or harmful conduct"
+msgstr "דברי שנאה או התנהלות מזיקה"
+
+#: 
+msgid "adult content"
+msgstr "תוכן למבוגרים"
+
+#: 
+msgid "spam"
+msgstr "ספאם"
+
+#: 
+msgid "promotional"
+msgstr "קידום מכירות"
+
+#: 
+msgid "View/Edit"
+msgstr "הצג/ערוך"
+
+#: 
+msgid "search a customer"
+msgstr "חיפוש לקוח"
+
+#: 
+msgid "Profile settings were updated!"
+msgstr "הגדרות הפרופיל עודכנו!"
+
+#: 
+msgid "Company name already used."
+msgstr "שם העסק נמצא בשימוש."
+
+#: 
+msgid "new customers"
+msgstr "לקוחות חדשים"
+
+#: 
+#, fuzzy
+msgid "All fields should be full!"
+msgstr "על כל השדות להיות מלאים!"
+
+#: 
+msgid "Business Description - 5 words about yourself"
+msgstr "תיאור העסק - 5 מילים על עצמך"
+
+#: 
+msgid "Loading..."
+msgstr "טוען..."
+
+#: 
+msgid "Your search results are about to show up."
+msgstr "תוצאות החיפוש שלך כבר עולות"
+
+#: 
+msgid "Share post"
+msgstr "שתף פוסט"
+
+#: 
+msgid "Please type title"
+msgstr "אנא הקלד כותרת"
+
+#: 
+msgid "Please type all you want to talk about..."
+msgstr "אנא הקלד את כל מה שאתה רוצה לדבר עליו ..."
+
+#: 
+msgid "#Add hashtag"
+msgstr "הוסף האשטאג#"
+
+#: 
+msgid "Subject"
+msgstr "נושא"
+
+#: 
+msgid "Send"
+msgstr "שלח"
+
+#: 
+msgid "Thanks for your Report"
+msgstr "תודה על הדיווח שלך"
+
+#: 
+msgid "The post will be published in these moments"
+msgstr "הפוסט יפורסם ברגעים אלו"
+
+#: 
+msgid "No post received"
+msgstr "לא התקבל פוסט"
+
+#: 
+msgid "Are you sure you want to delete this comment?"
+msgstr "האם אתה בטוח שברצונך למחוק את התגובה הזו?"
+
+#: 
+msgid "Type your comment..."
+msgstr "הקלד את התגובה שלך..."
+
+#: 
+msgid "my"
+msgstr "שלי"
+
+#: 
+msgid "Posts"
+msgstr "פוסטים"
+
+#: 
+msgid "Followers"
+msgstr "עוקבים"
+
+#: 
+msgid "why are you reporting this?"
+msgstr "מדוע אתה מדווח על כך?"
+
+#: 
+msgid "Following"
+msgstr "עוקבים"
+
+#: 
+msgid "View all activities"
+msgstr "צפה בכל הפעילויות"
+
+#: 
+msgid "Favorite"
+msgstr "מועדף"
+
+#: 
+#, fuzzy
+msgid "Yet"
+msgstr "עדיין"
+
+#: 
+msgid "Call Duration"
+msgstr "משך שיחה"
+
+#: 
+msgid "Sales"
+msgstr "מכירות"
+
+#: 
+#, fuzzy
+msgid "Messages"
+msgstr "הודעות"
+
+#: 
+msgid "Open Issues"
+msgstr "נושאים פתוחים"
+
+#: 
+msgid "Meetings"
+msgstr "פגישות"
+
+#: 
+#, fuzzy
+msgid "You have "
+msgstr "יש לך "
+
+#: 
+#, fuzzy
+msgid "Our websit"
+msgstr "אתר האינטרנט שלנו"
+
+#: 
+msgid "search by company"
+msgstr "חיפוש לפי חברה"
+
+#: 
+msgid "Send Email"
+msgstr "שלח מייל"
+
+#: 
+msgid "Save post"
+msgstr "הפוסט נשמר"
+
+#: 
+msgid "Withdrawal money"
+msgstr "משיכת כסף"
+
+#: 
+msgid "Available to Withdrawal"
+msgstr "זמין למשיכה"
+
+#: 
+msgid "this post saved for later"
+msgstr "פוסט זה נשמר למועד מאוחר יותר"
+
+#: 
+msgid "From Gallery"
+msgstr "גלריה"
+
+#: 
+msgid "From Camera"
+msgstr "מצלמה"
+
+#: 
+msgid "Example App"
+msgstr "דוגמה לאפליקציה"
+
+#: 
+msgid "Fake"
+msgstr "מזויף"
+
+#: 
+msgid "Offensive"
+msgstr "פוגע"
+
+#: 
+msgid " Spam"
+msgstr " ספאם"
+
+#: 
+msgid "No Data Found"
+msgstr "לא נמצאו נתונים"
+
+#: 
+msgid "Click here to see all posts"
+msgstr "לחץ כאן כדי לראות את כל הפוסטים"
+
+#: 
+msgid "New Post"
+msgstr "פוסט חדש"
+
+#: 
+msgid "see less"
+msgstr "ראה פחות"
+
+#: 
+msgid "see more"
+msgstr "ראה יותר"
+
+#: 
+msgid "Select Source"
+msgstr "בחר מקור"
+
+#: 
+msgid "Show all"
+msgstr "ראה את כל ה"
+
+#: 
+msgid "comments"
+msgstr "תגובות"
+
+#: 
+msgid "Show"
+msgstr "ראה"
+
+#: 
+msgid "filter..."
+msgstr "סנן..."
+
+#: 
+msgid "I think it’s "
+msgstr "אני חושב שזה "
+
+#: 
+msgid "Show all "
+msgstr "ראה "
+
+#: 
+msgid " comments"
+msgstr " תגובות"
+
+#: 
+msgid "Show "
+msgstr "ראה "
+
+#: 
+msgid " Likes&Dislikes"
+msgstr " לייק ודיסלייק"
+
+#: 
+msgid "Likes"
+msgstr "לייק"
+
+#: 
+msgid "No "
+msgstr "אין "
+
+#: 
+#, fuzzy
+msgid " Yet..."
+msgstr " עדיין"
+
+#: 
+msgid "Dislikes"
+msgstr "דיסלייק"
+
+#: 
+msgid "My Feed"
+msgstr "הפיד שלי"
+
+#: 
+msgid "Follow "
+msgstr "עקוב "
+
+#: 
+msgid "Our Phone number:"
+msgstr "מספר הטלפון שלנו:"
+
+#: 
+msgid "Our website:"
+msgstr "האתר שלך:"
+
+#: 
+msgid "Our email:"
+msgstr "הדוא\"ל שלנו:"
+
+#: 
+msgid " Feed"
+msgstr " פיד"
+
+#: 
+msgid "Delete post"
+msgstr "מחק פוסט"
+
+#: 
+msgid "Spam"
+msgstr "ספאם"
+
+#: 
+msgid "Setup fee,"
+msgstr "עלות הקמה,"
+
+#: 
+msgid "Monthly Fee,"
+msgstr "עלות חודשית,"
+
+#: 
+msgid "Message Fee,"
+msgstr "עלות הודעה,"
+
+#: 
+msgid "commitment"
+msgstr "התחייבות."
+
+#: 
+msgid "No"
+msgstr "אין"
+
+#: 
+msgid "Ok"
+msgstr "כן"
+
+#: 
+msgid "What"
+msgstr "מה"
+
+#: 
+msgid "Way"
+msgstr "למה"
+
+#: 
+msgid "24/7 availability to your potential customers worldwide, 24/7 Support to your current customers worldwide"
+msgstr "זמינות 24/7 ללקוחות הפוטנציאליים שלך ברחבי העולם, תמיכה 24/7 ללקוחות הנוכחיים שלך ברחבי העולם"
+
+#: 
+msgid "Image update failed‏"
+msgstr "עדכון התמונה נכשל"
+
+#: 
+msgid "Activities"
+msgstr "פעילויות"
+
+#: 
+msgid "24/7 Outgoing, incoming calls"
+msgstr "24/7 שיחות נכנסות ונכנסות"
+
+#: 
+msgid "Why"
+msgstr "למה"
+
+#: 
+msgid "malware‏‏"
+msgstr "תוכנה זדונית"
+
+#: 
+msgid "It infringes on my rights"
+msgstr "זה פוגע בזכויות שלי"
+
+#: 
+msgid "incoming, Outgoing"
+msgstr "נכנסות ויוצאות"
+
+#: 
+#, fuzzy
+msgid "No Posts Yet..."
+msgstr "אין פוסטים עדיין..."
+
+#: 
+msgid "your profile will be updated"
+msgstr "הפרופיל שלך יתעדכן"
+
+#: 
+msgctxt "האם אתה בטוח שברצונך למחוק את הפוסט הזה?"
+msgid "Are you sure you want to delete this post?"
+msgstr "האם אתה בטוח שברצונך למחוק את הפוסט הזה?"
+
+#: 
+msgid "votes"
+msgstr "הצבעות"
+
+#: 
+msgid "Undo"
+msgstr "ביטול"
+
+#: 
+msgid "Create a poll"
+msgstr "צור סקר"
+
+#: 
+msgid "Your question *"
+msgstr "השאלה שלך *"
+
+#: 
+msgid "e.g., How do you commute to work?"
+msgstr "למשל, איך אתה נוסע לעבודה?"
+
+#: 
+msgid "Option 1 *"
+msgstr "אופציה 1 *"
+
+#: 
+msgid "e.g., Public Transport"
+msgstr "למשל, תחבורה ציבורית"
+
+#: 
+msgid "Option 2 *"
+msgstr "אופציה 2 *"
+
+#: 
+msgid "Option 3"
+msgstr "אופציה 3"
+
+#: 
+msgid "Option 4"
+msgstr "אופציה 4"
+
+#: 
+msgid "e.g., Walking"
+msgstr "למשל, הליכה"
+
+#: 
+msgid "e.g., Carpool"
+msgstr "למשל, קארפול"
+
+#: 
+msgid "e.g., Drive myself"
+msgstr "למשל, נהג בעצמי"
+
+#: 
+msgid "Remove"
+msgstr "להסיר"
+
+#: 
+msgid "+ Add Option"
+msgstr "הוסף אפשרות +"
+
+#: 
+msgid "You might also like‏:"
+msgstr ":אנשים שאתה עשוי להכיר"
+
+#: 
+msgid "post"
+msgstr "פוסט"
+
+#: 
+msgid "View results"
+msgstr "צפה בתוצאות"
+
+#: 
+msgid "Week"
+msgstr "שבוע"
+
+#: 
+msgid "Day"
+msgstr "יום"
+
+#: 
+msgid "Year"
+msgstr "שנה"
+
+#: 
+msgid "Month"
+msgstr "חודש"
+
+#: 
+msgid "From day 1"
+msgstr "מ-01"
+
+#: 
+msgid "Choose the time period"
+msgstr "בחר את פרק הזמן"
+
+#: 
+msgid "need to confirm"
+msgstr "יש לאמת"
+
+#: 
+msgid "Incompatible passwords"
+msgstr "הסיסמאות אינן תואמות"
+
+#: 
+msgid "Reply"
+msgstr "הגב"
+
+#: 
+msgid "Most of your customers are in:"
+msgstr ":רוב הלקוחות שלך נמצאים ב"
+
+#: 
+msgid "Large Business"
+msgstr "עסק גדול"
+
+#: 
+msgid "Medium Business"
+msgstr "עסק בינוני"
+
+#: 
+msgid "Small Business"
+msgstr "עסק קטן"
+
+#: 
+msgid "DNS Number"
+msgstr "מספר DNS"
+
+#: 
+msgid "Status Text"
+msgstr "סטטוס טקסט"
+
+#: 
+msgid "Yellow"
+msgstr "צהוב"
+
+#: 
+msgid "Green"
+msgstr "ירוק"
+
+#: 
+msgid "Blue"
+msgstr "כחול"
+
+#: 
+msgid "Red"
+msgstr "אדום"
+
+#: 
+msgid "Orange"
+msgstr "כתום"
+
+#: 
+msgid "Pink"
+msgstr "ורוד"
+
+#: 
+msgid "White"
+msgstr "לבן"
+
+#: 
+msgid "Purple"
+msgstr "סגול"
+
+#: 
+msgid "Grey"
+msgstr "אפור"
+
+#: 
+msgid "Story"
+msgstr "סטורי"
+
+#: 
+msgid "Type status:"
+msgstr "הקלד סטטוס:"
+
+#: 
+msgid "Your settings will be changed!"
+msgstr "ההגדרות שלך ישתנו!"
+
+#: 
+msgid "We will send you an email to verify the details of the change"
+msgstr "אנו נשלח אליך דוא\"ל לאימות פרטי השינוי"
+
+#: 
+msgid "select"
+msgstr "בחר"
+
+#: 
+msgid "From"
+msgstr "מ"
+
+#: 
+#, fuzzy
+msgid "Your saved your pricing!"
+msgstr "!המחירון שלך נשמר"
+
+#: 
+msgid "The file was not uploaded successfully"
+msgstr "הקובץ לא הועלה בהצלחה"
+
+#: 
+msgid "Votes"
+msgstr "הצבעות"
+
+#: 
+msgid "pending"
+msgstr "בהמתנה"
+
+#: 
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: 
+msgid "Lead generation"
+msgstr "יצירת לידים"
+
+#: 
+msgid "Campaign"
+msgstr "קמפיין"
+
+#: 
+msgid "IVR"
+msgstr "ניתוב שיחות"
+
+#: 
+msgid "Content"
+msgstr "תוכן"
+
+#: 
+msgid "Equipment"
+msgstr "ציוד"
+
+#: 
+#, fuzzy
+msgid "Hot Leads"
+msgstr "לידים חמים"
+
+#: 
+#, fuzzy
+msgid "Cold Leads"
+msgstr "לידים קרים"
+
+#: 
+#, fuzzy
+msgid "Scraping"
+msgstr "סקרייפינג"
+
+#: 
+msgid "Landing Page"
+msgstr "דף נחיתה"
+
+#: 
+msgid "Social Media"
+msgstr "מדיה חברתית"
+
+#: 
+msgid "Newsletter"
+msgstr "ניוזלטר"
+
+#: 
+msgid "Digital"
+msgstr "דיגיטל"
+
+#: 
+msgid "SEO"
+msgstr "קידום אתרים"
+
+#: 
+msgid "Affiliate"
+msgstr "שותפים"
+
+#: 
+msgid "Music On Hold"
+msgstr "מוזיקת המתנה"
+
+#: 
+msgid "Jingle"
+msgstr "ג'ינגל"
+
+#: 
+msgid "Narration"
+msgstr "קריינות"
+
+#: 
+msgid "Transcript"
+msgstr "תמלול"
+
+#: 
+msgid "Translation"
+msgstr "תרגום"
+
+#: 
+#, fuzzy
+msgid "Business writing"
+msgstr "כתיבה עסקית"
+
+#: 
+msgid "Smartphones"
+msgstr "סמארטפונים"
+
+#: 
+msgid "Tablets"
+msgstr "טאבלטים"
+
+#: 
+msgid "Headphones"
+msgstr "אוזניות"
+
+#: 
+msgid "Accounting"
+msgstr "הנהלת חשבונות"
+
+#: 
+msgid "Tax Advice"
+msgstr "ייעוץ מס"
+
+#: 
+msgid "Payroll"
+msgstr "גליון שכר"
+
+#: 
+msgid "Hot Leads, Cold Leads, Scraping, "
+msgstr "לידים חמים, לידים קרים, סקרייפינג"
+
+#: 
+msgid "Landing Page, Social Media, Newsletter, "
+msgstr "דף נחיתה, מדיה חברתית, ניוזלטר"
+
+#: 
+msgid "Digital, SEO, Affiliate, "
+msgstr "דיגיטל, קידום אתרים, שותפים"
+
+#: 
+msgid "Narration, Jingle, Music On Hold, "
+msgstr "קריינות, ג'ינגל, מוזיקת המתנה"
+
+#: 
+msgid "Transcript, Translation, Business Writing, "
+msgstr "תמלול, תרגום, כתיבה עסקית"
+
+#: 
+msgid "Accounting, Tax Advice, Payroll, "
+msgstr "הנהלת חשבונות, ייעוץ מס, גליון שכר"
+
+#: 
+msgid "Smartphones, Tablets, Headphones, "
+msgstr "סמארטפונים, טאבלטים, אוזניות"
+
+#: 
+msgid "Market"
+msgstr "מכירות"
+
+#: 
+msgid "Inbox"
+msgstr "דואר"
+
+#: 
+msgid "Source Language"
+msgstr "שפת מקור"
+
+#: 
+msgid "Target Language"
+msgstr "שפת יעד"
+
+#: 
+msgid "Amount of Words"
+msgstr "כמות מילים"
+
+#: 
+msgid "Upload an Audio File"
+msgstr "העלאת קובץ שמע"
+
+#: 
+msgid "Upload a Text File"
+msgstr "העלאת קובץ טקסט"
+
+#: 
+msgid "Select a Sound Type"
+msgstr "בחר סוג צליל"
+
+#: 
+msgid "Background Music"
+msgstr "מוזיקת רקע"
+
+#: 
+msgid "Order Name\n"
+""
+msgstr "שם ההזמנה"
+
+#: 
+msgid "Delievery Days"
+msgstr "ימי משלוח"
+
+#: 
+msgid "Script Proofwriting"
+msgstr "כתיבת הגהה לתסריט"
+
+#: 
+msgid "Separate Files"
+msgstr "הפרדת קבצים"
+
+#: 
+msgid "Script Writing"
+msgstr "כתיבת תסריט"
+
+#: 
+msgid "HQ file"
+msgstr "קובץ HQ"
+
+#: 
+msgid "Age Range"
+msgstr "טווח גילאים"
+
+#: 
+msgid "Slogen"
+msgstr "סלוגן"
+
+#: 
+msgid "Please Add Special Requirements"
+msgstr "אנא הוסף דרישות מיוחדות"
+
+#: 
+msgid "Time Reference"
+msgstr "נקודת ייחוס בזמן"
+
+#: 
+msgid "More than 2 Speakers"
+msgstr "יותר משני דוברים"
+
+#: 
+msgid "Proofreading"
+msgstr "הַגָהָה"
+
+#: 
+msgid "Document Formatting"
+msgstr "עיצוב מסמכים"
+
+#: 
+msgid "Add Additional Pages to Optimise"
+msgstr "הוספת דפים לביצוע אופטימיזציה"
+
+#: 
+msgid "Link Building"
+msgstr "בניית קישורים"
+
+#: 
+msgid "Design Customization"
+msgstr "עיצוב בהתאמה אישית"
+
+#: 
+msgid "Additional Page"
+msgstr "דף נוסף"
+
+#: 
+msgid "Additional Plugin Installtion"
+msgstr "התקנת תוסף נוסף"
+
+#: 
+msgid "Suggest Monetization"
+msgstr "הצעת מונטיזציה"
+
+#: 
+msgid "Industry & Competitors' Analiysis"
+msgstr "ניתוח תעשייה ומתחרים"
+
+#: 
+msgid "SWOT Analysis"
+msgstr "ניתוח SWOT"
+
+#: 
+msgid "Customer Analysis"
+msgstr "ניתוח לקוחות"
+
+#: 
+msgid "Tailored Marketing Plan"
+msgstr "תוכנית שיווק מותאמת אישית"
+
+#: 
+msgid "Financial Forcast"
+msgstr "תחזית פיננסית"
+
+#: 
+msgid "Custom Videos / Gifs"
+msgstr "סרטונים / קובצי GIF מותאמים אישית"
+
+#: 
+msgid "Custom Graphics"
+msgstr "גרפיקה מותאמת אישית"
+
+#: 
+msgid "Link to The Website"
+msgstr "קישור לאתר"
+
+#: 
+msgid "State Filing"
+msgstr "תיוק מדינה"
+
+#: 
+msgid "Working Field"
+msgstr "תחום עבודה"
+
+#: 
+msgid "Estimated Price"
+msgstr "מחיר משוער"
+
+#: 
+msgid "Cellular Company"
+msgstr "חברת סלולר"
+
+#: 
+msgid "Logo Design"
+msgstr "עיצוב לוגו"
+
+#: 
+msgid "Responsive Design"
+msgstr "עיצוב רספונסיבי"
+
+#: 
+msgid "Countdown Timers"
+msgstr "שעון ספירה לאחור"
+
+#: 
+msgid "Additional Sections"
+msgstr "סעיפים נוספים"
+
+#: 
+msgid "Social Media Icons"
+msgstr "סמלי מדיה חברתית"
+
+#: 
+msgid "FAQ's"
+msgstr "שאלות נפוצות"
+
+#: 
+msgid "Management Duration"
+msgstr "משך זמן השירות"
+
+#: 
+msgid "Number of Platforms"
+msgstr "מספר פלטפורמות"
+
+#: 
+msgid "Upload Landing Page on Live Domain"
+msgstr "העלאת דף נחיתה לדומיין פעיל"
+
+#: 
+msgid "Stories"
+msgstr "סטורי"
+
+#: 
+msgid "Video Adds"
+msgstr "פרסומות וידאו"
+
+#: 
+msgid "Extra Posts"
+msgstr "פוסטים נוספים"
+
+#: 
+msgid "Photo Editing"
+msgstr "עריכת תמונות"
+
+#: 
+msgid "Social Media Design"
+msgstr "עיצוב מדיה חברתית"
+
+#: 
+msgid "Lead generation and target lead collection"
+msgstr "יצירת לידים ואיסוף לידים מיועדים"
+
+#: 
+msgid "Web scraping, data mining from all websites"
+msgstr "סקרייפינג, כריית נתונים מאתרים"
+
+#: 
+msgid "Design modern and professional converting landing page or home page"
+msgstr "עיצוב מודרני ומקצועי לדף נחיתה או דף בית"
+
+#: 
+msgid "Social media marketing and content creation"
+msgstr "שיווק במדיה חברתית ויצירת תוכן"
+
+#: 
+#, fuzzy
+msgid "Design professional, responsive newsletters, brochure, magazine, flyer "
+msgstr "עיצוב מקצועי, ניוזלטר רספונסיבי, חוברת, מגזין, עלון"
+
+#: 
+msgid "Marketing strategy plan and digital marketing"
+msgstr "תוכנית אסטרטגיה שיווקית ושיווק דיגיטלי"
+
+#: 
+msgid "Quality on-page SEO optimization service for all websites"
+msgstr "שירות אופטימיזציה איכותי לקידום אתרים"
+
+#: 
+#, fuzzy
+msgid "Clickbank affiliate website for passive profits"
+msgstr "אתר שותפים של clickbank לרווחים פסיביים"
+
+#: 
+#, fuzzy
+msgid "Professional voice over for your IVR and other information for your customers "
+msgstr "קריינות מקצועית לניתוב שיחות ומסירת מידע עבור הלקוחות שלך"
+
+#: 
+msgid "Create a custom jingle to promote your business"
+msgstr "יצירת ג'ינגל בהתאמה אישית לקידום העסק שלך"
+
+#: 
+#, fuzzy
+msgid "Mix & Master your unique music on hold "
+msgstr "עיבוד מוסיקת המתנה ייחודית"
+
+#: 
+msgid "Accurately transcribe audio, video and podcasts"
+msgstr "תמלול אודיו, וידאו ופודקאסטים בצורה מדויקת"
+
+#: 
+msgid "Translate any type of text or document in any language"
+msgstr "תרגום כל סוג טקסט/מסמך בכל שפה"
+
+#: 
+msgid "Accounting, book keeping and financial statment services"
+msgstr "שירותי חשבונאות, הנהלת חשבונות ודוחות כספיים"
+
+#: 
+#, fuzzy
+msgid "Business income tax return advice "
+msgstr "ייעוץ החזרי מס הכנסה לעסקים"
+
+#: 
+msgid "Payroll services"
+msgstr "שירותי שכר"
+
+#: 
+#, fuzzy
+msgid "We will provide you the best smartphone with minimum time and maximum quality and efficiency   "
+msgstr "אנו נספק לכם את הטלפון החכם הטוב ביותר במינימום זמן עם איכות ויעילות מרבית"
+
+#: 
+#, fuzzy
+msgid "We will provide you the best tablet with minimum time and maximum quality and efficiency\n"
+"\n"
+""
+msgstr "אנו נספק לכם את הטאבלט הטוב ביותר במינימום זמן עם איכות ויעילות מרבית"
+
+#: 
+#, fuzzy
+msgid "We will provide you the best headphones with minimum time and maximum quality and efficiency\n"
+"\n"
+""
+msgstr "אנו נספק לכם את האוזניות הטובות ביותר במינימום זמן עם איכות ויעילות מרבית"
+
+#: 
+msgid "Off-Page Strategy"
+msgstr "אסטרטגיה מחוץ לדף"
+
+#: 
+#, fuzzy
+msgid "Backlinks Analysis"
+msgstr "ניתוח קישורים נכנסים"
+
+#: 
+#, fuzzy
+msgid "Compatiton Backlinks Analysis"
+msgstr "ניתוח קישורים נכנסים של מתחרה"
+
+#: 
+msgid "On-Page Optimization"
+msgstr "אופטימיזציה בדף"
+
+#: 
+msgid "Bad Links Removal"
+msgstr "הסרת קישורים לא תקינים"
+
+#: 
+msgid "Technical SEO"
+msgstr "קידום אתרים טכני"
+
+#: 
+msgid "Guest Posting Strategy"
+msgstr "אסטרטגיית פרסום אורחים"
+
+#: 
+msgid "Keyword Analysis"
+msgstr "ניתוח מילות מפתח"
+
+#: 
+msgid "Content Analysis"
+msgstr "ניתוח תוכן"
+
+#: 
+msgid "Content Upload"
+msgstr "העלאת תוכן"
+
+#: 
+#, fuzzy
+msgid "E- Commera Functionality"
+msgstr "פונקציונליות מסחר אלקטרוני"
+
+#: 
+#, fuzzy
+msgid "Bookkeeping"
+msgstr "הנהלת חשבונות"
+
+#: 
+msgid "Receipt Management"
+msgstr "ניהול קבלות"
+
+#: 
+msgid "Financial Statement"
+msgstr "דוחות כספיים"
+
+#: 
+msgid "Report Creation"
+msgstr "יצירת דוחות"
+
+#: 
+msgid "Includes 500 Transactions"
+msgstr "כולל 500 עסקאות"
+
+#: 
+msgid "Accounting Tools Setup"
+msgstr "הגדרת כלי חשבונאות"
+
+#: 
+msgid "Account Audit"
+msgstr "ביקורת חשבון"
+
+#: 
+msgid "Accounting Advisory"
+msgstr "ייעוץ חשבונאי"
+
+#: 
+msgid "Executive Summary"
+msgstr "תקציר מנהלים"
+
+#: 
+msgid "Company Description"
+msgstr "תיאור החברה"
+
+#: 
+msgid "Basic Photo Editing"
+msgstr "עריכת תמונות בסיסית"
+
+#: 
+msgid "Organize Management"
+msgstr "ארגון וניהול"
+
+#: 
+#, fuzzy
+msgid "Formatting & Clean Up"
+msgstr "עיצוב וניקוי"
+
+#: 
+msgid "Content Creation"
+msgstr "יצירת תוכן"
+
+#: 
+msgid "Page / Channel Evalvation"
+msgstr "הערכת עמוד / ערוץ"
+
+#: 
+msgid "Tax Reporting"
+msgstr "דיווח מס"
+
+#: 
+msgid "Tax Return Filling"
+msgstr "הגשת החזר מס"
+
+#: 
+msgid "Tax Planning and Advisory"
+msgstr "תכנון וייעוץ מיסים"
+
+#: 
+msgid "Tax Exemption Submission"
+msgstr "הגשת פטור ממס"
+
+#: 
+msgid "Tax Refund Submission"
+msgstr "הגשת החזר מס"
+
+#: 
+msgid "Tax Certification Submission"
+msgstr "הגשת אישור מס"
+
+#: 
+msgid "Salary and Benefits Benchmarking"
+msgstr "מדד שכר והטבות"
+
+#: 
+msgid "Total Compensation Structuring"
+msgstr "מבנה פיצויים כולל"
+
+#: 
+msgid "3 Emails"
+msgstr "שלוש מיילים"
+
+#: 
+msgid "Tailored Active Plan"
+msgstr "תוכנית פעילה מותאמת אישית"
+
+#: 
+msgid "Campaign Development"
+msgstr "פיתוח קמפיין"
+
+#: 
+msgid "Campaign Optimization"
+msgstr "אופטימיזציה של קמפיין"
+
+#: 
+msgid "One Year Warranty"
+msgstr "אחריות לשנה"
+
+#: 
+msgid "Reliability and Professionalism"
+msgstr "אמינות ומקצועיות"
+
+#: 
+msgid "Professional Data Scraping"
+msgstr "סקרייפינג מקצועי"
+
+#: 
+msgid "Data Entry"
+msgstr "הזנת נתונים"
+
+#: 
+msgid "Data Mining"
+msgstr "כריית מידע"
+
+#: 
+msgid "Data Extraction"
+msgstr "חילוץ מידע"
+
+#: 
+msgid "Web Research According to Requirements"
+msgstr "מחקר באינטרנט על פי דרישות"
+
+#: 
+msgid "Data Processing"
+msgstr "עיבוד נתונים"
+
+#: 
+msgid "Verbatim Transcription"
+msgstr "תמלול"
+
+#: 
+msgid "Convert File"
+msgstr "המרת קובץ"
+
+#: 
+msgid "Language Style Guide"
+msgstr "מדריך לסגנון שפה"
+
+#: 
+msgid "Page/ Channel Evaluation"
+msgstr "הערכת עמוד / ערוץ"
+
+#: 
+msgid "Schedule Posts"
+msgstr "תזמון פוסטים"
+
+#: 
+msgid "Action Plan"
+msgstr "תוכנית פעולה"
+
+#: 
+msgid "Reporting"
+msgstr "דיווח"
+
+#: 
+msgid "Engagement with Followers"
+msgstr "תקשורת עם עוקבים"
+
+#: 
+msgid "Topic Research"
+msgstr "מחקר נושאים"
+
+#: 
+msgid "Competitor Research"
+msgstr "מחקר מתחרים"
+
+#: 
+msgid "Copywriting"
+msgstr "קופירייטינג"
+
+#: 
+msgid "Print Ready"
+msgstr "מוכן להדפסה"
+
+#: 
+#, fuzzy
+msgid "Double-Sided"
+msgstr "דו צדדי"
+
+#: 
+msgid "Focus Keywords"
+msgstr "מילות מפתח ממוקדות"
+
+#: 
+msgid "7 sections"
+msgstr "7 סעיפים"
+
+#: 
+msgid "Vocals Recording"
+msgstr "הקלטת שירה"
+
+#: 
+msgid "Original Music"
+msgstr "מוזיקה מקורית"
+
+#: 
+msgid "Mixing & Mastering"
+msgstr "עיבוד"
+
+#: 
+msgid "total"
+msgstr "סה\"כ"
+
+#: 
+msgid "Log In"
+msgstr "התחברות"
+
+#: 
+msgid "Sign In"
+msgstr "להתחבר"
+
+#: 
+msgid "Log In your account"
+msgstr "התחבר לחשבונך"
+
+#: 
+msgid "I forgot my password"
+msgstr "שכחתי את הסיסמא שלי"
+
+#: 
+msgid "download starting"
+msgstr "ההורדה מתחילה"
+
+#: 
+msgid "download completed"
+msgstr "ההורדה הושלמה"
+
+#: 
+msgid "download"
+msgstr "הורדה"
+
+#: 
+msgid "Check out my Extras"
+msgstr "בדוק את התוספות שלי"
+
+#: 
+msgid "word"
+msgstr "מילים"
+
+#: 
+msgid "second"
+msgstr "שניות"
+
+#: 
+msgid "smartPhone"
+msgstr "סמארטפון"
+
+#: 
+msgid "tablet"
+msgstr "טאבלט"
+
+#: 
+msgid "headphone"
+msgstr "אוזניות"
+
+#: 
+msgid "basic package"
+msgstr "חבילה בסיסית"
+
+#: 
+msgid "platform"
+msgstr "פלטפורמה"
+
+#: 
+msgid "Business Writing"
+msgstr "כתיבה עסקית"
+
+#: 
+msgid "My review"
+msgstr "הדירוג שלי"
+
+#: 
+msgid "Rate your experience"
+msgstr "דרג את החוויה שלך"
+
+#: 
+msgid "Seller Communication"
+msgstr "שירות המוכר"
+
+#: 
+msgid "Service as described"
+msgstr "שירות כמתואר"
+
+#: 
+msgid "Would Recommend"
+msgstr "ימליץ"
+
+#: 
+msgid "Share your experience"
+msgstr "שתף את החוויה שלך"
+
+#: 
+msgid "Please rate and include at least 10 ..."
+msgstr "אנא דרג והכלל לפחות 10 ..."
+
+#: 
+msgid "Requirements received"
+msgstr "דרישות שהתקבלו"
+
+#: 
+msgid "You must complete the requirements list"
+msgstr "עליך להשלים את רשימת הדרישות"
+
+#: 
+msgid "Click to Requirements page"
+msgstr "לחץ לדף הדרישות"
+
+#: 
+msgid "Order Created"
+msgstr "ההזמנה שנוצרה"
+
+#: 
+msgid "VAT"
+msgstr "מע\"מ"
+
+#: 
+msgid "Call purpose should not be blank"
+msgstr "חובה למלא מטרת שיחה"
+
+#: 
+msgid "Phone number should not be blank"
+msgstr "חובה למלא מספר טלפון"
+
+#: 
+msgid "Name should not be blank"
+msgstr "חובה למלא שם"
+
+#: 
+#, fuzzy
+msgid "Save details"
+msgstr "שמירה"
+
+#: 
+msgid "What do you want to do?"
+msgstr "מה תרצו לעשות?"
+
+#: 
+msgid "Hotline"
+msgstr "מוקד"
+
+#: 
+msgid "Hello"
+msgstr "הלו"
+
+#: 
+msgid "Pricing"
+msgstr "מחירון"
+
+#: 
+msgid "Frequentyly Asked Questions"
+msgstr "שאלות נפוצות"
+
+#: 
+#, fuzzy
+msgid "Are they real investors?"
+msgstr "האם הם משקיעים אמיתיים?"
+
+#: 
+msgid "Yes,tested and trusted"
+msgstr "כן, נבדק ואמין"
+
+#: 
+msgid "Investors leads of which country?"
+msgstr "באיזה מדינה המשקיעים המובילים?"
+
+#: 
+msgid "Any country of your choice"
+msgstr "בכל מדינה שתבחר"
+
+#: 
+msgid "Can you provide investor leads?"
+msgstr "האם תוכל לספק מובילים משקיעים?"
+
+#: 
+msgid "Absolutely yes"
+msgstr "בהחלט כן"
+
+#: 
+msgid "In what field do you have Leads?"
+msgstr "באיזה תחום יש לך לידים?"
+
+#: 
+msgid "In all fields"
+msgstr "בכל התחומים"
+
+#: 
+msgid "Reviews"
+msgstr "ביקורות"
+
+#: 
+msgid "see all"
+msgstr "ראה הכל"
+
+#: 
+msgid "Rate Service"
+msgstr "דרג שירות"
+
+#: 
+msgid "Seller communication"
+msgstr "תקשורת המוכר"
+
+#: 
+msgid "In what format do you offer the downloadedn data?"
+msgstr "באיזה פורמט אתה מציע את הנתונים שהורדו?"
+
+#: 
+msgid "chat"
+msgstr "צ'אט"
+
+#: 
+msgid "Delivery Days"
+msgstr "ימי משלוח"
+
+#: 
+msgid "All Professions"
+msgstr "כל המקצועות"
+
+#: 
+msgid "High Level Customers"
+msgstr "לקוחות ברמה גבוהה"
+
+#: 
+msgid "Revisions"
+msgstr "תיקונים"
+
+#: 
+msgid "Sources Mined/Scraped"
+msgstr "מקורות ממוקשים/מגרדים"
+
+#: 
+msgid "6 Sections"
+msgstr "6 קטעים"
+
+#: 
+msgid "Contact Us/ Sign Up"
+msgstr "צרו קשר/ הרשמו"
+
+#: 
+msgid "I don't know how to upload the landing page. Will you please upload the landing page on my unbounce account and make it live"
+msgstr "אני לא יודע איך להעלות את דף הנחיתה. האם תוכל בבקשה להעלות את דף הנחיתה בחשבון שלי שבוטל ולהפוך אותו לחיות"
+
+#: 
+msgid "Sure, I'll upload the landing page on your Unbounce account and make it go live."
+msgstr "בטח, אני אעלה את דף הנחיתה בחשבון שלך ​​ואגרום לו לפעול."
+
+#: 
+msgid "What is a Section?"
+msgstr "מהו סעיף?"
+
+#: 
+msgid "A section is an element in a Landing Page that contains specific information. Like HEADER, ABOUT US, FEATURES, SERVICES, OUR TEAM etc."
+msgstr "קטע הוא מרכיב בדף נחיתה המכיל מידע ספציפי. כמו כותרת, אודותינו, תכונות, שירותים, הצוות שלנו וכו '."
+
+#: 
+msgid "Can you Redesign or Modify an Existing Landing Page?"
+msgstr "האם תוכל לעצב מחדש או לשנות דף נחיתה קיים?"
+
+#: 
+msgid "Yes, Definitely I can redesign any landing pages as per as your requirments."
+msgstr "כן, בהחלט אוכל לעצב מחדש כל דפי נחיתה בהתאם לדרישותיך."
+
+#: 
+msgid "Can you integrate chatting options?"
+msgstr "האם תוכל לשלב אפשרויות צ'אט?"
+
+#: 
+msgid "Yes, I can integrate chat option on your site with premium plugins."
+msgstr "כן, אני יכול לשלב אפשרות צ'אט באתר שלך עם תוספי פרימיום."
+
+#: 
+msgid "How do I send you my content for the website?"
+msgstr "כיצד אוכל לשלוח לך את התוכן שלי לאתר?"
+
+#: 
+msgid "You can send me your sample design file, PSD or any link. You can also upload any media/images/etc. The process is simple and I'm happy to help you"
+msgstr "אתה יכול לשלוח לי את קובץ העיצוב לדוגמה שלך, PSD או כל קישור. אתה יכול גם להעלות כל מדיה/תמונות/וכו '. התהליך פשוט ואני שמח לעזור לך"
+
+#: 
+msgid "Unlimited Revisions"
+msgstr "שינויים ללא הגבלה"
+
+#: 
+msgid "Page/Channel Evaluation"
+msgstr "הערכת דף/ערוץ"
+
+#: 
+msgid "4 Pages"
+msgstr "4 דפים"
+
+#: 
+msgid "Editable Template"
+msgstr "תבנית ניתנת לעריכה"
+
+#: 
+msgid "3 Platforms(Facebook & Instagram & Linkedin)"
+msgstr "3 פלטפורמות (פייסבוק ואינסטגרם ולינקדין)"
+
+#: 
+msgid "Google Adwords"
+msgstr "גוגל אדוורדס"
+
+#: 
+msgid "Logo Creation"
+msgstr "יצירת לוגו"
+
+#: 
+msgid "14 Management Duration Days"
+msgstr "14 ימי משך ניהול"
+
+#: 
+msgid "Audience of 5000"
+msgstr "קהל של 5000"
+
+#: 
+msgid "30 Leads Included: name email phone country gender"
+msgstr "30 לידים כלולים: שם דוא\"ל טלפון מגדר מדינה"
+
+#: 
+msgid "7 Delivery Days"
+msgstr "7 ימי משלוח"
+
+#: 
+msgid "5 Delivery Days"
+msgstr "5 ימי משלוח"
+
+#: 
+msgid "600 Leads"
+msgstr "600 לידים"
+
+#: 
+msgid "100 Leads"
+msgstr "100 לידים"
+
+#: 
+msgid "3 Delivery Days"
+msgstr "3 ימי משלוח"
+
+#: 
+msgid "5 Revisions"
+msgstr "5 תיקונים"
+
+#: 
+msgid "10 Posts"
+msgstr "10 פוסטים"
+
+#: 
+msgid "30 Delivery Days"
+msgstr "30 ימי משלוח"
+
+#: 
+msgid "6 Delivery Days"
+msgstr "6 ימי משלוח"
+
+#: 
+msgid "14 Delivery Days"
+msgstr "14 ימי משלוח"
+
+#: 
+msgid "Keywords"
+msgstr "מילות מפתח"
+
+#: 
+msgid "3 Social Media Shares"
+msgstr "3 שיתופי מדיה חברתית"
+
+#: 
+msgid "3 Social Post Suggestions"
+msgstr "3 הצעות לפרסום חברתי"
+
+#: 
+msgid "Optimization Tests"
+msgstr "מבחני אופטימיזציה"
+
+#: 
+msgid "Competitor Analysis"
+msgstr "ניתוח מתחרה"
+
+#: 
+msgid "2 Pages to Optimise"
+msgstr "2 דפים לאופטימיזציה"
+
+#: 
+msgid "2 Delivery Days"
+msgstr "2 ימי משלוח"
+
+#: 
+msgid "Strategy Development"
+msgstr "פיתוח אסטרטגיה"
+
+#: 
+msgid "3 Affiliate Marketing Consultstions"
+msgstr "3 ייעוץ שיווק שותפים"
+
+#: 
+msgid "5 Pages"
+msgstr "5 עמודים"
+
+#: 
+msgid "3 Revisions"
+msgstr "3 תיקונים"
+
+#: 
+msgid "21 Delivery Days"
+msgstr "21 ימי משלוח"
+
+#: 
+msgid "100 Words"
+msgstr "100 מילים"
+
+#: 
+msgid "1 Revision"
+msgstr "1 תיקון"
+
+#: 
+msgid "60 Seconds"
+msgstr "60 שניות"
+
+#: 
+msgid "Original Music and Composed Music"
+msgstr "מוזיקה מקורית ומוזיקה מורכבת"
+
+#: 
+msgid "Unlimted Revisions"
+msgstr "תיקונים ללא הגבלה"
+
+#: 
+msgid "90 Seconds"
+msgstr "90 שניות"
+
+#: 
+msgid "50 Words"
+msgstr "50 מילים"
+
+#: 
+msgid "Female & Men Voices"
+msgstr "קולות נשים וגברים"
+
+#: 
+msgid "24 Hours Delivery"
+msgstr "משלוח 24 שעות"
+
+#: 
+msgid "10 Minutes"
+msgstr "10 דקות"
+
+#: 
+msgid "3 Speakers"
+msgstr "3 דוברים"
+
+#: 
+msgid "400 Words"
+msgstr "400 מילים"
+
+#: 
+msgid "300 Words"
+msgstr "300 מילים"
+
+#: 
+msgid "Financial Forecast"
+msgstr "תחזית פיננסית"
+
+#: 
+msgid "9 Delivery Days"
+msgstr "9 ימי משלוח"
+
+#: 
+msgid "400 Transactions"
+msgstr "400 עסקאות"
+
+#: 
+msgid "4 Delivery Days"
+msgstr "4 ימי משלוח"
+
+#: 
+msgid " Account Audit"
+msgstr " ביקורת חשבון"
+
+#: 
+msgid " Bookkeeping"
+msgstr " הנהלת חשבונות"
+
+#: 
+msgid " Accounting Advisory"
+msgstr " ייעוץ חשבונאי"
+
+#: 
+msgid " Payroll"
+msgstr " גליון שכר"
+
+#: 
+msgid "Tax Return Filing"
+msgstr "הגשת החזרי מס"
+
+#: 
+msgid " Director Tax Return"
+msgstr " דירקטור החזרי מס"
+
+#: 
+msgid " 2 Paystub"
+msgstr " 2 תלושי משכורת"
+
+#: 
+msgid "Tax and YTD Calculation"
+msgstr "חישוב מס ו YTD"
+
+#: 
+msgid " Report Creation"
+msgstr " יצירת דוחות"
+
+#: 
+msgid "Android"
+msgstr "אנדרואיד"
+
+#: 
+msgid "1 Year Warranty"
+msgstr "אחריות לשנה 1"
+
+#: 
+msgid "8 Delivery Days"
+msgstr "8 ימי משלוח"
+
+#: 
+msgid "Wireless"
+msgstr "אלחוטי"
+
+#: 
+msgid "2 Years Warranty"
+msgstr "אחריות לשנתיים"
+
+#: 
+msgid "3 Days Delivery"
+msgstr "3 ימים משלוח"
+
+#: 
+msgid "50 Extra Leads"
+msgstr "50 לידים נוספים"
+
+#: 
+msgid "Express Delivery in 3 Days"
+msgstr "משלוח אקספרס תוך 3 ימים"
+
+#: 
+#, fuzzy
+msgid "Extra Language"
+msgstr "שפה נוספת"
+
+#: 
+msgid "Extra Country"
+msgstr "מדינה נוספת"
+
+#: 
+msgid "Express Delivery in 5 Days"
+msgstr "משלוח אקספרס תוך 5 ימים"
+
+#: 
+msgid "Express Delivery in 24 Hours"
+msgstr "משלוח אקספרס תוך 24 שעות"
+
+#: 
+msgid "Express Delivery in 10 Days"
+msgstr "משלוח אקספרס תוך 10 ימים"
+
+#: 
+msgid "Express Delivery in 1 day"
+msgstr "משלוח אקספרס תוך 1 ימים"
+
+#: 
+msgid "Express Delivery in 2 Days"
+msgstr "משלוח אקספרס תוך 2 ימים"
+
+#: 
+msgid "1 Extra Revision"
+msgstr "1 עדכון נוסף"
+
+#: 
+msgid "Additional 1 Source Mined/Scarped"
+msgstr "מקור נוסף ממוקש/מצולק"
+
+#: 
+msgid "Another Language to Choose"
+msgstr "שפה נוספת לבחירה"
+
+#: 
+msgid "Video Upload"
+msgstr "העלאת סרטון"
+
+#: 
+msgid "Additional Platform"
+msgstr "פלטפורמה נוספת"
+
+#: 
+msgid "Additional Section"
+msgstr "סעיף נוסף"
+
+#: 
+msgid "Extra 5 Posts"
+msgstr "5 פוסטים נוספים"
+
+#: 
+msgid "Extra 1 Page"
+msgstr "דף נוסף"
+
+#: 
+msgid "1 Platform"
+msgstr "פלטפורמה אחת"
+
+#: 
+msgid "Extra 100 Words"
+msgstr "100 מילים נוספות"
+
+#: 
+msgid "Extra 3 Revisions"
+msgstr "3 תיקונים נוספים"
+
+#: 
+msgid "Proofreading text"
+msgstr "טקסט הגהה"
+
+#: 
+msgid "Combining Two Voice"
+msgstr "שילוב של שני קולות"
+
+#: 
+msgid "Commercial Use"
+msgstr "שימוש מסחרי"
+
+#: 
+msgid "Commercial License"
+msgstr "רישיון פרסומי"
+
+#: 
+msgid "Lyrics Writing"
+msgstr "כתיבת מילים"
+
+#: 
+msgid "Extra 10 Seconds"
+msgstr "10 שניות נוספות"
+
+#: 
+msgid "Extra 10 Minutes"
+msgstr "10 דקות נוספות"
+
+#: 
+msgid "Extra Speaker"
+msgstr "רמקול נוסף"
+
+#: 
+msgid "Extra 1 Revision"
+msgstr "עדכון נוסף 1"
+
+#: 
+msgid "Extra 10 Transactions"
+msgstr "10 עסקאות נוספות"
+
+#: 
+msgid "Learning best practices in accounting and how to avoid tax legally"
+msgstr "לימוד שיטות עבודה מומלצות בחשבונאות וכיצד להימנע ממס באופן חוקי"
+
+#: 
+msgid "1 Month Tax Advice"
+msgstr "ייעוץ מס לחודש אחד"
+
+#: 
+msgid "set up invoicing app"
+msgstr "הגדרת אפליקציית חשבוניות"
+
+#: 
+msgid "Extra 1 Paystub"
+msgstr "תוספת תשלום אחת"
+
+#: 
+msgid "Combining Two Voices"
+msgstr "שילוב 2 קולות"
+
+#: 
+msgid "Extra 50 Words"
+msgstr "תוספת של 50 מילים"
+
+#: 
+msgid "Design professional"
+msgstr "עיצוב מיקצועי"
+
+#: 
+msgid " responsive newsletters"
+msgstr " ניוזלטרים רספונסיביים"
+
+#: 
+msgid " brochure, magazine"
+msgstr " חוברת, מגזין"
+
+#: 
+msgid " flyer"
+msgstr " עלון פרסומת"
+
+#: 
+msgid "Professional voice for your IVR and other information for your customers"
+msgstr "קול מקצועי ל- IVR שלך ומידע אחר ללקוחות שלך"
+
+#: 
+msgid "Mix & Master your unique music on hold"
+msgstr "מערבבים ושולטים במוזיקה הייחודית שלכם בהמתנה"
+
+#: 
+msgid "Professional Business Writing"
+msgstr "כתיבה עסקית מקצועית"
+
+#: 
+msgid "Business income tax return advice"
+msgstr "ייעוץ להחזר מס הכנסה מעסק"
+
+#: 
+msgid "We will provide you the best tablet with minimum time and maximum quality and efficiency"
+msgstr "אנו נספק לך את הטאבלט הטוב ביותר עם מינימום זמן ומקסימום איכות ויעילות"
+
+#: 
+msgid "We will provide you the best smartphone with minimum time and maximum quality and efficiency"
+msgstr "אנו נספק לכם את הסמארטפון הטוב ביותר עם מינימום זמן ומקסימום איכות ויעילות"
+
+#: 
+msgid "We will provide you the best headphones with minimum time and maximum quality and efficiency"
+msgstr "אנו נספק לכם את האוזניות הטובות ביותר במינימום זמן ובמקסימום איכות ויעילות"
+
+#: 
+msgid "Order Review"
+msgstr "סקירת הזמנה"
+
+#: 
+msgid "Order Confirmation"
+msgstr "אישור הזמנה"
+
+#: 
+msgid "Order Summary:"
+msgstr "סיכום הזמנה:"
+
+#: 
+msgid "Design professional, responsive newsletters, brochure, magazine, flyer"
+msgstr "עיצוב מקצועי, ניוזלטרים רספונסיביים, חוברת, מגזין, עלון פרסומת"
+
+#: 
+msgid "Do you confirm the order?"
+msgstr "האם אתה מאשר את ההזמנה?"
+
+#: 
+msgid "Order Details"
+msgstr "פרטי הזמנה"
+
+#: 
+msgid "Order Summary"
+msgstr "סיכום הזמנה"
+
+#: 
+msgid "Sales tax"
+msgstr "מס מכירה"
+
+#: 
+msgid "sales tax is applied to the purchases of goods and servicesin your country,whether physical or digital. %1s tax is calculated according to the type of service and your biling address"
+msgstr "מס מכירה יחול על רכישת סחורות ושירותים במדינה שלך, בין אם פיזית או דיגיטלית. מס %1s מחושב בהתאם לסוג השירות והכתובת שלך"
+
+#: 
+msgid "Basic Package"
+msgstr "חבילה בסיסית"
+
+#: 
+msgid "Extra Package"
+msgstr "חבילה נוספת"
+
+#: 
+msgid "Sum"
+msgstr "סכום"
+
+#: 
+msgid "Vat 17%"
+msgstr "מע\"מ 17%"
+
+#: 
+msgid "Select a language"
+msgstr "בחר שפה"
+
+#: 
+msgid "Select a file"
+msgstr "בחר קובץ"
+
+#: 
+msgid "Select Extra Language"
+msgstr "בחר שפה נוספת"
+
+#: 
+msgid "Select source language"
+msgstr "בחר שפת מקור"
+
+#: 
+msgid "Select target language"
+msgstr "בחר שפת יעד"
+
+#: 
+msgid "Select a file format"
+msgstr "בחר פורמט קובץ"
+
+#: 
+msgid "Select a Content type"
+msgstr "בחר סוג תוכן"
+
+#: 
+msgid "Select Media Type"
+msgstr "בחר סוג מדיה"
+
+#: 
+msgid "Select a Gender"
+msgstr "בחר מין"
+
+#: 
+msgid "Select Voice Gender"
+msgstr "בחר מין קולי"
+
+#: 
+msgid "Select Voice Type"
+msgstr "בחר סוג קול"
+
+#: 
+msgid "Select smartphone status"
+msgstr "בחר סטטוס סמארטפון"
+
+#: 
+msgid "Select tablet status"
+msgstr "בחר סטטוס טאבלט"
+
+#: 
+msgid "Select a Country"
+msgstr "בחר מדינה"
+
+#: 
+msgid "Select Extra Country"
+msgstr "בחר מדינה נוספת"
+
+#: 
+msgid "Select the screen size of the tablet"
+msgstr "בחר את גודל המסך של הטאבלט"
+
+#: 
+msgid "Select the type of wireless headset"
+msgstr "בחר את סוג האוזניות האלחוטיות"
+
+#: 
+msgid "Select the water resistance level"
+msgstr "בחר את רמת העמידות למים"
+
+#: 
+msgid "Text for Narration"
+msgstr "טקסט עבור מלל נלווה"
+
+#: 
+msgid "Package Requirements"
+msgstr "דרישות החבילה"
+
+#: 
+msgid "Active"
+msgstr "פעיל"
+
+#: 
+msgid "Comleted"
+msgstr "הושלם"
+
+#: 
+msgid "Cancelled"
+msgstr "מבוטל"
+
+#: 
+msgid "Error!"
+msgstr "שגיאה!"
+
+#: 
+msgid "Cancel the order"
+msgstr "לבטל את ההזמנה"
+
+#: 
+msgid "Order Started"
+msgstr "ההזמנה התחילה"
+
+#: 
+msgid "Expected delivery"
+msgstr "משלוח צפוי"
+
+#: 
+msgid "There is a delay in ordering"
+msgstr "יש עיכוב בהזמנה"
+
+#: 
+msgid "Contact the seller"
+msgstr "ליצור קשר עם המוכר"
+
+#: 
+msgid "days"
+msgstr "ימים"
+
+#: 
+msgid "minutes"
+msgstr "דקות"
+
+#: 
+msgid "hours"
+msgstr "שעות"
+
+#: 
+msgid "give me your best. we will do the best for you too"
+msgstr "תן לי את המיטב שלך. אנו נעשה את הטוב ביותר עבורך גם"
+
+#: 
+msgid "Resolution Accepted"
+msgstr "החלטה מתקבלת"
+
+#: 
+msgid "Request Modification"
+msgstr "בקשת שינוי"
+
+#: 
+msgid "Let the seller know what you'd like to change. Please notethat if the changes exceed the orginal scope of the order, the seller may request an additional fee."
+msgstr "הודע למוכר מה ברצונך לשנות. אנא שימו לב כי אם השינויים חורגים מהיקף המקורי של ההזמנה, המוכר עשוי לבקש תשלום נוסף."
+
+#: 
+msgid "Type a comment..."
+msgstr "הקלד תגובה ..."
+
+#: 
+msgid " tap button to attach a file."
+msgstr " הקש על כפתור כדי לצרף קובץ."
+
+#: 
+msgid "Submit request"
+msgstr "שלח בקשה"
+
+#: 
+msgid "Here is your delivery"
+msgstr "הנה המשלוח שלך"
+
+#: 
+msgid "Approve"
+msgstr "לאשר"
+
+#: 
+msgid "View all deliveries"
+msgstr "צפה בכל המשלוחים"
+
+#: 
+msgid "Request modification"
+msgstr "בקש שינוי"
+
+#: 
+msgid "Revision Request"
+msgstr "בקשת תיקון"
+
+#: 
+msgid "Select Attachment Option"
+msgstr "בחר באפשרות קובץ מצורף"
+
+#: 
+msgid "Insert Image"
+msgstr "הוסף תמונה"
+
+#: 
+msgid "Choose File"
+msgstr "בחר קובץ"
+
+#: 
+msgid "Thanks for Rating!"
+msgstr "תודה על הדירוג!"
+
+#: 
+msgid "Please rate and include at least 10 characters..."
+msgstr "אנא דרג והכלל לפחות 10 תווים ..."
+
+#: 
+msgid "Share your experience..."
+msgstr "שתף את החוויה שלך ..."
+
+#: 
+msgid "Completed"
+msgstr "הושלם"
+
+#: 
+msgid "request to cancel the order"
+msgstr "בקשה לביטול ההזמנה"
+
+#: 
+msgid "stated the issue is: "
+msgstr "ציינת שהבעיה היא: "
+
+#: 
+msgid "your"
+msgstr "שלך"
+
+#: 
+msgid "The seller can't do this job"
+msgstr "המוכר לא יכול לבצע את העבודה הזו"
+
+#: 
+msgid " approved "
+msgstr " אושר "
+
+#: 
+msgid "accepted this offer"
+msgstr "קיבל הצעה זו"
+
+#: 
+msgid "Order name"
+msgstr "שם ההזמנה"
+
+#: 
+msgid "you"
+msgstr "את/ה"
+
+#: 
+msgid "'s"
+msgstr "/אות"
+
+#: 
+msgid "There is not enough money in your account"
+msgstr "אין מספיק כסף בחשבון שלך"
+
+#: 
+msgid "is missing"
+msgstr "חסר"
+
+#: 
+msgid "Extra quantity"
+msgstr "כמות נוספת"
+
+#: 
+msgid "Your URL"
+msgstr "כתובת האתר שלך"
+
+#: 
+msgid "Log In to your account"
+msgstr "התחבר לחשבונך"
+
+#: 
+msgid "Select a Language"
+msgstr "בחר שפה"
+
+#: 
+msgid "Accurately transcribe audio"
+msgstr "תעתיק אודיו בצורה מדויקת"
+
+#: 
+msgid "Upload file for transcript"
+msgstr "להעלות קובץ לתמלול"
+
+#: 
+msgid "Give Me Information About Your Business"
+msgstr "תן לי מידע על העסק שלך"
+
+#: 
+msgid "Business Data Report"
+msgstr "דוח נתונים עסקיים"
+
+#: 
+msgid "Business Opportunity Description"
+msgstr "תיאור הזדמנות עסקית"
+
+#: 
+msgid "Business Name"
+msgstr "שם עסק"
+
+#: 
+msgid "Specialization"
+msgstr "התמחות"
+
+#: 
+msgid "Volume Sales"
+msgstr "נפח מכירות"
+
+#: 
+msgid "Notice"
+msgstr "הודעה"
+
+#: 
+msgid "Image"
+msgstr "תמונה"
+
+#: 
+msgid "What's the Content"
+msgstr "מה התוכן"
+
+#: 
+msgid "What's the Title"
+msgstr "מה הכותרת"
+
+#: 
+msgid "Images to design"
+msgstr "תמונות לעיצוב"
+
+#: 
+msgid "Give Me a Keyword List About Your Business"
+msgstr "תן לי רשימת מילות מפתח אודות העסק שלך"
+
+#: 
+msgid "The Contents of The Sections in a Pdf File"
+msgstr "תוכן הסעיפים בקובץ PDF"
+
+#: 
+msgid "Your Logo"
+msgstr "הלוגו שלך"
+
+#: 
+msgid "Is Your Site Secure"
+msgstr "האם האתר שלך מאובטח"
+
+#: 
+msgid "Which Audience is The Site Suitable For?"
+msgstr "לאיזה קהל מתאים האתר?"
+
+#: 
+msgid "Select Music Type"
+msgstr "בחר סוג מוסיקה"
+
+#: 
+msgid "What is the Subject and Content of The Jingel"
+msgstr "מה הנושא והתוכן של הג'ינגל"
+
+#: 
+msgid "Music File"
+msgstr "קובץ מוזיקה"
+
+#: 
+msgid "Select a country"
+msgstr "בחר ארץ"
+
+#: 
+msgid "Message Content"
+msgstr "תוכן ההודעה"
+
+#: 
+msgid "Tell me what you're looking for"
+msgstr "ספר לי מה אתה מחפש"
+
+#: 
+msgid "Tell me what you want your logo to look like"
+msgstr "ספר לי איך אתה רוצה שהלוגו שלך ייראה"
+
+#: 
+msgid "Additional Section Content"
+msgstr "תוכן מדור נוסף"
+
+#: 
+msgid "Zandesk keys for the chat"
+msgstr "מפתחות Zandesk לצ'אט"
+
+#: 
+msgid "Domain name (if not available I will update you)"
+msgstr "שם דומיין (אם לא זמין אעדכן אותך)"
+
+#: 
+msgid "Video/ Promotional Video"
+msgstr "סרטון וידאו/ תדמית"
+
+#: 
+msgid "Select extra target language"
+msgstr "בחר שפת יעד נוספת"
+
+#: 
+msgid "Which smartphone do you want?"
+msgstr "איזה סמארטפון אתה רוצה?"
+
+#: 
+msgid "Your Social Media Links"
+msgstr "קישורי המדיה החברתית שלך"
+
+#: 
+msgid "Tell me what kind of content you want"
+msgstr "ספר לי איזה סוג תוכן אתה רוצה"
+
+#: 
+msgid "Choose a color"
+msgstr "בחר צבע"
+
+#: 
+msgid "Tell me which Design Style you want"
+msgstr "ספר לי איזה סגנון עיצוב אתה רוצה"
+
+#: 
+msgid "Tell me what the company does"
+msgstr "ספר לי מה החברה עושה"
+
+#: 
+msgid "Tell Me Where Your Site is Stored"
+msgstr "ספר לי היכן האתר שלך מאוחסן"
+
+#: 
+#, fuzzy
+msgid "Tell Me Which Design Style You Want"
+msgstr "ספר לי איזה סגנון עיצוב שאתה רוצה"
+
+#: 
+msgid "Yes"
+msgstr "כן"
+
+#: 
+msgid "Select a field"
+msgstr "בחר שדה"
+
+#: 
+msgid "Communication"
+msgstr "תקשורת"
+
+#: 
+msgid "Home Styling"
+msgstr "הום ​​סטיילינג"
+
+#: 
+msgid "Male"
+msgstr "זכר"
+
+#: 
+msgid "Female"
+msgstr "נקבה"
+
+#: 
+msgid "Both"
+msgstr "שניהם"
+
+#: 
+msgid "Your Social Media"
+msgstr "המדיה החברתית שלך"
+
+#: 
+msgid "Technical Information (address, contact us and more ...)"
+msgstr "מידע טכני (כתובת, צור איתנו קשר ועוד ...)"
+
+#: 
+msgid "What's your Company Name"
+msgstr "מה שם החברה שלך"
+
+#: 
+msgid "Deep"
+msgstr "עמוק"
+
+#: 
+msgid "High"
+msgstr "גבוה"
+
+#: 
+msgid "Low"
+msgstr "נמוך"
+
+#: 
+msgid "Hoarse"
+msgstr "צרוד"
+
+#: 
+msgid "Skinny"
+msgstr "רזה"
+
+#: 
+msgid "Childish"
+msgstr "ילדותי"
+
+#: 
+msgid "Quiet"
+msgstr "שקט"
+
+#: 
+msgid "Dramatic"
+msgstr "דרמטי"
+
+#: 
+msgid "Loud"
+msgstr "בקול רם"
+
+#: 
+msgid "Happy"
+msgstr "שמח"
+
+#: 
+msgid "Calm"
+msgstr "רגוע"
+
+#: 
+msgid "What is the Field of the Business"
+msgstr "מהו תחום העסק"
+
+#: 
+msgid "Vision"
+msgstr "צפי"
+
+#: 
+msgid "Description of staff, entrepreneurs and managers"
+msgstr "תיאור צוות, יזמים ומנהלים"
+
+#: 
+msgid "Manage Orders"
+msgstr "נהל הזמנות"
+
+#: 
+#, fuzzy
+msgid "Order "
+msgstr "הזמנה "
+
+#: 
+msgid "Private"
+msgstr "פרטי"
+
+#: 
+msgid "Video"
+msgstr "סרטון"
+
+#: 
+msgid "Write a note..."
+msgstr "כתיבת הערה..."
+
+#: 
+msgid "Phone number is not valid"
+msgstr "המספר שהזנת אינו חוקי"
+
+#: 
+msgid "Social Media Links"
+msgstr "קישורים לרשתות חברתיות"
+
+#: 
+msgid "Landing page Subject"
+msgstr "נושא דף נחיתה"
+
+#: 
+msgid "Image for Design"
+msgstr "תמונה לעיצוב"
+
+#: 
+msgid "Landing page Content"
+msgstr "תוכן דף נחיתה"
+
+#: 
+msgid "All fields are required"
+msgstr "כל השדות דרושים"
+
+#: 
+msgid "You can update your order requirements at any time"
+msgstr "תוכל לשוב ולעדכן את דרישות ההזמנה שלך בכל זמן"
+
+#: 
+msgid "Update Now"
+msgstr "עדכן עכשיו"
+
+#: 
+msgid "Later"
+msgstr "מאוחר יותר"
+
+#: 
+msgid "Wanna go out?"
+msgstr "רוצה לצאת?"
+
+#: 
+msgid "SMS / Mail"
+msgstr "SMS / מייל"
+
+#: 
+msgid "Report"
+msgstr "דוחות"
+
+#: 
+msgid "My Profile"
+msgstr "הפרופיל שלי"
+
+#: 
+msgid "You are missing"
+msgstr "חסר לך"
+
+#: 
+msgid "My Wallet"
+msgstr "הארנק שלי"
+
+#: 
+msgid "Orders"
+msgstr "הזמנות"
+
+#: 
+msgid "Hello,"
+msgstr "שלום,"
+
+#: 
+msgid "Mixing"
+msgstr "ערבוב"
+
+#: 
+msgid "Hide results"
+msgstr "הסתר תוצאות"
+
+#: 
+msgid "sum"
+msgstr "סכום"
+
+#: 
+msgid "Total:"
+msgstr "סה\"כ:"
+
+#: 
+msgid "Awaiting approval"
+msgstr "מחכה לאישור"
+
+#: 
+msgid "Your cancellation request was received"
+msgstr "בקשת הביטול שלך התקבלה"
+
+#: 
+msgid "You approved the request to cancel the orderResolution Accepted"
+msgstr "אישרת את הבקשה לביטול ההזמנה"
+
+#: 
+msgid "You stated the issue is: "
+msgstr "ציינת שהנושא הוא: "
+
+#: 
+msgid "Order cancelled by customer support"
+msgstr "ההזמנה בוטלה על ידי תמיכת לקוחות"
+
+#: 
+msgid "Order was cancelled by Phone.do Customer Support. Payment for this order was refunded to your Phone.do balance."
+msgstr "ההזמנה בוטלה על ידי תמיכת לקוחות Phone.do. התשלום עבור הזמנה זו הוחזר ליתרת הטלפון שלך."
+
+#: 
+msgid "What should i do to run this blog?"
+msgstr "מה עלי לעשות כדי להפעיל את הבלוג הזה?"
+
+#: 
+msgid "You don't have to do anything. This blog will run automatically and generate post from ebay and automatically posted your website. You can run ads on your website to get commission fast."
+msgstr "אתה לא צריך לעשות כלום. בלוג זה יופעל אוטומטית ויייצר פוסט מ- ebay ויפרסם את האתר שלך באופן אוטומטי. תוכל להפעיל מודעות באתר שלך כדי לקבל עמלה מהירה."
+
+#: 
+msgid "2 Paystub"
+msgstr "2 תלושי משכורת"
+
+#: 
+msgid "Can i earn for a long term with this method?"
+msgstr "האם אוכל להרוויח לטווח ארוך בשיטה זו?"
+
+#: 
+msgid "Yes. This is actually a long term money making machine."
+msgstr "כן. זו למעשה שיטה להרוויח כסף לטווח ארוך."
+
+#: 
+msgid "What if I have any questions?"
+msgstr "מה אם יש לי שאלות?"
+
+#: 
+msgid "You are free to ask as many questions before or after a job has been completed. I'm more than happy to assist"
+msgstr "אתה רשאי לשאול כמה שאלות לפני או אחרי שהעבודה הושלמה. אני יותר משמח לעזור"
+
+#: 
+msgid "What's the likelihood of this improving my SEO?"
+msgstr "מה הסיכוי שזה ישפר את SEO שלי?"
+
+#: 
+msgid "SEO revolves around 50% on page and 50% off page. If you're not taking care of your off page SEO, you are potentially losing half of your SEO power. With these services, it is a 100% guarantee that your search traffic will increase."
+msgstr "SEO מסתובב סביב 50% בדף ו -50% הנחה על הדף. אם אינך מטפל בקידום אתרים מחוץ לדף שלך, אתה עלול לאבד מחצית מכוח ה- SEO שלך. עם שירותים אלה, זו אחריות של 100% שתעבורת החיפוש שלך תגדל."
+
+#: 
+msgid "Do you provide a report once a job has been completed?"
+msgstr "האם אתה מספק דו\"ח לאחר סיום העבודה?"
+
+#: 
+msgid "Yes, a full in-depth report is provided. Not only that, I will be there to answer any questions you might have following completion of your job."
+msgstr "כן, ניתן דוח מעמיק מלא. לא רק זה, אני אהיה שם כדי לענות על כל שאלה שיש לך לאחר סיום עבודתך."
+
+#: 
+msgid "Do you outsource any of your work?"
+msgstr "האם אתה מוציא את העבודה שלך למיקור חוץ?"
+
+#: 
+msgid "No, I don't. All information provided will remain strictly confidential, thus, I will never disclose any information related to my customers."
+msgstr "לא, אני לא. כל המידע שנמסר יישאר חסוי לחלוטין, ולכן לעולם לא אחשוף מידע הקשור ללקוחותיי."
+
+#: 
+msgid "Can you count the number of words in my document?"
+msgstr "האם תוכל לספור את מספר המילים במסמך שלי?"
+
+#: 
+msgid "Yes, I can accurately count words in documents, pdf files, and websites, using specialized software. If you are not sure of the number of words in your file, you can contact me and I'll gladly count them for you."
+msgstr "כן, אני יכול לספור מילים במדויק במסמכים, קבצי pdf ואתרי אינטרנט בעזרת תוכנות מיוחדות. אם אינך בטוח במספר המילים בקובץ שלך, תוכל ליצור עמי קשר ואני אספור לך אותן בשמחה."
+
+#: 
+msgid "What format can you work on?"
+msgstr "על איזה פורמט אתה יכול לעבוד?"
+
+#: 
+msgid "I can translate, Microsoft Word documents (97-2016), Excel files (97-2016), PowerPoint files (97-2016), Open Office Files (.odt), Notepad files (.rtf files). I CANNOT translate images."
+msgstr "אני יכול לתרגם, מסמכי Microsoft Word (97-2016), קבצי Excel (97-2016), קבצי PowerPoint (97-2016), Open Office Files (.odt), קבצי Notepad (קבצי artf). אני לא יכול לתרגם תמונות."
+
+#: 
+msgid "100 words"
+msgstr "100 מילים"
+
+#: 
+msgid "You approved the request to cancel the order"
+msgstr "אישרת את הבקשה לביטול ההזמנה"
+
+#: 
+msgid "60 seconds"
+msgstr "60 שניות"
+
+#: 
+msgid "Investors leads of whice country?"
+msgstr "מאיזו מדינה המשקיעים מובילים?"
+
+#: 
+msgid "Please enter your first name"
+msgstr "בבקשה הכנס שם פרטי"
+
+#: 
+msgid "Please enter your last name"
+msgstr "בבקשה הכנס שם משפחה"
+
+#: 
+msgid "Please enter your email"
+msgstr ""
+
+#: 
+msgid "Please enter password"
+msgstr "בבקשה הכנס סיסמה"
+
+#: 
+msgid "What type of agent will \\nyou be?"
+msgstr "איזה סוג סוכן תהיה?"
+
+#: 
+msgid "Full-time position"
+msgstr "משרה מלאה"
+
+#: 
+msgid "Full-time positions help businesses contact you during business hours and days regularly. A part-time position will give businesses the option to assist you and you can still keep your full-time day job."
+msgstr ""
+
+#: 
+msgid "Businesses will contact you during business hours and days regularly."
+msgstr "עסקים יפנו אליך במהלך שעות וימי העבודה."
+
+#: 
+msgid "Part-time position"
+msgstr "משרה חלקית"
+
+#: 
+msgid "businesses will assist you and you can still keep your full-time day job."
+msgstr ""
+
+#: 
+msgid "Agent Type"
+msgstr "סוג המוקדן"
+
+#: 
+msgid "Take a Selfie"
+msgstr "צלם סלפי"
+
+#: 
+msgid "Date of birth"
+msgstr "תאריך לידה"
+
+#: 
+msgid "Date of birth is required"
+msgstr "נדרש תאריך לידה"
+
+#: 
+msgid "My gender"
+msgstr "מין"
+
+#: 
+msgid "Gender is required"
+msgstr "נדרש מין"
+
+#: 
+msgid "Personal information"
+msgstr "מידע אישי"
+
+#: 
+msgid "    Gallery"
+msgstr "גלריה"
+
+#: 
+msgid "    Camera"
+msgstr "מצלמה"
+
+#: 
+msgid "Add location"
+msgstr "הוספת מיקום"
+
+#: 
+msgid "Street name & number"
+msgstr "רחוב ומספר בית"
+
+#: 
+msgid "Postal code"
+msgstr "מיקוד"
+
+#: 
+msgid "Type description..."
+msgstr "הקלד/י תיאור..."
+
+#: 
+msgid "A short description"
+msgstr "תיאור קצר"
+
+#: 
+msgid "Please add a short description on you, so that business can get to know you better."
+msgstr "הוסף/י תיאור קצר עליך, כדי שהעסק יוכל להכיר אותך טוב יותר"
+
+#: 
+msgid "description"
+msgstr "תיאור"
+
+#: 
+msgid "Accent"
+msgstr "מבטא"
+
+#: 
+msgid "Education profile"
+msgstr "פרופיל השכלה"
+
+#: 
+msgid "Hobbies"
+msgstr "תחביבים"
+
+#: 
+msgid "Work Experience"
+msgstr "נסיון תעסוקתי"
+
+#: 
+msgid "Reading, writing and speaking"
+msgstr "קריאה, כתיבה ודיבור"
+
+#: 
+msgid "\\n Reading, writing and speaking"
+msgstr "קריאה, כתיבה ודיבור"
+
+#: 
+msgid "Your WhatsApp link"
+msgstr "קישור לעמוד הוואצאפ שלך"
+
+#: 
+msgid "Your YouTube link"
+msgstr "קישור לעמוד היוטיוב שלך"
+
+#: 
+msgid "Your Facebook link"
+msgstr "קישור לעמוד הפייסבוק שלך"
+
+#: 
+msgid "Your Instagram link"
+msgstr "קישור לעמוד האינסטגרם שלך"
+
+#: 
+msgid "Your Twitter link"
+msgstr "קישור לעמוד הטוויטר שלך"
+
+#: 
+msgid "Your LinkedIn link"
+msgstr "קישור לעמוד הלינקדאין שלך"
+
+#: 
+msgid "Please upload a profile image"
+msgstr "העלאת תמונת פרופיל"
+
+#: 
+msgid "Professional info"
+msgstr "מידע מקצועי"
+
+#: 
+msgid "Add education degree"
+msgstr "הוספת תואר"
+
+#: 
+msgid "If you do not find what you are looking for in this list, then feel free to add by free text"
+msgstr "אם אין את מה שאתה מחפש ברשימה, תרגיש חופשי להוסיף טקסט כרצונך"
+
+#: 
+msgid "Add free text"
+msgstr "הוספת טקסט חופשי"
+
+#: 
+msgid "Add education title"
+msgstr "הוספת תואר"
+
+#: 
+msgid "Add profession"
+msgstr "הוספת מקצוע"
+
+#: 
+msgid "Add hobbies"
+msgstr "הוספת תחביבים"
+
+#: 
+msgid "Add work experience"
+msgstr "הוספת נסיון תעסוקתי"
+
+#: 
+msgid "WE ARE NOT JUST TALKING"
+msgstr "אנחנו לא רק מדברים"
+
+#: 
+msgid "Is Talking Your Best Talent? \\nMake Money From It"
+msgstr "האם לדבר הוא הכישרון הכי טוב שלך?\n"
+"תרוויח/י מזה כסף"
+
+#: 
+msgid "By signing up, you confirm that you’ve read and accepted our"
+msgstr "על ידי הרשמה, אתה מאשר שקראת וקיבלת את"
+
+#: 
+msgid "Terms & Condition"
+msgstr "התנאים והגבלות"
+
+#: 
+msgid "Become an agent"
+msgstr "הפוך לסוכן"
+
+#: 
+msgid "Earn extra income and unlock new opportunities by helping other business"
+msgstr "הרויחו הכנסה נוספת ופתחו הזדמנויות חדשות על ידי עזרה לעסקים אחרים"
+
+#: 
+msgctxt "בואו נתחיל"
+msgid "Let’s go"
+msgstr ""
+
+#: 
+msgctxt "בחר/י קידומת מדינה"
+msgid "Select country code"
+msgstr ""
+
+#: 
+msgctxt "קידומת מדינה"
+msgid "Country code"
+msgstr ""
+
+#: 
+msgid "We will send you an SMS to verifyed\\nyour phone number"
+msgstr "אנו נשלח לך הודעת SMS לאימות מספר הטלפון שלך"
+
+#: 
+msgctxt "חפש/י קוד מדינה..."
+msgid "Search country code..."
+msgstr ""
+
+#: 
+msgctxt "נדרש שם פרטי"
+msgid "first name is required"
+msgstr ""
+
+#: 
+msgctxt "נדרש שם משפחה"
+msgid "Last Name is required"
+msgstr ""
+
+#: 
+msgctxt "נדרש כתובת מייל"
+msgid "Email is required"
+msgstr ""
+
+#: 
+msgctxt "בחר/י ארץ לידה"
+msgid "Choose country of birth"
+msgstr "בחר/י ארץ לידה"
+
+#: 
+msgctxt "עריכת שפה ומבטא"
+msgid "Edit language & accent"
+msgstr ""
+
+#: 
+msgid "You can select up to 3 languages, All languages you choose should be at the level of writing, reading and speaking."
+msgstr "ניתן לבחור עד 3 שפות, כל השפות שיבחרו צריכות להיות ברמה של כתיבה, קריאה ודיבור."
+
+#: 
+msgid "Edit Personal profile"
+msgstr "עריכת פרופיל אישי"
+
+#: 
+msgid "Country of Birth"
+msgstr "ארץ לידה"
+
+#: 
+msgid "Description"
+msgstr "תיאור"
+
+#: 
+msgid "Language & Accent"
+msgstr "שפה ומבטא"
+
+#: 
+msgid "Additional language"
+msgstr "שפה נוספת"
+
+#: 
+msgid "Preferred workplace"
+msgstr "מקום עבודה מועדף"
+
+#: 
+msgid "Country of Birth is required"
+msgstr "נדרש ארץ לידה"
+
+#: 
+msgid "Choose accent"
+msgstr "בחירת מבטא"
+
+#: 
+msgid "Choose language"
+msgstr "בחירת שפה"
+
+#: 
+msgid "Choose language & accent"
+msgstr "בחירת שפה ומבטא"
+
+#: 
+msgid "All languages you choose should be at the level of writing, reading and speaking."
+msgstr "כל השפות שיבחרו צריכות להיות ברמה של כתיבה, קריאה ודיבור."
+
+#: 
+msgid "Add additional language"
+msgstr "הוסף שפה נוספת"
+
+#: 
+msgid "Additional accent"
+msgstr "מבטא נוסף"
+
+#: 
+msgid "url"
+msgstr "קישור"
+
+#: 
+msgid "Choose social media"
+msgstr "בחירת מדיה חברתית"
+
+#: 
+msgid "If you are not a member of any social network, you can skip this step and move on."
+msgstr "אם אינך חבר/ה באף רשת חברתית, תוכל/י לדלג על שלב זה ולהמשיך הלאה"
+
+#: 
+msgid "You can select up to 3 education degrees"
+msgstr "ניתן לבחור עד 3 תארים"
+
+#: 
+msgid "You can select up to 3 professions\n"
+""
+msgstr "ניתן לבחור עד 3 מקצועות"
+
+#: 
+msgid "You can select up to 3 experinces."
+msgstr "ניתן לבחור עד 3 מקומות עבודה."
+
+#: 
+msgid "You can select up to 3 hobbies."
+msgstr "ניתן לבחור עד 3 תחביבים."
+
+#: 
+msgid "None"
+msgstr "ללא"
+
+#: 
+msgid "Bachelor’s degree"
+msgstr "תואר ראשון"
+
+#: 
+msgid "Master’s degree"
+msgstr "תואר שני"
+
+#: 
+msgid "Add Preferred workplace"
+msgstr "הוספת מקום עבודה מועדף"
+
+#: 
+msgid "At home"
+msgstr "בבית"
+
+#: 
+msgid "At my Office"
+msgstr "במשרד שלי"
+
+#: 
+msgid "Shared \\nspaces"
+msgstr "במרחב משותף"
+
+#: 
+msgid "Outside"
+msgstr "בחוץ"
+
+#: 
+msgid "Congratulations!!!"
+msgstr "מזל טוב!!!"
+
+#: 
+msgid "Thanks for getting onboard!"
+msgstr "תודה על ההצטרפות!"
+
+#: 
+msgid "Let’s go!"
+msgstr "בואו נמשיך!"
+
+#: 
+msgid "No extra"
+msgstr "ללא תוספת"
+
+#: 
+msgid "Rating (10%)"
+msgstr "דירוג (10%)"
+
+#: 
+msgid "experience (20%)"
+msgstr "ניסיון (20%)"
+
+#: 
+msgid "07:00am - 05:00pm"
+msgstr "07:00 בבוקר - 05:00 אחר הצהריים"
+
+#: 
+msgid "05:00pm - 12:00am"
+msgstr "05:00 אחר הצהריים - 12:00 בלילה"
+
+#: 
+msgid "12:00am - 07:00am"
+msgstr "12:00 בלילה עד 07:00 בבוקר"
+
+#: 
+msgid "Weekend"
+msgstr "סוף שבוע"
+
+#: 
+msgid "Holidays"
+msgstr "חגים"
+
+#: 
+msgid "Providing information"
+msgstr "מתן מידע"
+
+#: 
+msgid "Take messages"
+msgstr "לקיחת הודעות"
+
+#: 
+msgid "Call transfer"
+msgstr "העברת שיחות"
+
+#: 
+msgid "Reminders"
+msgstr "תזכורות"
+
+#: 
+msgid "Collection"
+msgstr "גביה"
+
+#: 
+msgid "Surveys"
+msgstr "סקרים"
+
+#: 
+msgid "Donations"
+msgstr "תרומות"
+
+#: 
+msgid "Technical support"
+msgstr "תמיכה טכנית"
+
+#: 
+msgid "Types of calls"
+msgstr "סוגי שיחות"
+
+#: 
+msgid " Fit"
+msgstr " מתאים"
+
+#: 
+msgid " Approved"
+msgstr " מאושר"
+
+#: 
+msgid "My working profile"
+msgstr "פרופיל העבודה שלי"
+
+#: 
+msgid "My rating"
+msgstr "הדירוג שלי"
+
+#: 
+msgid "Why is this my rating?"
+msgstr "למה זה הדירוג שלי?"
+
+#: 
+#, fuzzy
+msgid "At the moment you are still new and this is the initial rating. In order to improve the rating we encourage you watch the tutorial videos."
+msgstr "כרגע את/ה סוכן עדיין חדש וזה הדירוג הראשוני. על מנת לשפר את הדירוג אנו ממליצים לך לצפות בסרטוני ההדרכה."
+
+#: 
+msgid "Do you want to improve your rating quickly?"
+msgstr "האם את/ה רוצה לשפר את הדירוג שלך במהירות?"
+
+#: 
+msgid "My availability"
+msgstr "הזמינות שלי"
+
+#: 
+msgid "Why this is my availability?"
+msgstr "למה זו הזמינות שלי?"
+
+#: 
+msgid "At the moment you are still new and this is the initial availability. In order to improve the availability we encourage you watch the tutorial videos."
+msgstr "כרגע אתה עדיין חדש וזו הזמינות הראשונית. על מנת לשפר את הזמינות אנו ממליצים לצפות בסרטוני ההדרכה."
+
+#: 
+msgid "My base salary"
+msgstr "משכורת הבסיס שלי"
+
+#: 
+msgid "Why is this my salary?"
+msgstr "למה זה המשכורת שלי?"
+
+#: 
+msgid "At the moment you are still new and this is the starting salary. In order to improve your salary you need to gain experience and a good rating \\nFor this we recommend you to purchase guides"
+msgstr "כרגע אתה עדיין חדש וזו השכר ההתחלתי. על מנת לשפר את השכר שלך אתה צריך לצבור ניסיון ודירוג טוב\n"
+"בשביל זה אנו ממליצים לך לרכוש מדריכים"
+
+#: 
+msgid "items to submit"
+msgstr "שלבים לסיום"
+
+#: 
+msgid "The file is received in the system!"
+msgstr "!הקובץ התקבל במערכת"
+
+#: 
+msgid "Thanks for sharing!"
+msgstr "!תודה על השיתוף"
+
+#: 
+msgid " You uploaded a heavy file,"
+msgstr " ,העלית קובץ כבד"
+
+#: 
+msgid " Sorry for the delay!"
+msgstr " !סליחה על העיכוב"
+
+#: 
+#, fuzzy
+msgid "Please wait for Loading..."
+msgstr "...אנא המתן לטעינה"
+
+#: 
+msgid "Video length limit:"
+msgstr "מגבלת אורך הסרטון:"
+
+#: 
+msgid " seconds!"
+msgstr " !שניות"
+
+#: 
+msgid "Let’s talk about become an Agent"
+msgstr ""
+
+#: 
+msgid "Let’s go"
+msgstr ""
+
+#: 
+msgid "So, What is Phone.Do for Agents ?"
+msgstr ""
+
+#: 
+msgid "Phonedo is a service that connectsbusinesses and agents for the greater good.Think of a call center app that works forbusinesses and call agents and you’re on theright track. Read more below"
+msgstr ""
+
+#: 
+msgid "We’re on the lookout for people who want to earn cash. If you want to explore an opportunity to make money without committing or leaving your current role then we’ve got just the opportunity for you."
+msgstr ""
+
+#: 
+msgid "Who Are We?"
+msgstr ""
+
+#: 
+msgid "Phone.do Agent testimonial"
+msgstr ""
+
+#: 
+msgid "Phone.do Agent explanation"
+msgstr ""
+
+#: 
+msgid "Welcome to Phone.do, World’s most advanced an innovative human answering service system that commects businesses around the world."
+msgstr ""
+
+#: 
+msgid "Why use Phone.Do\n"
+""
+msgstr ""
+
+#: 
+msgid "We’re here to help you develop a business on the back of your passion and talent. PhoneDo have a large number of tools that enable you to grow a busines with us and make more money. Don’t work for the man. Those days are from the past. Develop a business on the back of talking to people. What’s there not to love?"
+msgstr ""
+
+#: 
+msgid "Creating Your Profiles"
+msgstr ""
+
+#: 
+msgid "Once your part of the PhoneDo family, you can set up profiles according to the type of activity you are looking for. The more profiles you have, the greater your chance of earning. Don’t worry, you can always add more profiles, edit or delete a profile or even pause your account for a short while – whatever suits you. You are totally in control!"
+msgstr ""
+
+#: 
+msgid "The next step is to activate the profile or profiles that you are ready to use. You set up how long you’re available for – whether that’s a regular schedule, a set timeframe or you’re ready to start right away. Again, the power is in your hands."
+msgstr ""
+
+#: 
+msgid "Download the App"
+msgstr ""
+
+#: 
+msgid "How & When do I get Paid?"
+msgstr ""
+
+#: 
+msgid "What is PhoneDo’s cut?"
+msgstr ""
+
+#: 
+msgid "Create better experiences with Phone.do Mobile app"
+msgstr ""
+
+#: 
+msgid "Verify your phone"
+msgstr ""
+
+#: 
+msgid "We will send you an SMS to verifyed your phone number"
+msgstr ""
+
+#: 
+msgid "Select country code"
+msgstr ""
+
+#: 
+msgid "Check your sms inbox, we have sent you the code at 050123456789"
+msgstr ""
+
+#: 
+msgid "Did not get any code?  Send again"
+msgstr ""
+
+#: 
+msgid "Your code is incorrect!"
+msgstr ""
+
+#: 
+msgid "Gteat! This is the right code"
+msgstr ""
+
+#: 
+msgid "Exit"
+msgstr ""
+
+#: 
+msgid "Stop"
+msgstr ""
+
+#: 
+msgid "Talk To Me"
+msgstr ""
+
+#: 
+msgid "Click to start recod"
+msgstr ""
+
+#: 
+msgid "By signing up, you confirm that you’ve readand accepted our User Notice and Privacy Policy."
+msgstr ""
+
+#: 
+msgid "Click to open the chat"
+msgstr ""
+
+#: 
+msgid "Become an Agent in a few easy steps"
+msgstr ""
+
+#: 
+msgid "Just one Click to talk with me"
+msgstr ""
+
+#: 
+msgid "Join us. We'll help you every step of the way."
+msgstr ""
+
+#: 
+msgid "What type of agent will you be?"
+msgstr ""
+
+#: 
+msgid "Fill free to asked me anything in case you did not understand me or if you have any question during the interview"
+msgstr ""
+
+#: 
+msgid "Full-time positions help businesses contact you during business hours and days regularly.A part-time position will give businesses the option to assist you and you can still keep your full-time day job."
+msgstr ""
+
+#: 
+msgid "Welcome to the Phone.do Interview. My name is Jenny and I will ask you questions during all interview."
+msgstr ""
+
+#: 
+msgid "Agent type"
+msgstr ""
+
+#: 
+msgid "At Home"
+msgstr ""
+
+#: 
+msgid "At my office"
+msgstr ""
+
+#: 
+msgid "Professional information"
+msgstr ""
+
+#: 
+msgid "Shared spaces"
+msgstr ""
+
+#: 
+msgid "About you"
+msgstr ""
+
+#: 
+msgid "Choose workplace"
+msgstr ""
+
+#: 
+msgid "Hobby 3"
+msgstr ""
+
+#: 
+msgid "Hobby 1"
+msgstr ""
+
+#: 
+msgid "Hobby 2"
+msgstr ""
+
+#: 
+msgid "Hobby 4"
+msgstr ""
+
+#: 
+msgid "Hobby 5"
+msgstr ""
+
+#: 
+msgid "Hobby 6"
+msgstr ""
+
+#: 
+msgid "Hobby 7"
+msgstr ""
+
+#: 
+msgid "Add free text..."
+msgstr ""
+
+#: 
+msgid "Education title"
+msgstr ""
+
+#: 
+msgid "You can select up to 3 experiences."
+msgstr ""
+
+#: 
+msgid "Work experience 1"
+msgstr ""
+
+#: 
+msgid "Work experience 2"
+msgstr ""
+
+#: 
+msgid "Work experience 3"
+msgstr ""
+
+#: 
+msgid "Work experience 4"
+msgstr ""
+
+#: 
+msgid "You can select up to 3 professions"
+msgstr ""
+
+#: 
+msgid "Software engineer"
+msgstr ""
+
+#: 
+msgid "Teacher"
+msgstr ""
+
+#: 
+msgid "You can select up to 3 education title"
+msgstr ""
+
+#: 
+msgid "Medicine"
+msgstr ""
+
+#: 
+msgid "Teaching"
+msgstr ""
+
+#: 
+msgid "Cooking"
+msgstr ""
+
+#: 
+msgid "Computer science"
+msgstr ""
+
+#: 
+msgid "Dr"
+msgstr ""
+
+#: 
+msgid "You can select up to 3 networks, If you are not a member of any social network, you can skip this step and move on."
+msgstr ""
+
+#: 
+msgid "You can select up to 3 languages,All languages you choose should be at the level of writing, reading and speaking."
+msgstr ""
+
+#: 
+msgid "language"
+msgstr ""
+
+#: 
+msgid "English (USA)"
+msgstr ""
+
+#: 
+msgid "Add a short description"
+msgstr ""
+
+#: 
+msgid "Personal info"
+msgstr ""
+
+#: 
+msgid "This isn’t a typical job role. There are no bosses asking you to stay late or come in early. You can earn a promotion through the site based on the good work you carry out for your clients. The higher your rating, the more you earn for each job. Just like any online community, your good standing means you are more in demand."
+msgstr ""
+
+#: 
+msgid "Let’s read about\n"
+"Terms & Condition"
+msgstr ""
+
+#: 
+msgid "Terms & Condition - PhoneDo"
+msgstr ""
+
+#: 
+msgid "Terms of Service"
+msgstr ""
+
+#: 
+msgid "Last Updated on"
+msgstr ""
+
+#: 
+msgid "Last Updated on May 1, 2020"
+msgstr ""
+
+#: 
+msgid "Definitions"
+msgstr ""
+
+#: 
+msgid "Eligibility"
+msgstr ""
+
+#: 
+msgid "User Accounts"
+msgstr ""
+
+#: 
+msgid "User content"
+msgstr ""
+
+#: 
+msgid "Original Content"
+msgstr ""
+
+#: 
+msgid "Ownership of Content"
+msgstr ""
+
+#: 
+msgid "Right to Remove"
+msgstr ""
+
+#: 
+msgid "Unauthorized usage of the App"
+msgstr ""
+
+#: 
+msgid "Business accounts"
+msgstr ""
+
+#: 
+msgid "Payment for the Services"
+msgstr ""
+
+#: 
+msgid "Release of Payments and Charges"
+msgstr ""
+
+#: 
+msgid "Refunds"
+msgstr ""
+
+#: 
+msgid "Freelancer accounts"
+msgstr ""
+
+#: 
+msgid "Freelancer’s Compensation"
+msgstr ""
+
+#: 
+msgid "App as an intermediary"
+msgstr ""
+
+#: 
+msgid "Calls Held on the App"
+msgstr ""
+
+#: 
+msgid "Disputes between users"
+msgstr ""
+
+#: 
+msgid "Service availability"
+msgstr ""
+
+#: 
+msgid "Links to third party websites or apps"
+msgstr ""
+
+#: 
+msgid "Copyrights & Intellectual property"
+msgstr ""
+
+#: 
+msgid "Legal disclaimers"
+msgstr ""
+
+#: 
+msgid "Technical issues"
+msgstr ""
+
+#: 
+msgid "Limited liability"
+msgstr ""
+
+#: 
+msgid "Termination"
+msgstr ""
+
+#: 
+msgid "Entire agreement"
+msgstr ""
+
+#: 
+msgid "Severability"
+msgstr ""
+
+#: 
+msgid "Waivers"
+msgstr ""
+
+#: 
+msgid "Choice of law and venue"
+msgstr ""
+
+#: 
+msgid "Notices"
+msgstr ""
+
+#: 
+msgid "Updates"
+msgstr ""
+
+#: 
+msgid "Employer employee relationnship"
+msgstr ""
+
+#: 
+msgid "Taxes"
+msgstr ""
+
+#: 
+msgid "Disclaimer:\n"
+"1. This document, and all Phonedo content, all sites, apps, platforms, and more. Address all genders equally, although there may be formulas that are in male, or female, or any other formulation.\n"
+"\n"
+"2. There may be different duplicates or wording in the same contexts, or similar contexts, or in different contexts. This document, and / or other documents. But they do not detract from Phonedo rights but to add rights according to the most extended interpretation in its favor.\n"
+"\n"
+"Last Updated on May 1, 2020\n"
+"“Any visitor and / or user and / or business and / or telephone and / or service provider and / or / Partner / or/ affiliate /or q Investor. who accesses the Website and / or downloads an application and / or is directly and / or indirectly assisted by the Website and / or Application and / Or any platform and / or service or multiple services, hereby declare that it voluntarily agrees – and without being subjected to or exercised by it, any emotional or physical manipulation – to any of the terms of use set forth in this document, and that the continued browsing and / or use of the site and / Or in any application and / or any other platform, it shall be deemed to sign an agreement to all terms of use and privacy policy and to all stated in this document”\n"
+"R. Phonedo Call Centers Ltd. (the “Company”) is a private limited company based in the city of Jerusalem, in Israel.\n"
+"The Company owns and manages a web application, mobile application or application on other platforms and devices entitled Phonedo, Phone.do, Fone.do, and more. (collectively referred to as the “App”). The App is proprietary and exclusively owned by the Company.\n"
+"The App provides an array of services available to its users, including but not limited to connecting businesses with freelancers. Business may use the App to obtain assistance, translations and support during phone calls. Through and using the App, freelancers may provide services to the businesses, including but not limited to answering calls, offering support and preparing translations.\n"
+"The present Terms and Conditions will govern the terms upon which businesses may use and purchase the services offered through the App and upon which freelancers may use the App to offer, deliver translations and similar services to businesses.\n"
+"\n"
+"These Terms and Conditions apply to all users, both businesses and freelancers, who access, download or otherwise use the App, place a request for services, respond to any such requests and deliver the services."
+msgstr ""
+
+#: 
+msgid "Please tell me about yourself"
+msgstr ""
+
+#: 
+msgid "What are the reasons you applied for this position with us?"
+msgstr ""
+
+#: 
+msgid "What do you think are the three most important qualities to be a good customer service representative?"
+msgstr ""
+
+#: 
+msgid "Tell me three traits that your previous boss would say are your strengths"
+msgstr ""
+
+#: 
+msgid "DEFINITIONS\n"
+"The following terms, when used in these Terms and Conditions, including the above recitals, shall have the meanings set forth below, unless the context requires otherwise:\n"
+"“Business” shall refer to any business, organization or entity that uses the App to place Requests and to obtain Services offered by Freelancers.\n"
+"“Company” shall refer to R. Phonedo Call Centers Ltd., a limited company having its registered offices located at 3 Bruchim Street Jerusalem 9530803 Israel. The Company may also be referred to as “we”, “us”, “our”, and other similar expressions.\n"
+"“Freelancer” shall refer to any freelancer, agent or service provider using the App to offer and provide Services.\n"
+"“Request” shall refer to any request for specific Services placed by the Business through the App. The Request shall be placed according to the instructions detailed on the App and the purpose of the Request shall be to obtain Services from a qualified Freelancer.\n"
+"“Services” shall refer to the services offered by Freelancers on the App. The Services shall include, without limitation, human phone answering services, sales support, and live translations in a variety of languages.\n"
+"“Terms and Conditions” shall refer to the latest applicable version of the present Terms and Conditions and includes any and all amendments and supplements made hereto from time to time.\n"
+"“Users” shall refer to all users of the App, including the Businesses and the Freelancers. Users may also be referred to as “you”, “your” and other similar expressions in these Terms and Conditions."
+msgstr ""
+
+#: 
+msgid "APPLICATION\n"
+"Your download and subsequent usage of the App shall constitute your acceptance of these Terms and Conditions. These Terms and Conditions constitute an enforceable and binding agreement between you and the Company. You acknowledge that the Company shall not be bound by any terms except for those detailed in these Terms and Conditions.\n"
+"If you do not agree with these Terms and Conditions, in full or in part, your sole recourse shall be to delete and not use the App."
+msgstr ""
+
+#: 
+msgid "ELIGIBILITY\n"
+"To be eligible to be use the App, whether offering or purchasing Services, you confirm that:\n"
+"– You are at least eighteen (18) years of age.\n"
+"– You are not subject to any restrictions as to purchasing or providing Services on the App, as the case may be.\n"
+"– Your download and usage of the App does not conflict with any order, judgment, agreement or relationship to which you are legally bound.\n"
+"– If you are a Business, you confirm that you have not been barred from receiving or otherwise purchasing Services in the jurisdiction in which you are based.\n"
+"– If you are a Freelancer, you confirm that you have not been barred from rendering Services in the jurisdiction in which you reside."
+msgstr ""
+
+#: 
+msgid "USER ACCOUNTS\n"
+"To use the App and benefit from the Services, whether as a Business or a Freelancer, you will be required to create a user account. You may be required to provide personal information, such as your name, email address, contact information, payment information and other personal data to create your user account.\n"
+"You agree that information you provide will be complete, true, accurate, and current. If any information were to change, you will update the personal information saved under your user account.\n"
+"You acknowledge that your user account is personal, and may not be used by any third party, except if you grant them explicit permission to do so. You will be responsible for all activities and communications that come from your user account, unless you demonstrate that your account was subject to hacking or compromised.\n"
+"You are further responsible for securing your user account with a strong password. If you have reason to believe your password was compromised, you agree to immediately change your password and notify us of any potential security breaches or unauthorized use of your user account."
+msgstr ""
+
+#: 
+msgid "USER CONTENT\n"
+"As a User, you may be able to post content on the App, such as messages, photos, posts, videos, recordings and other postings.\n"
+"\n"
+""
+msgstr ""
+
+#: 
+msgid "Original Content\n"
+"You are solely responsible for any content you post on the App. You confirm that the content you publish on the App is your original work and is not plagiarized or in any way copied from a third party.\n"
+"If the content is not your original work, you must obtain all necessary permissions and consents from the author of the content prior to publishing such content on the App. You understand that you may be held personally liable if the content you post violates any third party right or intellectual property law.\n"
+"Considering such content is uploaded by Users, we decline all responsibility for the User content published on the App. We cannot offer any guarantees with respect to the legitimacy, integrity or quality of User content published on the App."
+msgstr ""
+
+#: 
+msgid "Ownership of Content\n"
+"You agree that all content you publish on the App shall be our sole and exclusive property. We shall hold all ownership and intellectual property rights connected to the content published on the App, even if the content has been subsequently removed or deleted.\n"
+"Upon the upload or publication of content on the App, the User submitting such content agrees that the ownership of the content shall be transferred to us. As such, we shall have the right to publish, post, upload, modify, reproduce, alter, commercialize, distribute, sell, lease, transfer or otherwise use the User content for purposes of the App, in any and all media or form of communication whether now existing or hereafter developed, without obtaining additional consent, and without restriction.\n"
+"As the content uploaded on the App may be protected by copyright and intellectual property law, the uploading User shall grant and assign all copyright and corresponding ownership of the content to us, exclusively."
+msgstr ""
+
+#: 
+msgid "Right to Remove\n"
+"We reserve the right to remove, delete, or otherwise disable any content uploaded by a User if the content: (i) violates applicable laws, (ii) is of poor quality, (iii) is distasteful, unlawful, illegal, defamatory or otherwise problematic, as determined by us at our sole discretion, or (iv) infringes any provision contained in these Terms and Conditions."
+msgstr ""
+
+#: 
+msgid "UNAUTHORIZED USAGE OF THE APP\n"
+"You will be responsible for all actions, communications, publications and omissions in connection with your usage of the App. While using the App, you may not engage, or attempt to engage, in any of the following behavior:\n"
+"• Using the App to violate or infringe any applicable law, regulation or policy, including all legislation applicable in the User’s country of residence;\n"
+"• Using the App for any unlawful or illegal purposes, or encouraging others to use the App for such purposes;\n"
+"• Publishing unauthorized, defamatory, illegal or inappropriate content on the App;\n"
+"• If a Business, refusing or neglecting to pay for Services that have been rendered, without the Company’s prior written permission;\n"
+"• If a Freelancer, refusing or neglecting to provide any Services that have been assigned to you, without valid justification;\n"
+"• Selling, assigning or otherwise transferring your user account, without having obtained the Company’s prior written permission;\n"
+"• Disseminating or distributing spam, unsolicited material or bulk communications, such as chain letters;\n"
+"• Transmitting any virus or material containing harmful components to Users or on the App;\n"
+"• Impersonating an individual or company, or otherwise misleading Users about your true identity in an effort to gain an unauthorized benefit or for deceptive purposes;\n"
+"• Collecting personal information about Users, without their valid and lawful consent;\n"
+"• Hacking, disassembling, or reverse engineering the App or any portion thereof;\n"
+"• Intentionally omitting to disclose personal information or relevant information to the Company or on the App;\n"
+"• Damaging, destroying, disabling or otherwise impairing the App or any portion thereof;\n"
+"• Pretending to be a partner or employee of the Company, or misleading other Users or individuals into believing that such is the case;\n"
+"• Engaging in behavior that is contrary to the intent of these Terms and Conditions.\n"
+"The above list of prohibited conduct on the App is not exhaustive, and should be used for illustration and reference purposes, without being treated as the complete list of excluded and unauthorized behavior.\n"
+"Users of the App are not permitted to engage or communicate with one another outside of the App with respect to any Services offered on the App or to circumvent using the App. For avoidance of doubt, any purchase or delivery of Services between Users may only occur on the App, and on no other platform. Any violation of this obligation may result in the suspension or deactivation of the violating User’s accounts."
+msgstr ""
+
+#: 
+msgid "Business accounts\n"
+"Any Business wishing to purchase Services shall complete a Request according to the instructions set forth on the App. The Request shall contain the Services requested, the desired price range and the anticipated dates for the performance of the Services.\n"
+"Any Request by the Business shall be submitted on the App. The App shall then present an estimate of the costs and a Freelancer whose profile complies with the requirements of the Business as listed in the Request.\n"
+"To benefit from the Services and to submit Requests, the Business confirms and represents the following to the Company:\n"
+"– The information provided in the Business’ user account is true, relevant, current and accurate, to the best of the Business’ knowledge.\n"
+"– The information and criteria listed by the Business in the Request is complete, lawful and does not violate these Terms and Conditions.\n"
+"– The Business has the required funds to purchase the Services, subject to the Request submitted.\n"
+"– The Business confirms that the Company and the Freelancer shall not be liable for the Business’ usage of the Services, or the results produced by or in connection with the Services.\n"
+"– The Business acknowledges that if the Business’ Request or purchase of Services breaches any third party right or legal obligation, we shall not be responsible."
+msgstr ""
+
+#: 
+#, fuzzy
+msgid "7.1 Payment for the Services\n"
+"Upon the submission and subsequent acceptance of a Request, the Business shall receive an estimate of the costs for the Services. The estimate shall be calculated based on the anticipated duration of the Services. The Services shall be billed per minute spent by the Freelancer on a call.\n"
+"The Business shall prepay for the Services at the price detailed in the estimate provided on the App.\n"
+"If the Business’ account does not present a balance or if the Services have not been prepaid, the Request may be canceled or deleted, without penalty or liability.\n"
+"The Business shall prepay for the Services using an authorized payment method, which may be a credit card, bank transfer or any other method authorized by the Company. The Business confirms being the owner or authorized user of the credit card or account used to purchase the Services.\n"
+"If the Business is not the owner of the payment method submitted, the Business has secured all legal and required consents to use such payment method. The Company may refuse to process a Request if the payment method provided is invalid, expired, unusable or suspicious.\n"
+"The sum listed in the estimate shall be withdrawn and held by the Company until the completion of the Services by the Freelancer. Once the Services have been completed, the estimate shall be adjusted to reflect the actual cost of the Services, based on the number of minutes of the relevant call. The funds to compensate the Services shall then be released to the Company and to the Freelancer, in the proportions agreed upon."
+msgstr "7.1 תשלום עבור השירותים\n"
+"עם הגשת הבקשה ובהמשך קבלתה, העסק יקבל אומדן של העלויות עבור השירותים. האומדן יחושב על סמך משך הזמן הצפוי של השירותים. השירותים יחויבו בדקה שהוציא הפרילנסר בשיחה.\n"
+"העסק ישלם מראש עבור השירותים במחיר המפורט באומדן המסופק באפליקציה.\n"
+"אם חשבון העסק אינו מציג יתרה או אם השירותים לא שולמו מראש, הבקשה עשויה להתבטל או למחוק, ללא קנס או חבות.\n"
+"בית העסק ישלם מראש עבור השירותים באמצעות אמצעי תשלום מורשה, שיכול להיות כרטיס אשראי, העברה בנקאית או כל דרך אחרת שאושרה על ידי החברה. בית העסק מאשר שהוא הבעלים או המשתמש המורשה של כרטיס האשראי או החשבון המשמשים לרכישת השירותים.\n"
+"אם העסק אינו הבעלים של אמצעי התשלום שהוגש, בית העסק השיג את כל ההסכמות החוקיות והמתבקשות לשימוש באמצעי תשלום זה. החברה רשאית לסרב לעבד בקשה אם אמצעי התשלום שסופק אינו חוקי, פג תוקף, בלתי שמיש או חשוד.\n"
+"הסכום הרשום באומדן יימשך ויוחזק על ידי החברה עד להשלמת השירותים על ידי הפרילנסר. לאחר השלמת השירותים, האומדן יותאם כך שישקף את העלות בפועל של השירותים, בהתבסס על מספר הדקות של השיחה הרלוונטית. הכספים לפיצוי השירותים ישוחררו לאחר מכן לחברה ולפרילנסר, בפרופורציות המוסכמות."
+
+#: 
+msgid "7.2 Release of Payments and Charges\n"
+"The Business shall honor all charges in connection with the Services, as listed in the estimate and subsequent confirmation of costs. The Business shall pay all applicable taxes and charges in connection with the Services purchased.\n"
+"Unless otherwise indicated by us, the Business’ payment method and information shall remain on file to cover future payments of Services.\n"
+"The Business shall be responsible for all Requests placed using the Business’ user account and payment method. If the Business’ payment method has been hacked or compromised, the Business agrees to notify us immediately through the App."
+msgstr "7.2 שחרור תשלומים וחיובים\n"
+"העסק יכבד את כל החיובים בקשר לשירותים, כמפורט באומדן ובאישור העלויות שלאחר מכן. העסק ישלם את כל המסים וההיטלים הרלוונטיים בקשר לשירותים שנרכשו.\n"
+"אלא אם כן צוין אחרת על ידינו, אמצעי התשלום והמידע של העסק יישארו בקובץ כדי לכסות תשלומים עתידיים של שירותים.\n"
+"העסק יהיה אחראי לכל הבקשות המוגשות באמצעות חשבון המשתמש ואמצעי התשלום של העסק. אם אמצעי התשלום של העסק נפרץ או נפרץ, העסק מסכים להודיע לנו באופן מיידי דרך האפליקציה"
+
+#: 
+msgid "7.3 Refunds\n"
+"All payments made by the Business for Services performed are final, and are not subject to refunds. More specifically, we do not accept to grant refunds on the following grounds: quality of the Services, or issues with the Freelancer. Any unused balance in the Business’ user account shall not be subject to a refund.\n"
+"It is, however, possible for a Business to rate the Freelancer’s performance upon the completion of the Services. The Business’ rating and feedback of the Freelancer shall be used by the Company for quality assurance and compliance."
+msgstr "7.3 החזרים\n"
+"כל התשלומים המבוצעים על ידי העסק עבור שירותים שבוצעו הם סופיים, ואינם כפופים להחזרים. ליתר דיוק, איננו מסכימים להעניק החזרים מהסיבות הבאות: איכות השירותים או בעיות עם הפרילנסר. כל יתרה שלא נוצלה בחשבון המשתמש של העסק לא תהיה כפופה להחזר.\n"
+"עם זאת, עסק יכול לדרג את הביצועים של הפרילנסר עם השלמת השירותים. הדירוג והמשוב של העסק על הפרילנסר ישמשו את החברה לצורך אבטחת איכות וציות."
+
+#: 
+msgid "8. Freelancer accounts\n"
+"Successful Freelancers are motivated, professional, punctual, and reliable. To perform Services for Businesses, Freelancers shall submit their qualifications and profile containing their experience and language skills on the App.\n"
+"We shall send notifications to Freelancers when their profile matches a Request. Considering the time sensitive nature of Requests, we encourage Freelancers to respond to Requests rapidly. For this reason, we encourage Freelancers to enable “push notifications”.\n"
+"Upon accepting to perform Services pursuant to a Request, the Freelancer shall comply with the following:\n"
+"– The Freelancer shall respond to the Request in a timely manner.\n"
+"– The Freelancer shall perform the Services with competence, skill and care.\n"
+"– The Freelancer shall deliver the Services within the timeframe specified in the Request.\n"
+"– The Freelancer shall communicate respectfully and professionally with the Business throughout the performance of the Services.\n"
+"– The Freelancer acknowledges that the Freelancer is performing the Services as an independent contractor to the Business and to the Company. Nothing in these Terms and Conditions shall be construed as creating an employment relationship between the Freelancer and the Company.\n"
+"We reserve the right to not publicize or display a Freelancer’s profile on the App if we determine that the Freelancer is not competent, has too many Requests that are overdue or provide Services that are not up to par."
+msgstr "8. חשבונות פרילנסרים\n"
+"פרילנסרים מצליחים הם בעלי מוטיבציה, מקצועיים, דייקנים ואמינים. כדי לבצע שירותים לעסקים, פרילנסרים ישלחו את הכישורים והפרופיל שלהם המכילים את הניסיון ואת כישורי השפה שלהם באפליקציה.\n"
+"אנו נשלח הודעות לפרילנסרים כאשר הפרופיל שלהם תואם בקשה. בהתחשב באופי הרגיש בזמן של בקשות, אנו מעודדים פרילנסרים להגיב לבקשות במהירות. מסיבה זו, אנו מעודדים פרילנסרים לאפשר \"הודעות דחיפה\".\n"
+"עם הסכמתו לביצוע שירותים בהתאם לבקשה, הפרילנסר יעמוד בדרישות הבאות:\n"
+"– הפרילנסר יגיב לבקשה במועד.\n"
+"– הפרילנסר יבצע את השירותים בכשירות, במיומנות ובזהירות.\n"
+"– הפרילנסר יספק את השירותים במסגרת הזמן המפורטת בבקשה.\n"
+"– הפרילנסר יתקשר בכבוד ובמקצועיות עם העסק לאורך כל ביצוע השירותים.\n"
+"– הפרילנסר מאשר כי הפרילנסר מבצע את השירותים כקבלן עצמאי לעסק ולחברה. שום דבר בתקנון זה לא יתפרש כיצירת יחסי עבודה בין הפרילנסר לבין החברה.\n"
+"אנו שומרים לעצמנו את הזכות לא לפרסם או להציג פרופיל של פרילנסר באפליקציה אם אנו קובעים שהפרילנסר אינו כשיר, יש לו יותר מדי בקשות באיחור או מספק שירותים שאינם עומדים בקנה אחד."
+
+#: 
+msgid "8.1 Freelancer’s Compensation\n"
+"Upon the completion of the Services by the Freelancer pursuant to a Request, the Freelancer shall be entitled to a portion of the fees paid by the Business for the Services as compensation. We shall submit the compensation to the Freelancer in the proportions agreed upon between the Freelancer and the Company.\n"
+"The Freelancer shall be responsible for the payment of any taxes imposed on compensation received for the Services, such as income taxes and self-employment tax, to our full exclusion."
+msgstr "8.1 פיצוי של פרילנסר \n"
+"עם השלמת השירותים על ידי הפרילנסר על פי בקשה, הפרילנסר יהיה זכאי לחלק מהעמלות ששילם העסק עבור השירותים כפיצוי. אנו נגיש את הפיצוי לפרילנסר בפרופורציות המוסכמות בין הפרילנסר לבין החברה.\n"
+"הפרילנסר יהיה אחראי לתשלום מסים כלשהם שיוטלו על פיצויים שהתקבלו עבור השירותים, כגון מס הכנסה ומס עצמאים, עד לביטול המלא שלנו"
+
+#: 
+msgid "9. App as an intermediary\n"
+"The App serves as an intermediary between Businesses and Freelancers, and allows Businesses to acquire Services by Freelancers featured on the App. The Freelancers offering Services on the App are not our employees, rather, they are independent service providers.\n"
+"As an intermediary, we cannot control the quality or the effectiveness of the Services provided. While we use our best efforts to vet and select highly skilled and professional Freelancers, we do not perform the Services ourselves so we cannot control the outcome of the Services."
+msgstr "9. אפליקציה כמתווך\n"
+"האפליקציה משמשת כמתווך בין עסקים לפרילנסרים, ומאפשרת לעסקים לרכוש שירותים של פרילנסרים המופיעים באפליקציה. הפרילנסרים המציעים שירותים באפליקציה אינם העובדים שלנו, אלא הם ספקי שירות עצמאיים.\n"
+"כמתווך, איננו יכולים לשלוט באיכות או באפקטיביות של השירותים הניתנים. למרות שאנו עושים את מיטב המאמצים שלנו לבדוק ולבחור פרילנסרים מיומנים ומקצועיים ביותר, איננו מבצעים את השירותים בעצמנו ולכן איננו יכולים לשלוט בתוצאות השירותים"
+
+#: 
+msgid "9.1 Calls Held on the App\n"
+"As the Services may involve the Freelancer participating in a call with the Business, we ask that Users do not record any calls, content and activities held on the App, except with our explicit prior consent. You are not authorized to sell, lease, transfer, assign, lend or otherwise share the calls, content and messages exchanged on the App with any third party. You are not authorized to permit a third party to listen in on a call, without having obtained our prior written consent.\n"
+"You acknowledge that we will have the ability to store, listen, and analyze all calls held through the App. We will also retain the right to view, store and analyze messages, notifications and discussions held on the App. This information may be provided and assigned to third parties by the Company for an audit or for another specific purpose. The content of the calls, messages and discussions shall be available to us at all times, and we shall hold all ownership rights to all such content."
+msgstr "9.1 שיחות שהתקיימו באפליקציה \n"
+"מכיוון שהשירותים עשויים לכלול את הפרילנסר המשתתף בשיחה עם העסק, אנו מבקשים מהמשתמשים לא להקליט שיחות, תוכן ופעילויות כלשהן שנערך באפליקציה, אלא בהסכמתנו המפורשת מראש. אינך מורשה למכור, להחכיר, להעביר, להקצות, להשאיל או לשתף בכל דרך אחרת את השיחות, התכנים וההודעות שהוחלפו באפליקציה עם צד שלישי כלשהו. אינך מורשה לאפשר לצד שלישי להאזין לשיחה, מבלי שקיבלת את הסכמתנו מראש ובכתב.\n"
+"אתה מאשר כי תהיה לנו היכולת לאחסן, להאזין ולנתח את כל השיחות שמתנהלות דרך האפליקציה. כמו כן, נשמור על הזכות לצפות, לאחסן ולנתח הודעות, התראות סרטונים ודיונים שנערכים באפליקציה. מידע זה עשוי להימסר ולהקצות לצדדים שלישיים על ידי החברה לצורך ביקורת או למטרה ספציפית אחרת. תוכן השיחות, ההודעות והדיונים יהיו זמינים לנו בכל עת, ואנו נחזיק בכל זכויות הבעלות על כל תוכן כזה."
+
+#: 
+msgid "10. Disputes between users\n"
+"In case of a dispute between Users, we invite the Users to resolve the dispute amicably between them. If the dispute cannot be reasonably resolved, it should be submitted to us for review and handling. We are not obligated to resolve any dispute between Users, but we will use our best efforts to secure a mutually-acceptable resolution of the dispute based on the facts and each User’s rights."
+msgstr "10. מחלוקות בין משתמשים\n"
+"במקרה של מחלוקת בין משתמשים, אנו מזמינים את המשתמשים לפתור את המחלוקת ביניהם בדרכי נועם. אם לא ניתן לפתור את המחלוקת באופן סביר, יש להגישו אלינו לבדיקה וטיפול. איננו מחויבים לפתור כל מחלוקת בין משתמשים, אך אנו נעשה את מיטב המאמצים שלנו להבטיח פתרון מקובל הדדי של המחלוקת בהתבסס על העובדות ועל זכויותיו של כל משתמש"
+
+#: 
+msgid "11. Service availability\n"
+"We shall use our best efforts to maintain a wide selection of Freelancers to fulfill the requirements of the Requests submitted, but we cannot guarantee that all Requests will be fulfilled in their entirety at all times. We may be unable to process a Request, in whole or in part, due to the unavailability of Freelancers or concerns regarding the requirements. If this is the case, we shall inform the Business, and we may offer an alternate Freelancer to fulfill the Request."
+msgstr " 11. זמינות השירות\n"
+"אנו נעשה את מיטב המאמצים שלנו לשמור על מבחר רחב של פרילנסרים כדי לעמוד בדרישות הבקשות שהוגשו, אך איננו יכולים להבטיח שכל הבקשות יתמלאו בשלמותן בכל עת. ייתכן שלא נוכל לעבד בקשה, כולה או חלקה, עקב חוסר זמינות של פרילנסרים או חששות בנוגע לדרישות. אם זה המקרה, נודיע לעסק, ואנחנו עשויים להציע פרילנסר חלופי למלא את הבקשה."
+
+#: 
+#, fuzzy
+msgid "12. Links to third party Websites or Apps\n"
+"The App may provide links to third party websites or applications. The links to third party websites or applications provided on the App are solely for convenience. Your usage of the third party website or applications is not subject to these Terms and Conditions. Your usage of third party links, websites or applications is at your own risk and subject to the third party’s policies and terms."
+msgstr "12. קישורים לאתרי אינטרנט או אפליקציות של צד שלישי\n"
+"האפליקציה עשויה לספק קישורים לאתרים או אפליקציות של צד שלישי. הקישורים לאתרי צד שלישי או ליישומים המסופקים באפליקציה הם אך ורק לנוחות. השימוש שלך באתר או ביישומים של צד שלישי אינו כפוף לתנאים והגבלות אלה. השימוש שלך בקישורים, אתרים או יישומים של צד שלישי הוא על אחריותך בלבד ובכפוף למדיניות ולתנאים של הצד השלישי."
+
+#: 
+#, fuzzy
+msgid "Do you have experience in customer service? please share details with me"
+msgstr "יש לך ניסיון בשירות לקוחות? בבקשה שתף אותי בפרטים"
+
+#: 
+msgid "13. Copyrights & Intellectual property\n"
+"All or some content uploaded and / or published in the app. Whether raised by us or by any of the permanent or temporary users. are our absolute ownership and may be protected by copyright laws. Trademarks, Trademarks or Intellectual Property.\n"
+"All trademarks and intellectual property advertised in the app may be protected by intellectual property laws. All rights pertaining to it are reserved.\n"
+"You are also not authorized to copy and / or print portions of the Application for personal, non-commercial, and auxiliary purposes, unless otherwise authorized by us in writing. We do not authorize copying, copying, modification or transfer of intellectual property in the app to any third party without our express prior written consent.\n"
+"Any other use of copyrighted content is strictly prohibited"
+msgstr "13. זכויות יוצרים וקניין רוחני\n"
+"כל התוכן או חלק מהתוכן שהועלה ו/או פורסם באפליקציה. בין אם הועלה על ידינו או על ידי מי מהמשתמשים הקבועים או הזמניים. הם הבעלות המוחלטת שלנו ועשויים להיות מוגנים על ידי חוקי זכויות יוצרים. סימני מסחר, סימני מסחר או קניין רוחני.\n"
+"כל הסימנים המסחריים והקניין הרוחני המפורסמים באפליקציה עשויים להיות מוגנים על ידי חוקי הקניין הרוחני. כל הזכויות הנוגעות לו שמורות.\n"
+"כמו כן, אינך מורשה להעתיק ו/או להדפיס חלקים מהאפליקציה למטרות אישיות, לא מסחריות ולמטרות עזר, אלא אם קיבלנו הרשאה אחרת בכתב. איננו מאשרים העתקה, העתקה, שינוי או העברה של קניין רוחני באפליקציה לצד שלישי כלשהו ללא הסכמתנו המפורשת בכתב ומראש.\n"
+"כל שימוש אחר בתוכן המוגן בזכויות יוצרים אסור בהחלט"
+
+#: 
+msgid "14. Legal disclaimers\n"
+"The App and its features are provided “as is” basis without warranties or guarantees of any nature, such as implied warranties, non-infringement, and fitness for a particular purpose, all of which are expressly excluded.\n"
+"We do not guarantee that the App will produce any particular result with respect to the Request, or the Services. We are not responsible for any issues, or conflict arising out of a Request, the Services and/or involving a Business, a Freelancer, or other User."
+msgstr "14. כתבי ויתור משפטיים \n"
+"האפליקציה והתכונות שלה מסופקות \"כמו שהיא\" על בסיס ללא אחריות או ערבויות מכל סוג שהוא, כגון אחריות משתמעת, אי-הפרה והתאמה למטרה מסוימת, שכולם אינם נכללים במפורש.\n"
+"איננו מבטיחים שהאפליקציה תניב תוצאה מסוימת ביחס לבקשה או לשירותים. איננו אחראים לכל בעיה, או התנגשות הנובעת מהבקשה, השירותים ו/או מעורבים של עסק, פרילנסר או משתמש אחר."
+
+#: 
+msgid "15. Technical Issues\n"
+"Technical issues and problems may arise when using the App. These issues may cause your usage of the App to be suspended, delayed or terminated, even may even freeze the device on which you are operating the App. The App is continuously monitored to ensure its proper functioning but we cannot guarantee that your usage of the App be uninterrupted and without error at all times."
+msgstr "15. בעיות טכניות\n"
+"בעיות טכניות ותקלות עלולות להתעורר בעת השימוש באפליקציה. בעיות אלו עלולות לגרום להשעיה, עיכוב או הפסקת השימוש שלך באפליקציה, ואף עלולות להקפיא את המכשיר שבו אתה מפעיל את האפליקציה. האפליקציה מנוטרת באופן רציף כדי להבטיח את תפקודה התקין, אך איננו יכולים להבטיח שהשימוש שלך באפליקציה יהיה ללא הפרעה וללא שגיאות בכל עת."
+
+#: 
+msgid "16. Limited liability\n"
+"We shall not be held responsible for any damages, costs, expenses, proceedings or other claims related to the use or inability to use the App and its features. You agree that your usage of the App is at your own risk and expense.\n"
+"To the extent permitted by applicable law, we exclude all liability for losses, expenses, damages, claims and proceedings of any nature, including but not limited to direct damages, lost profits, loss of opportunity, punitive and incidental damages, even if we have been advised of the possibility of such damages, arising out of the use of the App. This exclusion of liability remains applicable, regardless of the basis of the liability, whether in contract, negligence, misconduct, strict liability or another theory of law."
+msgstr "16. אחריות מוגבלת\n"
+"לא נישא באחריות לכל נזק, עלויות, הוצאות, הליכים או תביעות אחרות הקשורות לשימוש או חוסר היכולת להשתמש באפליקציה ובתכונותיה. אתה מסכים שהשימוש שלך באפליקציה הוא על אחריותך ועל חשבונך בלבד.\n"
+"במידה שהחוק החל, אנו שוללים כל אחריות להפסדים, הוצאות, נזקים, תביעות והליכים מכל סוג שהוא, לרבות אך לא רק נזקים ישירים, אובדן רווחים, אובדן הזדמנויות, נזקים עונשיים ונלווים, גם אם יש לנו הודיעו על האפשרות של נזקים כאלה, הנובעים מהשימוש באפליקציה. החרגה זו של אחריות נשארת תקינה, ללא קשר לבסיס החבות, בין אם מדובר בחוזה, ברשלנות, בהתנהגות בלתי הולמת, באחריות קפדנית או בתורת חוק אחרת. "
+
+#: 
+msgid "A customer shouts at you that you are not available and your service is a disaster and the day want to end their contact with you, how would you response?"
+msgstr "לקוח צועק עליך שאתה לא זמין, שהשירות שלך הוא אסון, ושהיום היה רוצה לסיים את הקשר שלו איתך, איך היית מגיב?"
+
+#: 
+msgid "17. Termination\n"
+"We may cancel or terminate your user account, a Request, the Services, in whole or in part, and with or without notice, at any time at our sole discretion. We may terminate a Business’ user account if there are issues with payment, or if the Business failed or neglected to pay the costs payable for Services rendered due on their due date. The termination shall not relieve the Business of its obligation to pay the sums due and all interest incurred, if applicable.\n"
+"We may terminate a Freelancer’s user account if the Services provided are of poor quality, or if the Freelancer is uncooperative or unprofessional.\n"
+"We shall not be liable to you for any termination or suspension of your user account, a Request, or the Services and you shall have no claims or recourses against us for any termination, whether with cause or without.\n"
+"You may terminate or deactivate your user account at any time by sending us a notice to this effect in accordance with these Terms and Conditions. Your user account will be immediately terminated upon our receipt of your termination notice.\n"
+"All ongoing provisions of these Terms and Conditions shall survive termination of your user account, including, without limitation, content ownership provisions, legal disclaimers, and limitations of liability."
+msgstr "17. סיום\n"
+"אנו עשויים לבטל או לסיים את חשבון המשתמש שלך, בקשה, השירותים, כולם או חלקם, ועם או בלי הודעה, בכל עת לפי שיקול דעתנו הבלעדי. אנו עשויים לסיים חשבון משתמש של עסק אם יש בעיות בתשלום, או אם העסק נכשל או התרשל לשלם את העלויות לתשלום עבור שירותים שניתנו לפי תאריך היעד שלהם. הסיום לא יפטור את העסק מחובתו לשלם את הסכומים המגיעים ואת כל הריבית שנגרמה, אם רלוונטי.\n"
+"אנו עשויים לסיים את חשבון המשתמש של פרילנסר אם השירותים הניתנים הם באיכות ירודה, או אם הפרילנסר אינו משתף פעולה או לא מקצועי.\n"
+"לא נהיה אחראים כלפיך לכל סיום או השעיה של חשבון המשתמש שלך, בקשה או השירותים ולא יהיו לך תביעות או פיצויים נגדנו בגין כל סיום, בין אם בעילה ובין שלא.\n"
+"אתה יכול לסיים או להשבית את חשבון המשתמש שלך בכל עת על ידי שליחת הודעה על כך בהתאם לתנאים וההגבלות הללו. חשבון המשתמש שלך ייסגר באופן מיידי עם קבלת הודעת הסיום שלך.\n"
+"כל ההוראות המתמשכות של תנאים והגבלות אלה ישרדו לאחר סיום חשבון המשתמש שלך, לרבות, ללא הגבלה, הוראות בעלות על תוכן, כתבי ויתור משפטיים ומגבלות אחריות."
+
+#: 
+msgid "18. Entire agreement\n"
+"These Terms and Conditions, together with any document referred to herein, constitutes the entire agreement between you and us with respect to the subject matter hereof. These Terms and Conditions shall all previous negotiations and agreements between you and us regarding such subject matter."
+msgstr " 18. ההסכם כולו\n"
+"תנאים והגבלות אלה, יחד עם כל מסמך הנזכר במסמך זה, מהווים את כל ההסכם בינך לבינינו ביחס לנושא זה. תנאים והגבלות אלה יקבעו את כל המשא ומתן וההסכמים הקודמים בינך לבינינו בנוגע לנושא זה."
+
+#: 
+msgid "A customer complaints about the service and you know they are right, how would you response?"
+msgstr "לקוח מתלונן על השירות ואתה יודע שהוא צודק, כיצד היית מגיב?"
+
+#: 
+msgid "19. Severability\n"
+"If any provision in these Terms and Conditions is held invalid or unenforceable by a competent court of law or by valid authority, the provision in question shall be severed from these Terms and Conditions. The remaining provisions shall remain valid, binding and applicable."
+msgstr "19. ניתוק\n"
+"אם הוראה כלשהי בתקנון זה תופסת או בלתי ניתנת לאכיפה על ידי בית משפט מוסמך או על ידי רשות תקפה, ההוראה הנדונה תינתק מתנאים והגבלות אלה. יתר ההוראות יישארו תקפות, מחייבות וישימות."
+
+#: 
+msgid "There are many candidates for this position. Why should we choose you?"
+msgstr "ישנם מועמדים רבים לתפקיד זה. למה שנבחר בך?"
+
+#: 
+msgid "20. Waivers\n"
+"If we do not exercise or delay any right or privilege under these Terms and Conditions, this shall not be construed or interpreted as a waiver of our rights."
+msgstr "20. ויתור\n"
+"אם לא נממש או נעכב שום זכות או הרשאה על פי תנאים והגבלות אלה, זה לא יתפרש או יתפרש כוויתור על זכויותינו"
+
+#: 
+msgid "21. Choice of law & venue\n"
+"These Terms and Conditions are governed by the laws of Israel. The competent courts located in Israel shall have exclusive jurisdiction over any and all disputes relating to the validity, interpretation, and performance of the Services and any matters covered by these Terms and Conditions."
+msgstr " 21. בחירת חוק ומקום \n"
+"תנאים והגבלות אלו כפופים לחוקי ישראל. לבתי המשפט המוסמכים הממוקמים בישראל תהיה סמכות שיפוט בלעדית לגבי כל מחלוקת הנוגעת לתקפות, פרשנות וביצוע השירותים ולכל נושא המכוסה בתנאים והגבלות אלה."
+
+#: 
+msgid "22. Force majeure events\n"
+"Force Majeure events are unpredictable and grave situations beyond our reasonable control, which include wars, government acts, hurricanes, floods, or other natural disasters. Our obligations under these Terms and Conditions shall be suspended for the duration of a Force Majeure event. If the Force Majeure event persists for a reasonable duration, as determined by us at our discretion, we reserve the right to terminate any and all Requests, Services, your user account or your access to the App without liability."
+msgstr "22. אירועים שלא בשליטת אדם\n"
+"אירועים אלו הם מצבים בלתי צפויים וחמורים שאינם בשליטתנו הסבירה, הכוללים מלחמות, פעולות ממשלתיות, הוריקנים, שיטפונות או אסונות טבע אחרים. ההתחייבויות שלנו על פי תנאים והגבלות אלה יושעו למשך אירוע כוח עליון. אם אירוע הכוח עליון נמשך למשך זמן סביר, כפי שנקבע על ידינו לפי שיקול דעתנו, אנו שומרים לעצמנו את הזכות לסיים כל בקשה, שירות, חשבון המשתמש שלך או גישתך לאפליקציה ללא אחריות."
+
+#: 
+msgid "23. Notices\n"
+"You may send us any notices by email or through the App. You may receive notices regarding the App, your user account, the Services and/or a Request. These notices shall be sent to you by email or via a notification on the App.\n"
+"Considering we may communicate with you by email, you are responsible for providing your email address. If the email address you provided is invalid, any notice sent to this email shall be deemed valid and properly delivered."
+msgstr "23. הודעות\n"
+"אתה יכול לשלוח לנו כל הודעה באימייל או דרך האפליקציה. אתה עשוי לקבל הודעות לגבי האפליקציה, חשבון המשתמש שלך, השירותים ו/או בקשה. הודעות אלו יישלחו אליך בדוא\"ל או באמצעות הודעה באפליקציה.\n"
+"בהתחשב בכך שאנו עשויים לתקשר איתך בדוא\"ל, אתה אחראי לספק את כתובת הדוא\"ל שלך. אם כתובת הדוא\"ל שסיפקת אינה חוקית, כל הודעה שנשלחה לדוא\"ל זה תיחשב כתקינה ומועברת כהלכה."
+
+#: 
+msgid "24. Updates\n"
+"We may update or modify these Terms and Conditions without notice, at our discretion. The latest version of these Terms and Conditions shall be available for review on the App. We suggest you read the Terms and Conditions periodically to ensure familiarity with the latest version. Your continued access to or use of the App following any modifications made to these Terms and Conditions shall constitute your acceptance of the updated Terms and Conditions."
+msgstr "24. עדכונים \n"
+"אנו עשויים לעדכן או לשנות את התנאים וההגבלות הללו ללא הודעה מוקדמת, לפי שיקול דעתנו. הגרסה העדכנית ביותר של תנאים והגבלות אלה תהיה זמינה לעיון באפליקציה. אנו מציעים לך לקרוא את התנאים וההגבלות מעת לעת כדי להבטיח היכרות עם הגרסה העדכנית ביותר. המשך הגישה שלך לאפליקציה או השימוש בה לאחר כל שינוי שנעשה בתנאים וההגבלות הללו יהווה את הסכמתך לתנאים וההגבלות המעודכנים."
+
+#: 
+msgid "EMPLOYER-EMPLOYEE RELATIONSHIP."
+msgstr "יחסי עובד מעביד."
+
+#: 
+msgid "1.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, hereby declare that no employee-employer relationship exists between them and Phonedo.\n"
+"\n"
+"2.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, will not be able to obtain social or other employee rights in the future.\n"
+"\n"
+"3.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, hereby declare that the payments they receive from Phonedo constitute full and final consideration for the service provider’s services, and shall not be entitled to any additional consideration or payment of any kind. It should be clarified in this regard that if a claim or demand is made in the future for the payment of any social right as a salaried employee, payments received shall be deemed to include full rights – and in particular travel and recovery fees – and in any case the excess proceeds received as a service provider shall be deemed to be offset by the rights they were entitled to, if he determines he is eligible.\n"
+"\n"
+"4.  This Agreement constitutes a contract for the provision of services, and as such, exclusively governs all contractual terms of service and all that is involved therewith.\n"
+"\n"
+"5.  This Agreement is exhaustive of the legal relationship between the parties and supersedes any contract, arrangement, agreement, negotiation, exchange, understanding, undertaking or representation which, if any, were in writing or orally, between the parties prior to the signing of this contract.\n"
+"\n"
+"6.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, hereby declare that they have the requisite job requirements and skills to perform their duties and that they have the knowledge, skills, experience and skill to perform their duties to the best of their ability and to the satisfaction of the users and customers. And the other partners.\n"
+"\n"
+"7.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, hereby declare that there is no contractual and / or legal impediment to their contracting in this contract and / or performing their duties on the best side.\n"
+"\n"
+"8.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, hereby declare that they have no objection to service to other parties, provided that they do not compete with the customer in any way.\n"
+"\n"
+"9.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, hereby undertake to comply with the Company’s procedures in accordance with all written in this document as well as all updates that will be added from time to time. Appendix to procedures attached to this Agreement, which shall be updated from time to time.\n"
+"\n"
+"10.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, hereby pledge to insure their wages for loss of work skills or a pension fund that includes a loss of work capacity. Phonedo may be authorized to periodically verify the existence of the insurance."
+msgstr "1. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והפרילנסרים, והעסק והמשקיעים, מצהירים בזאת כי לא מתקיימים יחסי עובד-מעביד בינם לבין Phonedo.\n"
+"\n"
+"2. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והפרילנסרים, והעסק והמשקיעים, לא יוכלו לקבל בעתיד זכויות עובדים חברתיות או אחרות.\n"
+"\n"
+"3. המשתמשים השונים והלקוחות והספקים והשותפים והפרילנסרים והעסק והמשקיעים מצהירים בזאת כי התשלומים שהם מקבלים מפונדו מהווים תמורה מלאה וסופית עבור שירותי נותן השירות, ולא תהיה זכאית לכל תמורה נוספת או תשלום מכל סוג שהוא. יובהר לעניין זה, כי אם תוגש בעתיד תביעה או דרישה לתשלום זכות סוציאלית כלשהי כעובד בשכר, יראו התשלומים המתקבלים ככוללים את מלוא הזכויות - ובפרט דמי נסיעה והבראה - ובכל מקרה התמורה העודפת שהתקבלה כנותן שירות תיחשב כמתקזזת בזכויות שהיו זכאיות להן, אם יקבע שהוא זכאי.\n"
+"\n"
+"4. הסכם זה מהווה חוזה למתן שירותים, וככזה, מסדיר באופן בלעדי את כל תנאי השירות החוזיים וכל הכרוך בהם.\n"
+"\n"
+"5. הסכם זה ממצה את מערכת היחסים המשפטית בין הצדדים וגובר על כל חוזה, הסדר, הסכם, משא ומתן, החלפה, הבנה, התחייבות או ייצוג אשר, אם יש, היו בכתב או בעל-פה, בין הצדדים לפני החתימה על החוזה הזה.\n"
+"\n"
+"6. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והעצמאיים, והעסק והמשקיעים, מצהירים בזאת כי הם בעלי דרישות התפקיד והכישורים הנדרשים לביצוע תפקידם וכי הם בעלי ידע, כישורים, ניסיון ומיומנות לביצוע תפקידם על הצד הטוב ביותר ולשביעות רצון המשתמשים והלקוחות. ושאר השותפים.\n"
+"\n"
+"7. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והעצמאיים ובית העסק, מצהירים בזאת כי אין מניעה חוזית ו/או משפטית להתקשרותם בחוזה זה ו/או לביצוע תפקידם. על הצד הטוב ביותר.\n"
+"\n"
+"8. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והעצמאיים, והעסק והמשקיעים, מצהירים בזאת כי אין להם התנגדות למתן שירות לגורמים אחרים, ובלבד שאינם מתחרים ב. הלקוח בכל דרך שהיא.\n"
+"\n"
+"9. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והפרילנסרים, והעסק והמשקיעים, מתחייבים בזאת לעמוד בנהלי החברה בהתאם לכל הכתוב במסמך זה וכן לכל עדכונים שיתווספו מעת לעת. נספח לנהלים המצורפים להסכם זה, אשר יתעדכן מעת לעת.\n"
+"\n"
+"10. המשתמשים השונים והלקוחות והספקים והשותפים והפרילנסרים והעסק והמשקיעים מתחייבים בזה לבטח את שכרם בגין אובדן כושר עבודה או קרן פנסיה הכוללת הפסד של כּוֹשֵׁר עֲבוֹדָה. Phonedo עשוי להיות מורשה לוודא מעת לעת את קיומו של הביטוח."
+
+#: 
+msgid "TAXES"
+msgstr "מסים"
+
+#: 
+msgid "1.  R. Phonedo Call Centers Ltd. is an Israeli company and is bound by all Israeli tax laws.\n"
+"\n"
+"2.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, of Phonedo are aware that no employee-employer relationship exists with Phonedo.\n"
+"\n"
+"3.  Phonedo does not tax withholding. But will do so when obligated by law to do so.\n"
+"\n"
+"4.  Phonedo does not Deduct VAT taxes from payments initiated to users and customers and suppliers and partners. but will do so when obligated by law to do so.\n"
+"\n"
+"5.  Phonedo does not Deduct Social Security payments. From payments initiated to users and customers and suppliers and partners. but will do so when obligated by law to do so.\n"
+"\n"
+"6.  All amounts that Phonedo pays to its suppliers are net payments before deducting any tax payments.\n"
+"\n"
+"7.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, hereby declare that they are responsible for reporting to the various tax authorities in their state of residence all their income and expenses in any connection to the Phonedo Company.\n"
+"\n"
+"8.  Phonedo may at any time request a tax exemption clearance and hold funds until the certificate is duly obtained.\n"
+"\n"
+"9.  The various users, and the customers, and the suppliers, and the partners, and the Freelancers, and the business, and the investors, undertake to fully comply with all lawful obligations.\n"
+"\n"
+"10.  Phonedo will collect VAT payments lawfully from each user and customers, and suppliers, and partners, and Freelancers, and business, and the investors, for a service or product that was been purchase through Phonedo."
+msgstr "1. R. Phonedo Call Centers Ltd הינה חברה ישראלית ומחויבת לכל דיני המס בישראל.\n"
+"\n"
+"2. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והפרילנסרים, והעסק והמשקיעים של Phonedo מודעים לכך שלא מתקיימים יחסי עובד-מעביד עם Phonedo.\n"
+"\n"
+"3. Phonedo לא גובה ניכוי מס במקור. אך יעשה זאת כאשר מחויב על פי חוק לעשות זאת.\n"
+"\n"
+"4. Phonedo אינה מנכה מסי מע\"מ מתשלומים שיוזמו למשתמשים ולקוחות וספקים ושותפים. אך תעשה זאת כאשר מחויב על פי חוק לעשות זאת.\n"
+"\n"
+"5. Phonedo לא מנכה תשלומי ביטוח לאומי. מתשלומים יזומים למשתמשים ולקוחות ולספקים ושותפים. אך תעשה זאת כאשר מחויב על פי חוק לעשות זאת.\n"
+"\n"
+"6. כל הסכומים ש-Phonedo משלמת לספקיה הם תשלומים נטו לפני ניכוי תשלומי מס.\n"
+"\n"
+"7. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והעצמאיים, והעסק והמשקיעים, מצהירים בזאת כי הם אחראים לדווח לרשויות המס השונות במדינת מגוריהם על כל שלהם. הכנסות והוצאות בכל קשר לחברת Phonedo.\n"
+"\n"
+"8. Phonedo רשאית בכל עת לבקש אישור פטור ממס ולהחזיק כספים עד לקבלת האישור כדין.\n"
+"\n"
+"9. המשתמשים השונים, והלקוחות, והספקים, והשותפים, והפרילנסרים, והעסק והמשקיעים, מתחייבים לעמוד במלוא ההתחייבויות החוקיות.\n"
+"\n"
+"10. Phonedo תגבה תשלומי מע\"מ כדין מכל משתמש ולקוח, וספקים, ושותפים, ופרילנסרים, ועסק, ומהמשקיעים, עבור שירות או מוצר שנרכשו באמצעות Phonedo\n"
+"\n"
+""
+
+#: 
+msgid "On a scale of one to ten, how much would you like to work for us?"
+msgstr "בטווח מאחד עד עשר, כמה היית רוצה לעבוד אצלנו?"
+
+#: 
+#, fuzzy
+msgid "To finish off, is there anything you would like to tell us? or anything that is important for us to know about you? or is there anything you want to ask us, or share with us?"
+msgstr "לסיום, האם יש משהו שהיית רוצה לספר לנו? או כל דבר שחשוב לנו לדעת עליך? או האם יש משהו שאתה רוצה לשאול אותנו, או לשתף אותנו?"
+
+#: 
+msgid "Architecture"
+msgstr "אדריכלות"
+
+#: 
+msgid "Computers"
+msgstr "מחשבים"
+
+#: 
+msgid "Craftsmanship"
+msgstr "אומנות"
+
+#: 
+#, fuzzy
+msgid "design"
+msgstr "עיצוב"
+
+#: 
+msgid "Diet"
+msgstr "תזונה"
+
+#: 
+msgid "Economy"
+msgstr "כלכלה"
+
+#: 
+msgid "education"
+msgstr "חינוך"
+
+#: 
+msgid "Engineering"
+msgstr "הנדסה"
+
+#: 
+msgid "Gaming"
+msgstr "הימורים"
+
+#: 
+msgid "Graphics"
+msgstr "גרפיקה"
+
+#: 
+msgid "history"
+msgstr "היסטוריה"
+
+#: 
+msgid "Laws"
+msgstr "חוקים"
+
+#: 
+msgid "Math"
+msgstr "מתמטיקה"
+
+#: 
+#, fuzzy
+msgid "medicine"
+msgstr "רפואה"
+
+#: 
+#, fuzzy
+msgid "music"
+msgstr "מוזיקה"
+
+#: 
+msgid "Politics"
+msgstr "פוליטיקה"
+
+#: 
+msgid "Sciences"
+msgstr "מדעים"
+
+#: 
+msgid "Social services"
+msgstr "שירותים חברתיים"
+
+#: 
+msgid "Technicians"
+msgstr "טכנאות"
+
+#: 
+msgid "You are transferred to a sales center"
+msgstr "הנך מועבר למוקד מכירות"
+
+#: 
+msgid "Please wait while we connect you"
+msgstr "אנא המתן בעת שאנחנו מחברים אותך"
+
+#: 
+msgid "to an English speaking sales representative"
+msgstr "אל נציג מכירות דובר עברית"
+
+#: 
+#, fuzzy
+msgid "Calling..."
+msgstr "מתקשר..."
+
+#: 
+#, fuzzy
+msgid "Hangup"
+msgstr "נתק"
+
+#: 
+#, fuzzy
+msgid "This free call is made using revolutionary technology."
+msgstr "שיחה חינמית זו מבוצעת באמצעות טכנולוגיה מהפכנית."
+
+#: 
+#, fuzzy
+msgid "This is a concrete example of how you as a viatelcustomer can communicate with customers from all over the world,"
+msgstr "זאת דוגמא מוחשית לאופן בו תוכל כלקוח Phone.do לתקשר עם לקוחות מכל העולם,"
+
+#: 
+#, fuzzy
+msgid "including website, posts, articles, applications, print publications in the newspaper and street ads"
+msgstr "כולל מאתרים, פוסטים, כתבות, אפליקציות, פרסומים מודפסים בעיתון ובמודעות רחוב."
+
+#: 
+#, fuzzy
+msgid "in any language, field, purpose and task."
+msgstr "בכל שפה, תחום, מטרה ומשימה."
+
+#: 
+msgid " Call "
+msgstr "חייג"
+
