@@ -1,0 +1,94 @@
+.itemImg{
+    position: relative;
+    width: 100% !important;
+    height: auto !important;
+}
+.itemName{
+    color: #121314;
+    font-family: "MangoSans",sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: .3px;
+    line-height: 20px;
+}
+.itemPrice{
+    color: #121314;
+    font-family: "MangoSans",sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: .3px;
+    line-height: 20px;
+}
+.item{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    padding: 5%;
+}
+.details{
+    /* background-color: brown; */
+}
+.ImgDetails{
+    position: relative;
+    width: 35% !important;
+    height: auto !important;
+}
+.nameDetails{
+    display: block;
+    color: #121314;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.3px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-weight: 400;
+    font-family: "MangoSans",sans-serif;
+}
+.priceDetails{
+    float: left;
+    width: 40%;
+    color: #121314;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "MangoSans",sans-serif;
+    line-height: 28px;
+    letter-spacing: 0.3px;
+    text-align: right;
+}
+.addBtn{
+    background-color: black;
+    color: white;
+    height: 42px;
+    width: 100%;
+    font-family: "mango-regular",Arial;
+    line-height: 42px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    outline: none;
+    height: 42px;
+    width: 100%;
+    font-family: "mango-regular",Arial;
+    line-height: 42px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    outline: none;
+    color: #fff;
+    font-size: 14px;
+    background-color: #000;
+    border: 0;
+    color: #fff;
+    font-weight: 400;
+    font-size: 13px;
+    font-family: "MangoSans",sans-serif;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    
+}
+.prudacrtDetails{
+    padding: 7%;
+}
