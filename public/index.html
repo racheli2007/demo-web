@@ -27,44 +27,8 @@
     <title>React App</title>
   </head>
   <body>
-    <!-- <script src="./sip.js"></script> -->
-    <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
-    <script>
-    localStorage.setItem("numberOfCall",0)
-    var socket = io('https://cc1.fra1.omega-telecom.net:5999' , {transports: ['websocket', 'polling'], secure: true, query : {token : "NEED TO PUT TOKEN HERE"}});
-    socket.emit("setCrmListener", {name : "crm", number : localStorage.getItem('extension')})
-    socket.on('newEvent', function (msg) {
-      if (msg.event === "incoming")
-    {  
-      if(localStorage.getItem("numberOfCall")==='0')
-     { ;
-      //יצירת חדר ועידה
-      localStorage.setItem("createConferences",)
-      //להפנות את השיחה לחדר הועידה
-      
-      localStorage.setItem("numberOfCall",parseInt(localStorage.getItem("numberOfCall"))+1)
-//ליצור שיחה חדשה מהדפדפן
-    }
-    else{
-      alert("incomingCall now from:" + msg.caller_id)
-      //להפנות את השיחה לחדר הועידה
-      //למחוק את כל localstorge
-    }
-
-   
-    }
-    else
-      if (msg.event === "hangup")
-      {
-        isFirstCall=false
-        alert('hangup')
-      }
-    });
-    </script>
-    <div id="root">
-
-    </div>
-
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
@@ -75,8 +39,5 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
-    <!-- <script type="text/javascript" id="hs-script-loader" async defer src="https://js-eu1.hs-scripts.com/25369602.js"></script> -->
-    <iframe style="position: relative;right: 0;bottom: 0;z-index: 500;" src="/api/webrtc/icon/42a0aacc-e2fc-45ea-b52b-b7b698cee719"></iframe>
-
   </body>
 </html>
