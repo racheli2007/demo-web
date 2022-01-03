@@ -13,6 +13,6 @@ export const Item = (props: { image: string;image1:string; name: string,price:st
         <div className='item d-flex flex-column' onClick={handleClick}>
             <img className='itemImg' alt={props.name}  onClick={handleClick}src={src} />
             <span onClick={handleClick} className='itemName'>{props.name}</span>
-            <span onClick={handleClick}  className='itemPrice'>{props.price}</span>
+            <span onClick={handleClick}  className='itemPrice'>US${props.price}</span>
         </div>)
 }

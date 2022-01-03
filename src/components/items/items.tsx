@@ -1,7 +1,6 @@
 // import './subjects.module.css';
-import { useHistory, useLocation } from "react-router-dom";
+import {  useLocation } from "react-router-dom";
 import { Item } from './item';
-import { type } from 'os';
 
 import boys1 from "../../assets/images/boys1.png"
 import boys2 from "../../assets/images/boys2.png"
@@ -64,13 +63,9 @@ var newborn:ItemType[]=[
 ]
 
 export const Items = (props: { src: string; name: string }) => {
-    const history = useHistory();
     const location = useLocation();
-    var products=location.pathname=='/girls'?girls:location.pathname=='/newborn'?newborn:location.pathname=='/babyGirls'?babygirls:location.pathname=='/babyBoys'?babyBoys:location.pathname=='/boys'?boys:boys;
-    var src: string = props.src;
-    function handleClick() {
-        history.push("/" + props.name, products);
-    }
+    var products=location.pathname==='/girls'?girls:location.pathname==='/newborn'?newborn:location.pathname==='/babyGirls'?babygirls:location.pathname==='/babyBoys'?babyBoys:location.pathname==='/boys'?boys:boys;
+
     return (
         <div>
             <div className="d-flex align-items-end" >
